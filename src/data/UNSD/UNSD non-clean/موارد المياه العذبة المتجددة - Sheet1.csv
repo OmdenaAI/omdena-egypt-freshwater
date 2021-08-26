@@ -1,0 +1,11 @@
+ID,Category,Unit,Long term annual average,1990,1995,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+1,Precipitation                              ,mio m3/y,,,,,,,1300,1300,1300,1300,1300,,,,,,,,1300,,,,
+2,Actual evapotranspiration,mio m3/y,,,,,,,2100,,,,,,,,,,,,,,,,
+3,Internal flow (=1-2),mio m3/y,,,,,,,1300,1300,1300,1300,1300,1300,1300,,,,,,1300,,,,
+4,Inflow of surface and groundwaters from neighbouring countries,mio m3/y,,54733,55671,,,,58232,44709,53692,68204,83501,75929,55130,42122,63289,50085,,,55500,,,,
+5,Renewable freshwater resources (=3+4),mio m3/y,,,,,,,59532,46009,54992,69504,84801,77229,56800,43422,64589,51385,,,56800,,,,
+6,Outflow of surface and groundwaters to neighbouring countries (=7+8),mio m3/y,,,,,,,200,,,,,,,,,,,,0,,,,
+7,"Of which:
+       Secured by treaties",mio m3/y,,,,,,,,,,,,,,,,,,,0,,,,
+8,    Not secured by treaties,mio m3/y,,,,,,,,,,,,,,,,,,,0,,,,
+9,Outflow of surface and groundwaters to the sea,mio m3/y,,,,,,,0,,,,,,,,,,,,14.43000031,,,,
