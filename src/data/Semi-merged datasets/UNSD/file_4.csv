@@ -1,0 +1,25 @@
+index,Year,1 Precipitation                              mio m3/y,2 Actual evapotranspirationmio m3/y,3 Internal flow (=1-2)mio m3/y,4 Inflow of surface and groundwaters from neighbouring countriesmio m3/y,5 Renewable freshwater resources (=3+4)mio m3/y,6 Outflow of surface and groundwaters to neighbouring countries (=7+8)mio m3/y,"7 Of which:
+       Secured by treatiesmio m3/y",8     Not secured by treatiesmio m3/y,9 Outflow of surface and groundwaters to the seamio m3/y
+0,1990,,,,54733.0,,,,,
+1,1995,,,,55671.0,,,,,
+2,2000,,,,,,,,,
+3,2001,,,,,,,,,
+4,2002,,,,,,,,,
+5,2003,1300.0,2100.0,1300.0,58232.0,59532.0,200.0,,,0.0
+6,2004,1300.0,,1300.0,44709.0,46009.0,,,,
+7,2005,1300.0,,1300.0,53692.0,54992.0,,,,
+8,2006,1300.0,,1300.0,68204.0,69504.0,,,,
+9,2007,1300.0,,1300.0,83501.0,84801.0,,,,
+10,2008,,,1300.0,75929.0,77229.0,,,,
+11,2009,,,1300.0,55130.0,56800.0,,,,
+12,2010,,,,42122.0,43422.0,,,,
+13,2011,,,,63289.0,64589.0,,,,
+14,2012,,,,50085.0,51385.0,,,,
+15,2013,,,,,,,,,
+16,2014,,,,,,,,,
+17,2015,1300.0,,1300.0,55500.0,56800.0,0.0,0.0,0.0,14.43000031
+18,2016,,,,,,,,,
+19,2017,,,,,,,,,
+20,2018,,,,,,,,,
+21,2019,,,,,,,,,
+22,Long term annual average,,,,,,,,,
