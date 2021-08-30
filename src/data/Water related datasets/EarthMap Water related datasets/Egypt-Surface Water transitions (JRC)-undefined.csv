@@ -1,0 +1,11 @@
+"area_ha","area_percentage","area_sqm","class_name","class_number","class_palette","index"
+466168.75,0.48,4661687512.656921,"Permanent",1,"0000ff",0
+203215.03,0.21,2032150259.7087345,"New permanent",2,"22b14c",1
+11512.94,0.01,115129396.31640625,"Lost permanent",3,"d1102d",2
+70882.18,0.07,708821762.6692505,"Seasonal",4,"99d9ea",3
+243904.78,0.25,2439047804.5861673,"New seasonal",5,"b5e61d",4
+53723.24,0.06,537232436.8156738,"Lost seasonal",6,"e6a1aa",5
+49607.25,0.05,496072506.33413947,"Seasonal to permanent",7,"ff7f27",6
+22317.38,0.02,223173842.00494385,"Permanent to seasonal",8,"ffc90e",7
+97808.77,0.1,978087689.3585815,"Ephemeral permanent",9,"7f7f7f",8
+89507.9,0.09,895079036.3477783,"Ephemeral seasonal",10,"c3c3c3",9
