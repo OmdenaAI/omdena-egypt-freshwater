@@ -1,0 +1,16 @@
+,index,Country,Name of dam,Alternate dam name,ISO alpha- 3,"Administrative
+Unit",Nearest city,River,Major basin,Sub-basin,Completed /operational since,Dam height (m),Reservoir capacity (million m3),Reservoir area (km2),"Sedimen-tation 
+(latest known) 
+(%) ",Irrigation ,Water supply,Flood control,Hydroelectricity (MW),Navigation,Recreation,Pollution control,Livestock rearing,Other,Decimal degree latitude,Decimal degree longitude,National reference(s),Other reference(s),Comments
+0,374,Egypt,Rosetta,Delta barrages,EGY,,,Nile,,,1840,,,,,,,,,,,,,,,,,,
+1,375,Egypt,Damietta Barrage Hpp,Delta barrages,EGY,,,Nile,,,1840,,,,,,,,x,,,,,,31.413273,31.830957,,66,
+2,376,Egypt,Assiut barrage,Asyut,EGY,Asyiut,Assiut,Nile,Nile Basin,Nile,1902,16.0,,,,x,,,,x,,,,,27.202777777777776,31.191666666666666,,,
+3,377,Egypt,Esna barrage,,EGY,Qina,Esna,Nile,Nile Basin,Nile,1908,16.0,,,,x,,,,x,,,,,25.3175,32.55722222222222,,,
+4,378,Egypt,Nag-Hamady barrage,Naga Hammadi,EGY,Qina,Nag-Hamady,Nile,Nile Basin,Nile,1930,16.0,,,,x,,,,x,,,,,26.13611111111111,32.169444444444444,,,
+5,379,Egypt,Old Aswan dam,Old Aswan Hpp,EGY,Aswan,Aswan,Nile,Nile Basin,Nile,1933,53.0,5000.0,450.0,,x,,,x,,,,,,24.033055555555556,32.86611111111111,,,"Initially capacity of 1000 millions m3, but height increased in 1934 to reach 5000 millions m3"
+9,383,Egypt,Farascour,,EGY,,,Nile,,,,,,,,,,,,,,,,,,,,,
+10,384,Egypt,Edfina,,EGY,,,Nile,,,,,,,,,,,,,,,,,,,,,
+11,385,Egypt,Zifta,,EGY,,,Nile,,,,,,,,,,,,,,,,,,,,,
+14,388,Egypt,High Aswan dam,,EGY,Aswan,Aswan,Nile,Nile Basin,Nile,1970,111.0,162000.0,6500.0,,x,,x,x,,,,,,23.97111111111111,32.87916666666667,,,"Design capacity 162 km3, so far hasn't attained more than 115 km3."
+15,389,Egypt,New Esna,Alrkama,EGY,,,Nile,,,1994,22.5,,,,,,,x,,,,,,25.3175,32.55722222222222,,66,
+16,390,Egypt,Naga Hamadi,,EGY,,,Nile,,,Incomplete,,,,,,,,x,,,,,,26.13611111111111,32.169444444444444,,66,
