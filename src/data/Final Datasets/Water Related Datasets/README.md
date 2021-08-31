@@ -35,7 +35,8 @@
 	- WaPOR Reference Evapotranspiration-Annual mm: Reference EvapoTranspiration (RET) is defined as the evapotranspiration from a hypothetical reference crop and it simulates the behaviour of a well-watered grass surface. The value of each pixel represents the average of the daily reference evapotranspiration for that specific dekad.
 - merged_UNSD_: (formatted by year) contains data extracted from UNSD as Population using water, water extractor, water extraction, water usage and water reneable resource.
 - Population supplied by water supply industry Cleaned: (formatted by year) source UNSD, contains potion on population using water, not finished.
-- Fresh water renewable resource Cleaned: (formatted by year) source UNSD
+- Fresh water renewable resource detailed Cleaned: (formatted by year) source UNSD
 - Water Extractors_cleaned: (formatted by year) source UNSD
 - Water Usage_cleaned: (formatted by year) source UNSD
 - Water Extraction_cleaned: (formatted by year) source UNSD
+- Fresh water renewable resource : (formatted by year) source WDI, contain total amout of extracted Fresh water renewable resource per year
