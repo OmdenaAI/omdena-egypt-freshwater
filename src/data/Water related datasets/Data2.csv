@@ -1,0 +1,304 @@
+"Indicator name: Ramsar sites, hectares  Data Source: MEA Secretariat(http://www.informea.org/en), Ramsar Convention(https://rsis.ramsar.org/)",,,
+Description: Ramasar sites that have been officially designated and communicated with the Ramsar Secretariat.,,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Ramsar sites, hectares (Hectares)",Egypt,1988,105700
+"Ramsar sites, hectares (Hectares)",Egypt,2012,309832
+"Indicator name: DALYs attributable to the environment (Total)  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The burden of disease attributable to the environment can be expressed as :
+Number of deaths, Death rate, Number of DALYs, DALYs rate, Percentage of total deaths attributable to the environment, Percentage of total DALYs attributable to the environment Disability -Adusted Life Years (or DALYs)  are a summary measure of population health that combine (i) the years of life lost as a result of premature death and (ii) the years lived  with a disease. Death and DALY rates are calculated by dividing the number of deaths, resp. DALYs, by the total population (or indicated if not, e.g. if a specific population group such as children under 5 years, is used).
+The percentages of deaths, resp. DALYs, attributable to the environment are obtained by dividing the number of attributable deaths, resp. DALYs, by the total number of deaths, resp. DALYs- As for the defnition of the modifiable environment, it inlcudes: Ã¢â‚¬Â¢ Air, soil & water pollution with chemicals or biological agents Ã¢â‚¬Â¢ Ultraviolet and ionizing radiation Ã¢â‚¬Â¢ Built environment Ã¢â‚¬Â¢ Noise, electromagnetic fields Ã¢â‚¬Â¢ Occupational risks Ã¢â‚¬Â¢ Agricultural methods, irrigation schemes Ã¢â‚¬Â¢ Anthropogenic climate changes, ecosystem degradation Ã¢â‚¬Â¢ Individual behaviors related to the environment,  such as hand-washing, food contamination with  unsafe water or dirty hands.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+DALYs attributable to the environment (Total) (Number of disability-adjusted life years (DALYs)),Egypt,2012,4461896
+"Indicator name: Deaths attributable to the environment (Total)  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The number of deaths attributable to the environment. It represents burden of disease that could be avoided by modifying the environment. Modifiable environment includes: - Air, soil and water pollution with chemicals or biological agents - Ultraviolet and ionizing radiation - Built environment - Noise, electromagnetic fields - Occupational risks - Agricultural methods, irrigation schemes - Anthropogenic climate changes, ecosystem degradation - Individual behaviors related to the environment; such as hand-washing, food contamination with unsafe water or dirty hands.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Deaths attributable to the environment (Total) (Number of deaths),Egypt,2012,101806
+"Indicator name: Ramsar sites, number  Data Source: MEA Secretariat(http://www.informea.org/en), Ramsar Convention(https://rsis.ramsar.org/)",,,
+Description: Ramasar sites that have been officially designated and communicated with the Ramsar Secretariat.,,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Ramsar sites, number (Number)",Egypt,1988,2
+"Ramsar sites, number (Number)",Egypt,2012,2
+"Indicator name: Deaths attributable to the environment, Total (%)  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The percentage of total deaths that are attributable to the environment. It represents burden of disease that could be avoided by modifying the environment. Modifiable environment includes: - Air, soil and water pollution with chemicals or biological agents - Ultraviolet and ionizing radiation - Built environment - Noise, electromagnetic fields - Occupational risks - Agricultural methods, irrigation schemes - Anthropogenic climate changes, ecosystem degradation - Individual behaviors related to the environment; such as hand-washing, food contamination with unsafe water or dirty hands.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Deaths attributable to the environment, Total (%) (% of population)",Egypt,2012,19
+"Indicator name: Water, sanitation and hygiene attributable deaths in children under 5 years (Thousand)  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The burden of disease attributable to water, sanitation and hygiene can be expressed as :
+Number of deaths Death rate Number of DALYs DALYs rate Disability -Adusted Life Years (or DALYs) are a summary measure of population health that combine (i) the years of life lost as a result of premature death and (ii) the years lived  with a disease.
+Death and DALY rates are calculated by dividing the number of deaths, resp. DALYs, by the total population (or indicated if a different population group is used, e.g. children under 5 years).
+Evidence from epidemiological studies have shown that exposure to unsafe water, sanitation and hygiene habits is, among others, directly linked to diarrhoeal diseases. In this estimate, onlt the impact of diarrhoeal diseases is taken into account.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Water, sanitation and hygiene attributable deaths in children under 5 years (Thousand) (Thousand deaths)",Egypt,2004,7727
+"Indicator name: Water, sanitation and hygiene attributable deaths per 100,000 children under 5 years  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The burden of disease attributable to water, sanitation and hygiene can be expressed as :
+Number of deaths Death rate Number of DALYs DALYs rate Disability -Adusted Life Years (or DALYs) are a summary measure of population health that combine (i) the years of life lost as a result of premature death and (ii) the years lived  with a disease.
+Death and DALY rates are calculated by dividing the number of deaths, resp. DALYs, by the total population (or indicated if a different population group is used, e.g. children under 5 years).
+Evidence from epidemiological studies have shown that exposure to unsafe water, sanitation and hygiene habits is, among others, directly linked to diarrhoeal diseases. In this estimate, onlt the impact of diarrhoeal diseases is taken into account.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Water, sanitation and hygiene attributable deaths per 100,000 children under 5 years (Deaths per 100,000 children under 5 years)",Egypt,2004,86
+"Indicator name: Water, sanitation and hygiene attributable deaths, both sexes  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The burden of disease attributable to water, sanitation and hygiene can be expressed as :
+Number of deaths Death rate Number of DALYs DALYs rate Disability -Adusted Life Years (or DALYs) are a summary measure of population health that combine (i) the years of life lost as a result of premature death and (ii) the years lived  with a disease.
+Death and DALY rates are calculated by dividing the number of deaths, resp. DALYs, by the total population (or indicated if a different population group is used, e.g. children under 5 years).
+Evidence from epidemiological studies have shown that exposure to unsafe water, sanitation and hygiene habits is, among others, directly linked to diarrhoeal diseases. In this estimate, onlt the impact of diarrhoeal diseases is taken into account.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Water, sanitation and hygiene attributable deaths, both sexes (Number of deaths)",Egypt,2016,1916
+"Indicator name: Disability-adjusted life years (DALYs) attributable to the environment, Total (%)  Data Source: WHO(http://www.who.int/), Global Health Observatory (GHO) database(http://www.who.int/gho/en/)",,,
+"Description: The percentage of total DALYs that are attributable to the environment. It represents burden of disease that could be avoided by modifying the environment. Modifiable environment includes: - Air, soil and water pollution with chemicals or biological agents - Ultraviolet and ionizing radiation - Built environment - Noise, electromagnetic fields - Occupational risks - Agricultural methods, irrigation schemes - Anthropogenic climate changes, ecosystem degradation - Individual behaviors related to the environment; such as hand-washing, food contamination with unsafe water or dirty hands.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Disability-adjusted life years (DALYs) attributable to the environment, Total (%) (% of total DALYs)",Egypt,2012,18
+"Indicator name: Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1)  Data Source: OECD(http://www.oecd.org/), Creditor Reporting System (https://stats.oecd.org/index.aspx?DataSetCode=CRS1)",,,
+Description: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan is defined as the proportion of total water and sanitation-related Official Development Assistance (ODA) disbursements that are included in the government budget.,,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2000,108.33
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2001,171.83
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2002,173.57
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2003,117.81
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2004,305.96
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2005,130.28
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2006,126.04
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2007,118.09
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2008,144.87
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2009,191.84
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2010,131.9
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2011,123.12
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2012,121.2
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2013,105.93
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2014,132.09
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2015,217.83
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2016,260.11
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2017,152.97
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2018,354.98
+"Investment in water and sanitation, millions of constant 2018 USD (SDG 6.a.1) (millions of constant 2018 US dollars)",Egypt,2019,350.22
+"Indicator name: Countries participating in planning programs in rural drinking-water supply (3 = High; 2 = Moderate; 1 = Low; 0 = NA)  Data Source: WHO(http://www.who.int/), UN-Global Analysis and Assessment of Sanitation and Drinking-water (GLAAS) (https://www.who.int/water_sanitation_health/monitoring/investments/glaas-2018-2019-cycle/en/)",,,
+"Description: The indicator assesses the percentage of local administrative units (as defined by the national government) that have an established and operational mechanism by which individuals and communities can meaningfully contribute to decisions and directions about water and sanitation management. The indicator Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management is currently being measured by the Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water and sanitation management, and hygiene promotion and the Proportion of countries with high level of users/communities participating in planning programs in water and sanitation management, and hygiene promotion.
+",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Countries participating in planning programs in rural drinking-water supply (3 = High; 2 = Moderate; 1 = Low; 0 = NA) (Number),Egypt,2012,0
+"Indicator name: Countries with planning rural drinking-water (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)  Data Source: WHO(http://www.who.int/), UN-Global Analysis and Assessment of Sanitation and Drinking-water (GLAAS) (https://www.who.int/water_sanitation_health/monitoring/investments/glaas-2018-2019-cycle/en/)",,,
+"Description: The indicator assesses the percentage of local administrative units (as defined by the national government) that have an established and operational mechanism by which individuals and communities can meaningfully contribute to decisions and directions about water and sanitation management. The indicator Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management is currently being measured by the Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water and sanitation management, and hygiene promotion and the Proportion of countries with high level of users/communities participating in planning programs in water and sanitation management, and hygiene promotion.
+",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Countries with planning rural drinking-water (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) (Number),Egypt,2012,10
+"Indicator name: Proportion of safely treated domestic wastewater flows, % (SDG 6.3.1)   Data Source: UNSD(http://unstats.un.org/), SDG Indicators Global database(https://unstats.un.org/sdgs/indicators/database/)",,,
+"Description: Proportion of wastewater generated by households and by economic activities which is safely treated based on treatment ladders as defined by the SEEA: (http://unstats.un.org/unsd/envaccounting/water.asp, and International Recommendations for Water Statistics  and IRWS: http://unstats.un.org/unsd/envaccounting/irws/irwswebversion.pdf) compared to total wastewater generated by households and economic activities. ",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Proportion of safely treated domestic wastewater flows, % (SDG 6.3.1)  (Percentage)",Egypt,2020,45.55
+"Indicator name: Proportion of total wastewater treated, All areas (%)  Data Source: UNSD(http://unstats.un.org/), SDG Indicators Global database(https://unstats.un.org/sdgs/indicators/database/)",,,
+"Description: Proportion of wastewater generated by households and by economic activities which is safely treated based on treatment ladders as defined by the SEEA: (http://unstats.un.org/unsd/envaccounting/water.asp, and International Recommendations for Water Statistics  and IRWS: http://unstats.un.org/unsd/envaccounting/irws/irwswebversion.pdf) compared to total wastewater generated by households and economic activities. ",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Proportion of total wastewater treated, All areas (%) (Percentage)",Egypt,2015,32.12
+"Indicator name: Total wastewater treated, All areas (million m3/year)  Data Source: UNSD(http://unstats.un.org/), SDG Indicators Global database(https://unstats.un.org/sdgs/indicators/database/)",,,
+"Description: Proportion of wastewater generated by households and by economic activities which is safely treated based on treatment ladders as defined by the SEEA: (http://unstats.un.org/unsd/envaccounting/water.asp, and International Recommendations for Water Statistics  and IRWS: http://unstats.un.org/unsd/envaccounting/irws/irwswebversion.pdf) compared to total wastewater generated by households and economic activities. ",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Total wastewater treated, All areas (million m3/year) (million meters cubed per annum)",Egypt,2015,3821.55
+"Indicator name: Total wastewater generated, All areas (million m3/year)  Data Source: UNSD(http://unstats.un.org/), SDG Indicators Global database(https://unstats.un.org/sdgs/indicators/database/)",,,
+"Description: Proportion of wastewater generated by households and by economic activities which is safely treated based on treatment ladders as defined by the SEEA: (http://unstats.un.org/unsd/envaccounting/water.asp, and International Recommendations for Water Statistics  and IRWS: http://unstats.un.org/unsd/envaccounting/irws/irwswebversion.pdf) compared to total wastewater generated by households and economic activities. ",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Total wastewater generated, All areas (million m3/year) (million meters cubed per annum)",Egypt,2015,11899
+"Indicator name: Level of water stress, % (SDG 6.4.2)  Data Source: FAO (http://www.fao.org/), AQUASTAT Information System on Water and Agriculture(http://www.fao.org/nr/water/aquastat/main/index.stm)",,,
+"Description: The level of water stress: freshwater withdrawal as a proportion of available freshwater resources is the ratio between total freshwater withdrawn by all major sectors and total renewable freshwater resources, after taking into account environmental water requirements. Main sectors, as defined by ISIC standards, include agriculture; forestry and fishing; manufacturing; electricity industry; and services. This indicator is also known as water withdrawal intensity.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2000,103.9
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2001,105.6
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2002,107.2
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2003,108.9
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2004,110.6
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2005,112.3
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2006,114
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2007,115.6
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2008,117.3
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2009,119
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2010,120.7
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2011,122.4
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2012,124
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2013,122.7
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2014,121.3
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2015,110.56
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2016,110.11
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2017,116.94
+"Level of water stress, % (SDG 6.4.2) (Percentage)",Egypt,2018,116.94
+"Indicator name: Produced municipal wastewater  Data Source: FAO (http://www.fao.org/), AQUASTAT Information System on Water and Agriculture(http://www.fao.org/nr/water/aquastat/main/index.stm)",,,
+"Description: Annual volume of domestic, commercial and industrial effluents, and storm water runoff, generated within urban areas.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Produced municipal wastewater (Billion m3 per annum),Egypt,1997,3.6
+Produced municipal wastewater (Billion m3 per annum),Egypt,2002,3.76
+Produced municipal wastewater (Billion m3 per annum),Egypt,2012,7.08
+"Indicator name: Treated municipal wastewater  Data Source: FAO (http://www.fao.org/), AQUASTAT Information System on Water and Agriculture(http://www.fao.org/nr/water/aquastat/main/index.stm)",,,
+"Description: Treated wastewater (primary, secondary and tertiary) annually produced by municipal wastewater treatment facilities in the country. Primary treatment processes can include: sedimentation tank, septic tank, skimming, chemical enhanced primary treatment. Secondary treatment makes use of natural bio-chemical processes to treat wastewater and can include: waste stabilization pond, constructed wetlands, overland treatment, nutrient film techniques, soil aquifer treatment, high-rate algal pond, floating aquatic macrophyte systems. Tertiary treatment process can include: membrane filtration (micro-; nano-; ultra- and reverse osmosis), infiltration / percolation, activated carbon, disinfection (chlorination, ozone, UV)",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Treated municipal wastewater (Billion m3 per annum),Egypt,1992,0.65
+Treated municipal wastewater (Billion m3 per annum),Egypt,1997,0.7
+Treated municipal wastewater (Billion m3 per annum),Egypt,2002,1.9
+Treated municipal wastewater (Billion m3 per annum),Egypt,2012,4.01
+Treated municipal wastewater (Billion m3 per annum),Egypt,2017,4.28
+"Indicator name: Renewable water, total  Data Source: FAO (http://www.fao.org/), AQUASTAT Information System on Water and Agriculture(http://www.fao.org/nr/water/aquastat/main/index.stm)",,,
+"Description: The sum of internal renewable water resources and natural incoming flow originating outside the country, taking into consideration the quantity of flows reserved to upstream and downstream countries through formal or informal agreements or treaties. That sum gives the maximum theoretical amount of water available in the country. Expressed in billion cubic meter per annum.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Renewable water, total (Billion m3 per annum)",Egypt,1962,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1967,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1972,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1977,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1982,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1987,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1992,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,1997,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,2002,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,2007,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,2012,57.5
+"Renewable water, total (Billion m3 per annum)",Egypt,2017,57.5
+"Indicator name: Renewable water, internal  Data Source: FAO (http://www.fao.org/), AQUASTAT Information System on Water and Agriculture(http://www.fao.org/nr/water/aquastat/main/index.stm)",,,
+Description: Long-term annual average flow of rivers and recharge of groundwater generated from endogenous precipitation. Expressed in billion cubic meter per annum.,,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Renewable water, internal (Billion m3 per annum)",Egypt,1962,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1967,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1972,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1977,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1982,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1987,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1992,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,1997,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,2002,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,2007,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,2012,1.8
+"Renewable water, internal (Billion m3 per annum)",Egypt,2014,1.8
+"Indicator name: Degree of integrated water resources management implementation (0-100) (SDG 6.5.1)  Data Source: UNEP(http://unep.org/), IWRM Data Portal, UNEP(http://iwrmdataportal.unepdhi.org/)",,,
+"Description: The indicator degree of implementation of Integrated Water Resources Management (IWRM), measured in per cent (%) from 0 (implementation not yet started) to 100 (fully implemented) is currently being measured in terms of different stages of development and implementation of Integrated Water Resources Management (IWRM).
+The definition of IWRM is based on an internationally agreed definition, and is universally applicable. IWRM was officially established in 1992 and is defined as Ã¢â‚¬Å“a process which promotes the coordinated development and management of water, land and related resources in order to maximise economic and social welfare in an equitable manner without compromising the sustainability of vital ecosystems.Ã¢â‚¬Â
+(GWP 2010). The method builds on official UN IWRM status reporting, from 2008 and 2012, of the Johannesburg Plan of Implementation from the UN World Summit for Sustainable Development (1992).
+
+Metadata: https://environmentlive.unep.org/media/docs/projects/metadata_06_05_01.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-01.pdf",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Degree of integrated water resources management implementation (0-100) (SDG 6.5.1) (Percentage),Egypt,2017,40.34
+Degree of integrated water resources management implementation (0-100) (SDG 6.5.1) (Percentage),Egypt,2020,42
+"Indicator name: Renewable water, total per capita  Data Source: FAO (http://www.fao.org/), AQUASTAT Information System on Water and Agriculture(http://www.fao.org/nr/water/aquastat/main/index.stm)",,,
+"Description: The sum of internal renewable water resources and natural incoming flow originating outside the country, taking into consideration the quantity of flows reserved to upstream and downstream countries through formal or informal agreements or treaties. That sum gives the maximum theoretical amount of water available in the country and it is divided by the total population to get the per capita figures. Expressed in cubic meter per capita per annum.",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1962,64.03
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1967,56.15
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1972,49.86
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1977,44.63
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1982,39.53
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1987,34.62
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1992,30.68
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,1997,27.74
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,2002,25.18
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,2007,23.01
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,2012,20.83
+"Renewable water, total per capita (M3 per capita per annum)",Egypt,2014,19.91
+"Indicator name: Lakes and Rivers permanent water area, km2  Data Source: Joint Research Centre of the European Commission and UN Environment(https://ec.europa.eu/info/departments/joint-research-centre_en), Global Surface Water Explorer extraction for UN Environment(https://global-surface-water.appspot.com/)",,,
+"Description: The surface area measurements reported here have been extracted from the Global Surface Water Explorer (GSWE). These figures may or may not match national figures on water body extent and have not been nationally validated. A permanent water surface is underwater throughout the year (whilst a seasonal water surface is underwater for less than 12 months of the year). This indicator only includes areas which have been identified as permanent. Additional details on the methodology is available here [hyperlink text in the word document]
+Metadata: https://environmentlive.unep.org/media/docs/projects/metadata_6_6_1.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01b.pdf",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1989,1269.75
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1990,914.95
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1991,1083.53
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1992,716.17
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1993,371.68
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1994,371.68
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1995,371.68
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1996,15.64
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1997,15.21
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1998,10.05
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,1999,383.88
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2000,863.33
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2001,1466.54
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2002,2153.83
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2003,2827.94
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2004,3110.65
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2005,3238.64
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2006,3212.54
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2007,3080.74
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2008,2925.87
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2009,2756.68
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2010,2661.93
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2011,2578.28
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2012,2482.55
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2013,2391.85
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2014,2334.27
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2015,2249.9
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2016,2178.51
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2017,2147.56
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2018,2142.41
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2019,2131.21
+"Lakes and Rivers permanent water area, km2 (Km2)",Egypt,2020,2134.39
+"Indicator name: Lakes and Rivers seasonal water area, km2  Data Source: Joint Research Centre of the European Commission and UN Environment(https://ec.europa.eu/info/departments/joint-research-centre_en), Global Surface Water Explorer extraction for UN Environment(https://global-surface-water.appspot.com/)",,,
+"Description: The surface area measurements reported here have been extracted from the Global Surface Water Explorer (GSWE). These figures may or may not match national figures on water body extent and have not been nationally validated. A permanent water surface is underwater throughout the year (whilst a seasonal water surface is underwater for less than 12 months of the year). This indicator includes areas which have been identified as permanent plus areas of uncertainty that have identified as likely being permanent. 
+Metadata: https://environmentlive.unep.org/media/docs/projects/metadata_6_6_1.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01b.pdf",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1989,978.6
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1990,729.54
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1991,783.36
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1992,532.56
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1993,132.32
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1994,132.32
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1995,132.32
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1996,4.03
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1997,3.8
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1998,1.36
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,1999,417.1
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2000,811.41
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2001,1191.61
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2002,1463.91
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2003,1819.59
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2004,1764.04
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2005,1687.27
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2006,1606.52
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2007,1631.86
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2008,1579.08
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2009,1572.24
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2010,1494.41
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2011,1414.93
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2012,1405.35
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2013,1469.19
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2014,1483.39
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2015,1611.29
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2016,1787.45
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2017,1913.93
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2018,1954.94
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2019,2004.53
+"Lakes and Rivers seasonal water area, km2 (Km2)",Egypt,2020,2178.43
+"Indicator name: Transboundary surface basins with cooperation, % (SDG 6.5.2)  Data Source: UNSD(http://unstats.un.org/), SDG Indicators Global database(https://unstats.un.org/sdgs/indicators/database/)",,,
+"Description: The proportion of transboundary basin area with an operational arrangement for water cooperation is defined as the proportion of transboundary basins area within a country with an operational arrangement for water cooperation. It is derived by adding up the surface area in a country of those transboundary surface water catchments and transboundary aquifers (i.e. Ã¢â‚¬ËœtransboundaryÃ¢â‚¬â„¢ basins) that are covered by an operational arrangement and dividing the obtained area by the aggregate total area in a country of all transboundary basins (both catchments and aquifers). The result is multiplied by 100 to obtain it expressed as percentage share.
+",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Transboundary surface basins with cooperation, % (SDG 6.5.2) (Percentage)",Egypt,2020,100
+"Indicator name: Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1)  Data Source: Joint Research Centre of the European Commission and UN Environment(https://ec.europa.eu/info/departments/joint-research-centre_en), Global Surface Water Explorer extraction for UN Environment(https://global-surface-water.appspot.com/)",,,
+"Description: The surface area measurements reported here have been extracted from the Global Surface Water Explorer (GSWE). These figures may or may not match national figures on water body extent and have not been nationally validated. A permanent water surface is underwater throughout the year (whilst a seasonal water surface is underwater for less than 12 months of the year). This indicator includes areas which have been identified as permanent plus areas of uncertainty that have identified as likely being permanent. % over the total land area
+Metadata: https://environmentlive.unep.org/media/docs/projects/metadata_6_6_1.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01b.pdf",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1989,0.56
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1990,0.63
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1991,0.66
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1992,0.72
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1993,0.79
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1994,0.79
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1995,0.79
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1996,0.81
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1997,0.81
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1998,0.82
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,1999,0.78
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2000,0.75
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2001,0.74
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2002,0.74
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2003,0.73
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2004,0.75
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2005,0.76
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2006,0.75
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2007,0.72
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2008,0.71
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2009,0.7
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2010,0.69
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2011,0.68
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2012,0.68
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2013,0.66
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2014,0.65
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2015,0.64
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2016,0.65
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2017,0.65
+"Water Body Extent (permanent and maybe permanent), % of Total land area (SDG 6.6.1) (% of land area)",Egypt,2018,0.65
+"Indicator name: Extent of inland wetlands (square kilometres)  Data Source: Joint Research Centre of the European Commission and UN Environment(https://ec.europa.eu/info/departments/joint-research-centre_en), Global Surface Water Explorer extraction for UN Environment(https://global-surface-water.appspot.com/)",,,
+"Description: The surface area measurements reported here have been extracted from the Global Surface Water Explorer (GSWE). These figures may or may not match national figures on water body extent and have not been nationally validated. A permanent water surface is underwater throughout the year (whilst a seasonal water surface is underwater for less than 12 months of the year). This indicator includes areas which have been identified as permanent plus areas of uncertainty that have identified as likely being permanent. 
+Metadata: https://environmentlive.unep.org/media/docs/projects/metadata_6_6_1.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf, https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01b.pdf",,,
+INDICATOR NAME (unit),COUNTRY NAME,YEAR,VALUE
+Extent of inland wetlands (square kilometres) (Km2),Egypt,2018,3834

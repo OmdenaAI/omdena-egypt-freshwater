@@ -1,0 +1,1072 @@
+ISO3,Country,Residence / Facility Type,Service Type,Year,Coverage,Population,Service level
+EGY,Egypt,total,Hygiene,2003,9.02225,6570553.16814,Basic service
+EGY,Egypt,hospital,Hygiene,2003,4.35185,3169282.80692,Basic service
+EGY,Egypt,non_hospital,Hygiene,2003,10.02305,7299396.81697,Basic service
+EGY,Egypt,government,Hygiene,2003,5.6369,4105134.65638,Basic service
+EGY,Egypt,non_government,Hygiene,2003,27.17925,19793588.87142,Basic service
+EGY,Egypt,total,Water,2003,77.36925,56345010.46902,Basic service
+EGY,Egypt,hospital,Water,2003,84.24605,61353115.98889,Basic service
+EGY,Egypt,non_hospital,Water,2003,76.07845,55404971.11859,Basic service
+EGY,Egypt,government,Water,2003,77.12365,56166149.5576,Basic service
+EGY,Egypt,non_government,Water,2003,78.783,57374589.51432,Basic service
+EGY,Egypt,total,Health care waste,2003,16.55193,12054122.1145,Basic service
+EGY,Egypt,hospital,Health care waste,2003,22.27958,16225346.46026,Basic service
+EGY,Egypt,non_hospital,Health care waste,2003,15.4008,11215802.62483,Basic service
+EGY,Egypt,total,Hygiene,2003,90.826,66145037.21904,Limited service
+EGY,Egypt,hospital,Hygiene,2003,95.64815,69656821.19308,Limited service
+EGY,Egypt,non_hospital,Hygiene,2003,89.80395,65400718.02311,Limited service
+EGY,Egypt,government,Hygiene,2003,94.1842,68590683.44357,Limited service
+EGY,Egypt,non_government,Hygiene,2003,72.82075,53032515.12858,Limited service
+EGY,Egypt,total,Water,2003,17.60375,12820125.2829,Limited service
+EGY,Egypt,hospital,Water,2003,15.75395,11472988.01111,Limited service
+EGY,Egypt,non_hospital,Water,2003,17.9988,13107824.80675,Limited service
+EGY,Egypt,government,Water,2003,16.97205,12360082.78393,Limited service
+EGY,Egypt,non_government,Water,2003,20.967,15269449.22568,Limited service
+EGY,Egypt,total,Health care waste,2003,83.44808,60771981.8855,Limited service
+EGY,Egypt,hospital,Health care waste,2003,77.72043,56600757.53974,Limited service
+EGY,Egypt,non_hospital,Health care waste,2003,84.5992,61610301.37517,Limited service
+EGY,Egypt,total,Environmental cleaning,2003,100,72826104,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2003,100,31267886,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2003,100,41558216,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2003,100,72826104,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2003,100,72826104,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2003,100,72826104,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2003,100,72826104,Insufficient data
+EGY,Egypt,total,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2003,100,31267886,Insufficient data
+EGY,Egypt,rural,Hygiene,2003,100,41558216,Insufficient data
+EGY,Egypt,hospital,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2003,91.21953,66431626.14481,Insufficient data
+EGY,Egypt,urban,Sanitation,2003,100,31267886,Insufficient data
+EGY,Egypt,rural,Sanitation,2003,100,41558216,Insufficient data
+EGY,Egypt,hospital,Sanitation,2003,94.59215,68887777.53484,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2003,90.51615,65919385.5358,Insufficient data
+EGY,Egypt,government,Sanitation,2003,89.90228,65472324.28987,Insufficient data
+EGY,Egypt,non_government,Sanitation,2003,98.3066,71592866.75486,Insufficient data
+EGY,Egypt,total,Water,2003,0,0,Insufficient data
+EGY,Egypt,urban,Water,2003,100,31267886,Insufficient data
+EGY,Egypt,rural,Water,2003,100,41558216,Insufficient data
+EGY,Egypt,hospital,Water,2003,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2003,0,0,Insufficient data
+EGY,Egypt,government,Water,2003,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2003,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2003,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2003,100,31267886,Insufficient data
+EGY,Egypt,rural,Health care waste,2003,100,41558216,Insufficient data
+EGY,Egypt,hospital,Health care waste,2003,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2003,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2003,100,72826104,Insufficient data
+EGY,Egypt,non_government,Health care waste,2003,100,72826104,Insufficient data
+EGY,Egypt,total,Hygiene,2003,0.15175,110513.61282,No service
+EGY,Egypt,hospital,Hygiene,2003,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2003,0.173,125989.15992,No service
+EGY,Egypt,government,Hygiene,2003,0.1789,130285.90006,No service
+EGY,Egypt,non_government,Hygiene,2003,0,0,No service
+EGY,Egypt,total,Sanitation,2003,8.78047,6394477.85519,No service
+EGY,Egypt,hospital,Sanitation,2003,5.40785,3938326.46516,No service
+EGY,Egypt,non_hospital,Sanitation,2003,9.48385,6906718.4642,No service
+EGY,Egypt,government,Sanitation,2003,10.09773,7353779.71013,No service
+EGY,Egypt,non_government,Sanitation,2003,1.6934,1233237.24514,No service
+EGY,Egypt,total,Water,2003,5.027,3660968.24808,No service
+EGY,Egypt,hospital,Water,2003,0,0,No service
+EGY,Egypt,non_hospital,Water,2003,5.92275,4313308.07466,No service
+EGY,Egypt,government,Water,2003,5.9043,4299871.65847,No service
+EGY,Egypt,non_government,Water,2003,0.25,182065.26,No service
+EGY,Egypt,total,Health care waste,2003,0,0,No service
+EGY,Egypt,hospital,Health care waste,2003,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2003,0,0,No service
+EGY,Egypt,government,Health care waste,2003,0,0,No service
+EGY,Egypt,non_government,Health care waste,2003,0,0,No service
+EGY,Egypt,total,Hygiene,2004,9.02225,6691989.76602,Basic service
+EGY,Egypt,hospital,Hygiene,2004,4.35185,3227857.31533,Basic service
+EGY,Egypt,non_hospital,Hygiene,2004,10.02305,7434303.8626,Basic service
+EGY,Egypt,government,Hygiene,2004,5.6369,4181005.52657,Basic service
+EGY,Egypt,non_government,Hygiene,2004,27.17925,20159412.87906,Basic service
+EGY,Egypt,total,Water,2004,77.36925,57386375.81586,Basic service
+EGY,Egypt,hospital,Water,2004,84.24605,62487040.86316,Basic service
+EGY,Egypt,non_hospital,Water,2004,76.07845,56428962.71048,Basic service
+EGY,Egypt,government,Water,2004,77.12365,57204209.20703,Basic service
+EGY,Egypt,non_government,Water,2004,78.783,58434983.48376,Basic service
+EGY,Egypt,total,Health care waste,2004,16.55193,12276905.72839,Basic service
+EGY,Egypt,hospital,Health care waste,2004,22.27958,16525222.41029,Basic service
+EGY,Egypt,non_hospital,Health care waste,2004,15.4008,11423092.46458,Basic service
+EGY,Egypt,total,Hygiene,2004,90.826,67367526.11472,Limited service
+EGY,Egypt,hospital,Hygiene,2004,95.64815,70944214.68467,Limited service
+EGY,Egypt,non_hospital,Hygiene,2004,89.80395,66609450.45284,Limited service
+EGY,Egypt,government,Hygiene,2004,94.1842,69858372.63662,Limited service
+EGY,Egypt,non_government,Hygiene,2004,72.82075,54012659.12094,Limited service
+EGY,Egypt,total,Water,2004,17.60375,13057066.1247,Limited service
+EGY,Egypt,hospital,Water,2004,15.75395,11685031.13684,Limited service
+EGY,Egypt,non_hospital,Water,2004,17.9988,13350082.89514,Limited service
+EGY,Egypt,government,Water,2004,16.97205,12588521.14588,Limited service
+EGY,Egypt,non_government,Water,2004,20.967,15551658.33624,Limited service
+EGY,Egypt,total,Health care waste,2004,83.44808,61895166.27161,Limited service
+EGY,Egypt,hospital,Health care waste,2004,77.72043,57646849.58971,Limited service
+EGY,Egypt,non_hospital,Health care waste,2004,84.5992,62748979.53542,Limited service
+EGY,Egypt,total,Environmental cleaning,2004,100,74172072,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2004,100,31879896,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2004,100,42292172,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2004,100,74172072,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2004,100,74172072,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2004,100,74172072,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2004,100,74172072,Insufficient data
+EGY,Egypt,total,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2004,100,31879896,Insufficient data
+EGY,Egypt,rural,Hygiene,2004,100,42292172,Insufficient data
+EGY,Egypt,hospital,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2004,91.21953,67659411.76106,Insufficient data
+EGY,Egypt,urban,Sanitation,2004,100,31879896,Insufficient data
+EGY,Egypt,rural,Sanitation,2004,100,42292172,Insufficient data
+EGY,Egypt,hospital,Sanitation,2004,94.59215,70160957.60435,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2004,90.51615,67137703.94963,Insufficient data
+EGY,Egypt,government,Sanitation,2004,89.90228,66682380.14264,Insufficient data
+EGY,Egypt,non_government,Sanitation,2004,98.3066,72916042.13275,Insufficient data
+EGY,Egypt,total,Water,2004,0,0,Insufficient data
+EGY,Egypt,urban,Water,2004,100,31879896,Insufficient data
+EGY,Egypt,rural,Water,2004,100,42292172,Insufficient data
+EGY,Egypt,hospital,Water,2004,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2004,0,0,Insufficient data
+EGY,Egypt,government,Water,2004,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2004,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2004,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2004,100,31879896,Insufficient data
+EGY,Egypt,rural,Health care waste,2004,100,42292172,Insufficient data
+EGY,Egypt,hospital,Health care waste,2004,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2004,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2004,100,74172072,Insufficient data
+EGY,Egypt,non_government,Health care waste,2004,100,74172072,Insufficient data
+EGY,Egypt,total,Hygiene,2004,0.15175,112556.11926,No service
+EGY,Egypt,hospital,Hygiene,2004,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2004,0.173,128317.68456,No service
+EGY,Egypt,government,Hygiene,2004,0.1789,132693.83681,No service
+EGY,Egypt,non_government,Hygiene,2004,0,0,No service
+EGY,Egypt,total,Sanitation,2004,8.78047,6512660.23894,No service
+EGY,Egypt,hospital,Sanitation,2004,5.40785,4011114.39565,No service
+EGY,Egypt,non_hospital,Sanitation,2004,9.48385,7034368.05037,No service
+EGY,Egypt,government,Sanitation,2004,10.09773,7489691.85736,No service
+EGY,Egypt,non_government,Sanitation,2004,1.6934,1256029.86725,No service
+EGY,Egypt,total,Water,2004,5.027,3728630.05944,No service
+EGY,Egypt,hospital,Water,2004,0,0,No service
+EGY,Egypt,non_hospital,Water,2004,5.92275,4393026.39438,No service
+EGY,Egypt,government,Water,2004,5.9043,4379341.6471,No service
+EGY,Egypt,non_government,Water,2004,0.25,185430.18,No service
+EGY,Egypt,total,Health care waste,2004,0,0,No service
+EGY,Egypt,hospital,Health care waste,2004,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2004,0,0,No service
+EGY,Egypt,government,Health care waste,2004,0,0,No service
+EGY,Egypt,non_government,Health care waste,2004,0,0,No service
+EGY,Egypt,total,Hygiene,2005,9.02225,6813925.83566,Basic service
+EGY,Egypt,hospital,Hygiene,2005,4.35185,3286672.74216,Basic service
+EGY,Egypt,non_hospital,Hygiene,2005,10.02305,7569765.78427,Basic service
+EGY,Egypt,government,Hygiene,2005,5.6369,4257188.45554,Basic service
+EGY,Egypt,non_government,Hygiene,2005,27.17925,20526741.52998,Basic service
+EGY,Egypt,total,Water,2005,77.36925,58432024.32438,Basic service
+EGY,Egypt,hospital,Water,2005,84.24605,63625629.59875,Basic service
+EGY,Egypt,non_hospital,Water,2005,76.07845,57457166.00537,Basic service
+EGY,Egypt,government,Water,2005,77.12365,58246538.42172,Basic service
+EGY,Egypt,non_government,Water,2005,78.783,59499738.88008,Basic service
+EGY,Egypt,total,Health care waste,2005,16.55193,12500605.65684,Basic service
+EGY,Egypt,hospital,Health care waste,2005,22.27958,16826331.7576,Basic service
+EGY,Egypt,non_hospital,Health care waste,2005,15.4008,11631234.89261,Basic service
+EGY,Egypt,total,Hygiene,2005,90.826,68595043.13776,Limited service
+EGY,Egypt,hospital,Hygiene,2005,95.64815,72236903.25784,Limited service
+EGY,Egypt,non_hospital,Hygiene,2005,89.80395,67823154.42925,Limited service
+EGY,Egypt,government,Hygiene,2005,94.1842,71131275.86699,Limited service
+EGY,Egypt,non_government,Hygiene,2005,72.82075,54996834.47002,Limited service
+EGY,Egypt,total,Water,2005,17.60375,13294981.5101,Limited service
+EGY,Egypt,hospital,Water,2005,15.75395,11897946.40125,Limited service
+EGY,Egypt,non_hospital,Water,2005,17.9988,13593337.39709,Limited service
+EGY,Egypt,government,Water,2005,16.97205,12817899.08051,Limited service
+EGY,Egypt,non_government,Water,2005,20.967,15835028.17992,Limited service
+EGY,Egypt,total,Health care waste,2005,83.44808,63022970.34316,Limited service
+EGY,Egypt,hospital,Health care waste,2005,77.72043,58697244.2424,Limited service
+EGY,Egypt,non_hospital,Health care waste,2005,84.5992,63892341.10739,Limited service
+EGY,Egypt,total,Environmental cleaning,2005,100,75523576,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2005,100,32495530,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2005,100,43028052,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2005,100,75523576,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2005,100,75523576,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2005,100,75523576,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2005,100,75523576,Insufficient data
+EGY,Egypt,total,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2005,100,32495530,Insufficient data
+EGY,Egypt,rural,Hygiene,2005,100,43028052,Insufficient data
+EGY,Egypt,hospital,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2005,91.21953,68892247.29021,Insufficient data
+EGY,Egypt,urban,Sanitation,2005,100,32495530,Insufficient data
+EGY,Egypt,rural,Sanitation,2005,100,43028052,Insufficient data
+EGY,Egypt,hospital,Sanitation,2005,94.59215,71439374.29528,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2005,90.51615,68361033.33752,Insufficient data
+EGY,Egypt,government,Sanitation,2005,89.90228,67897412.98535,Insufficient data
+EGY,Egypt,non_government,Sanitation,2005,98.3066,74244659.76402,Insufficient data
+EGY,Egypt,total,Water,2005,0,0,Insufficient data
+EGY,Egypt,urban,Water,2005,100,32495530,Insufficient data
+EGY,Egypt,rural,Water,2005,100,43028052,Insufficient data
+EGY,Egypt,hospital,Water,2005,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2005,0,0,Insufficient data
+EGY,Egypt,government,Water,2005,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2005,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2005,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2005,100,32495530,Insufficient data
+EGY,Egypt,rural,Health care waste,2005,100,43028052,Insufficient data
+EGY,Egypt,hospital,Health care waste,2005,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2005,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2005,100,75523576,Insufficient data
+EGY,Egypt,non_government,Health care waste,2005,100,75523576,Insufficient data
+EGY,Egypt,total,Hygiene,2005,0.15175,114607.02658,No service
+EGY,Egypt,hospital,Hygiene,2005,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2005,0.173,130655.78648,No service
+EGY,Egypt,government,Hygiene,2005,0.1789,135111.67746,No service
+EGY,Egypt,non_government,Hygiene,2005,0,0,No service
+EGY,Egypt,total,Sanitation,2005,8.78047,6631328.70979,No service
+EGY,Egypt,hospital,Sanitation,2005,5.40785,4084201.70472,No service
+EGY,Egypt,non_hospital,Sanitation,2005,9.48385,7162542.66248,No service
+EGY,Egypt,government,Sanitation,2005,10.09773,7626163.01465,No service
+EGY,Egypt,non_government,Sanitation,2005,1.6934,1278916.23598,No service
+EGY,Egypt,total,Water,2005,5.027,3796570.16552,No service
+EGY,Egypt,hospital,Water,2005,0,0,No service
+EGY,Egypt,non_hospital,Water,2005,5.92275,4473072.59754,No service
+EGY,Egypt,government,Water,2005,5.9043,4459138.49777,No service
+EGY,Egypt,non_government,Water,2005,0.25,188808.94,No service
+EGY,Egypt,total,Health care waste,2005,0,0,No service
+EGY,Egypt,hospital,Health care waste,2005,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2005,0,0,No service
+EGY,Egypt,government,Health care waste,2005,0,0,No service
+EGY,Egypt,non_government,Health care waste,2005,0,0,No service
+EGY,Egypt,total,Hygiene,2006,9.02225,6935734.87202,Basic service
+EGY,Egypt,hospital,Hygiene,2006,4.35185,3345426.89493,Basic service
+EGY,Egypt,non_hospital,Hygiene,2006,10.02305,7705086.5814,Basic service
+EGY,Egypt,government,Hygiene,2006,5.6369,4333292.01697,Basic service
+EGY,Egypt,non_government,Hygiene,2006,27.17925,20893687.49706,Basic service
+EGY,Egypt,total,Water,2006,77.36925,59476583.47386,Basic service
+EGY,Egypt,hospital,Water,2006,84.24605,64763032.14996,Basic service
+EGY,Egypt,non_hospital,Water,2006,76.07845,58484298.11568,Basic service
+EGY,Egypt,government,Water,2006,77.12365,59287781.73543,Basic service
+EGY,Egypt,non_government,Water,2006,78.783,60563385.01176,Basic service
+EGY,Egypt,total,Health care waste,2006,16.55193,12724072.53419,Basic service
+EGY,Egypt,hospital,Health care waste,2006,22.27958,17127127.40849,Basic service
+EGY,Egypt,non_hospital,Health care waste,2006,15.4008,11839160.47738,Basic service
+EGY,Egypt,total,Hygiene,2006,90.826,69821281.33072,Limited service
+EGY,Egypt,hospital,Hygiene,2006,95.64815,73528245.10507,Limited service
+EGY,Egypt,non_hospital,Hygiene,2006,89.80395,69035593.96604,Limited service
+EGY,Egypt,government,Hygiene,2006,94.1842,72402852.98382,Limited service
+EGY,Egypt,non_government,Hygiene,2006,72.82075,55979984.50294,Limited service
+EGY,Egypt,total,Water,2006,17.60375,13532649.0347,Limited service
+EGY,Egypt,hospital,Water,2006,15.75395,12110639.85004,Limited service
+EGY,Egypt,non_hospital,Water,2006,17.9988,13836338.47594,Limited service
+EGY,Egypt,government,Water,2006,16.97205,13047038.04868,Limited service
+EGY,Egypt,non_government,Water,2006,20.967,16118102.80824,Limited service
+EGY,Egypt,total,Health care waste,2006,83.44808,64149599.46581,Limited service
+EGY,Egypt,hospital,Health care waste,2006,77.72043,59746544.59151,Limited service
+EGY,Egypt,non_hospital,Health care waste,2006,84.5992,65034511.52262,Limited service
+EGY,Egypt,total,Environmental cleaning,2006,100,76873672,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2006,100,33111796,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2006,100,43761876,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2006,100,76873672,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2006,100,76873672,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2006,100,76873672,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2006,100,76873672,Insufficient data
+EGY,Egypt,total,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2006,100,33111796,Insufficient data
+EGY,Egypt,rural,Hygiene,2006,100,43761876,Insufficient data
+EGY,Egypt,hospital,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2006,91.21953,70123798.44846,Insufficient data
+EGY,Egypt,urban,Sanitation,2006,100,33111796,Insufficient data
+EGY,Egypt,rural,Sanitation,2006,100,43761876,Insufficient data
+EGY,Egypt,hospital,Sanitation,2006,94.59215,72716459.12875,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2006,90.51615,69583088.25803,Insufficient data
+EGY,Egypt,government,Sanitation,2006,89.90228,69111180.00404,Insufficient data
+EGY,Egypt,non_government,Sanitation,2006,98.3066,75571893.23835,Insufficient data
+EGY,Egypt,total,Water,2006,0,0,Insufficient data
+EGY,Egypt,urban,Water,2006,100,33111796,Insufficient data
+EGY,Egypt,rural,Water,2006,100,43761876,Insufficient data
+EGY,Egypt,hospital,Water,2006,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2006,0,0,Insufficient data
+EGY,Egypt,government,Water,2006,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2006,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2006,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2006,100,33111796,Insufficient data
+EGY,Egypt,rural,Health care waste,2006,100,43761876,Insufficient data
+EGY,Egypt,hospital,Health care waste,2006,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2006,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2006,100,76873672,Insufficient data
+EGY,Egypt,non_government,Health care waste,2006,100,76873672,Insufficient data
+EGY,Egypt,total,Hygiene,2006,0.15175,116655.79726,No service
+EGY,Egypt,hospital,Hygiene,2006,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2006,0.173,132991.45256,No service
+EGY,Egypt,government,Hygiene,2006,0.1789,137526.99921,No service
+EGY,Egypt,non_government,Hygiene,2006,0,0,No service
+EGY,Egypt,total,Sanitation,2006,8.78047,6749873.55154,No service
+EGY,Egypt,hospital,Sanitation,2006,5.40785,4157212.87125,No service
+EGY,Egypt,non_hospital,Sanitation,2006,9.48385,7290583.74197,No service
+EGY,Egypt,government,Sanitation,2006,10.09773,7762491.99596,No service
+EGY,Egypt,non_government,Sanitation,2006,1.6934,1301778.76165,No service
+EGY,Egypt,total,Water,2006,5.027,3864439.49144,No service
+EGY,Egypt,hospital,Water,2006,0,0,No service
+EGY,Egypt,non_hospital,Water,2006,5.92275,4553035.40838,No service
+EGY,Egypt,government,Water,2006,5.9043,4538852.2159,No service
+EGY,Egypt,non_government,Water,2006,0.25,192184.18,No service
+EGY,Egypt,total,Health care waste,2006,0,0,No service
+EGY,Egypt,hospital,Health care waste,2006,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2006,0,0,No service
+EGY,Egypt,government,Health care waste,2006,0,0,No service
+EGY,Egypt,non_government,Health care waste,2006,0,0,No service
+EGY,Egypt,total,Hygiene,2007,9.02225,7058298.16848,Basic service
+EGY,Egypt,hospital,Hygiene,2007,4.35185,3404544.86237,Basic service
+EGY,Egypt,non_hospital,Hygiene,2007,10.02305,7841245.3055,Basic service
+EGY,Egypt,government,Hygiene,2007,5.6369,4409866.82323,Basic service
+EGY,Egypt,non_government,Hygiene,2007,27.17925,21262905.64944,Basic service
+EGY,Egypt,total,Water,2007,77.36925,60527610.69264,Basic service
+EGY,Egypt,hospital,Water,2007,84.24605,65907477.67094,Basic service
+EGY,Egypt,non_hospital,Water,2007,76.07845,59517790.38442,Basic service
+EGY,Egypt,government,Water,2007,77.12365,60335472.58627,Basic service
+EGY,Egypt,non_government,Water,2007,78.783,61633617.40224,Basic service
+EGY,Egypt,total,Health care waste,2007,16.55193,12948923.15246,Basic service
+EGY,Egypt,hospital,Health care waste,2007,22.27958,17429785.63186,Basic service
+EGY,Egypt,non_hospital,Health care waste,2007,15.4008,12048373.56902,Basic service
+EGY,Egypt,total,Hygiene,2007,90.826,71055112.57728,Limited service
+EGY,Egypt,hospital,Hygiene,2007,95.64815,74827583.13763,Limited service
+EGY,Egypt,non_hospital,Hygiene,2007,89.80395,70255541.11306,Limited service
+EGY,Egypt,government,Hygiene,2007,94.1842,73682303.89978,Limited service
+EGY,Egypt,non_government,Hygiene,2007,72.82075,56969222.35056,Limited service
+EGY,Egypt,total,Water,2007,17.60375,13771788.2328,Limited service
+EGY,Egypt,hospital,Water,2007,15.75395,12324650.32906,Limited service
+EGY,Egypt,non_hospital,Water,2007,17.9988,14080844.25446,Limited service
+EGY,Egypt,government,Water,2007,16.97205,13277595.88022,Limited service
+EGY,Egypt,non_government,Water,2007,20.967,16402930.27776,Limited service
+EGY,Egypt,total,Health care waste,2007,83.44808,65283204.84754,Limited service
+EGY,Egypt,hospital,Health care waste,2007,77.72043,60802342.36814,Limited service
+EGY,Egypt,non_hospital,Health care waste,2007,84.5992,66183754.43098,Limited service
+EGY,Egypt,total,Environmental cleaning,2007,100,78232128,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2007,100,33700836,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2007,100,44531288,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2007,100,78232128,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2007,100,78232128,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2007,100,78232128,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2007,100,78232128,Insufficient data
+EGY,Egypt,total,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2007,100,33700836,Insufficient data
+EGY,Egypt,rural,Hygiene,2007,100,44531288,Insufficient data
+EGY,Egypt,hospital,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2007,91.21953,71362975.55899,Insufficient data
+EGY,Egypt,urban,Sanitation,2007,100,33700836,Insufficient data
+EGY,Egypt,rural,Sanitation,2007,100,44531288,Insufficient data
+EGY,Egypt,hospital,Sanitation,2007,94.59215,74001451.86595,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2007,90.51615,70812710.32867,Insufficient data
+EGY,Egypt,government,Sanitation,2007,89.90228,70332462.85291,Insufficient data
+EGY,Egypt,non_government,Sanitation,2007,98.3066,76907345.14445,Insufficient data
+EGY,Egypt,total,Water,2007,0,0,Insufficient data
+EGY,Egypt,urban,Water,2007,100,33700836,Insufficient data
+EGY,Egypt,rural,Water,2007,100,44531288,Insufficient data
+EGY,Egypt,hospital,Water,2007,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2007,0,0,Insufficient data
+EGY,Egypt,government,Water,2007,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2007,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2007,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2007,100,33700836,Insufficient data
+EGY,Egypt,rural,Health care waste,2007,100,44531288,Insufficient data
+EGY,Egypt,hospital,Health care waste,2007,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2007,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2007,100,78232128,Insufficient data
+EGY,Egypt,non_government,Health care waste,2007,100,78232128,Insufficient data
+EGY,Egypt,total,Hygiene,2007,0.15175,118717.25424,No service
+EGY,Egypt,hospital,Hygiene,2007,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2007,0.173,135341.58144,No service
+EGY,Egypt,government,Hygiene,2007,0.1789,139957.27699,No service
+EGY,Egypt,non_government,Hygiene,2007,0,0,No service
+EGY,Egypt,total,Sanitation,2007,8.78047,6869152.44101,No service
+EGY,Egypt,hospital,Sanitation,2007,5.40785,4230676.13405,No service
+EGY,Egypt,non_hospital,Sanitation,2007,9.48385,7419417.67133,No service
+EGY,Egypt,government,Sanitation,2007,10.09773,7899665.14709,No service
+EGY,Egypt,non_government,Sanitation,2007,1.6934,1324782.85555,No service
+EGY,Egypt,total,Water,2007,5.027,3932729.07456,No service
+EGY,Egypt,hospital,Water,2007,0,0,No service
+EGY,Egypt,non_hospital,Water,2007,5.92275,4633493.36112,No service
+EGY,Egypt,government,Water,2007,5.9043,4619059.5335,No service
+EGY,Egypt,non_government,Water,2007,0.25,195580.32,No service
+EGY,Egypt,total,Health care waste,2007,0,0,No service
+EGY,Egypt,hospital,Health care waste,2007,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2007,0,0,No service
+EGY,Egypt,government,Health care waste,2007,0,0,No service
+EGY,Egypt,non_government,Health care waste,2007,0,0,No service
+EGY,Egypt,total,Hygiene,2008,9.02225,7184966.2278,Basic service
+EGY,Egypt,hospital,Hygiene,2008,4.35185,3465642.74748,Basic service
+EGY,Egypt,non_hospital,Hygiene,2008,10.02305,7981964.11644,Basic service
+EGY,Egypt,government,Hygiene,2008,5.6369,4489006.19352,Basic service
+EGY,Egypt,non_government,Hygiene,2008,27.17925,21644489.2734,Basic service
+EGY,Egypt,total,Water,2008,77.36925,61613837.8254,Basic service
+EGY,Egypt,hospital,Water,2008,84.24605,67090251.77484,Basic service
+EGY,Egypt,non_hospital,Water,2008,76.07845,60585895.30476,Basic service
+EGY,Egypt,government,Water,2008,77.12365,61418251.61292,Basic service
+EGY,Egypt,non_government,Water,2008,78.783,62739692.9064,Basic service
+EGY,Egypt,total,Health care waste,2008,16.55193,13181304.23454,Basic service
+EGY,Egypt,hospital,Health care waste,2008,22.27958,17742580.17066,Basic service
+EGY,Egypt,non_hospital,Health care waste,2008,15.4008,12264593.40864,Basic service
+EGY,Egypt,total,Hygiene,2008,90.826,72330266.0208,Limited service
+EGY,Egypt,hospital,Hygiene,2008,95.64815,76170437.25252,Limited service
+EGY,Egypt,non_hospital,Hygiene,2008,89.80395,71516345.46516,Limited service
+EGY,Egypt,government,Hygiene,2008,94.1842,75004604.85936,Limited service
+EGY,Egypt,non_government,Hygiene,2008,72.82075,57991590.7266,Limited service
+EGY,Egypt,total,Water,2008,17.60375,14018936.433,Limited service
+EGY,Egypt,hospital,Water,2008,15.75395,12545828.22516,Limited service
+EGY,Egypt,non_hospital,Water,2008,17.9988,14333538.76704,Limited service
+EGY,Egypt,government,Water,2008,16.97205,13515875.31564,Limited service
+EGY,Egypt,non_government,Water,2008,20.967,16697296.8936,Limited service
+EGY,Egypt,total,Health care waste,2008,83.44808,66454775.76546,Limited service
+EGY,Egypt,hospital,Health care waste,2008,77.72043,61893499.82934,Limited service
+EGY,Egypt,non_hospital,Health care waste,2008,84.5992,67371486.59136,Limited service
+EGY,Egypt,total,Environmental cleaning,2008,100,79636080,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2008,100,34289704,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2008,100,45346376,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2008,100,79636080,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2008,100,79636080,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2008,100,79636080,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2008,100,79636080,Insufficient data
+EGY,Egypt,total,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2008,100,34289704,Insufficient data
+EGY,Egypt,rural,Hygiene,2008,100,45346376,Insufficient data
+EGY,Egypt,hospital,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2008,91.21953,72643653.90462,Insufficient data
+EGY,Egypt,urban,Sanitation,2008,100,34289704,Insufficient data
+EGY,Egypt,rural,Sanitation,2008,100,45346376,Insufficient data
+EGY,Egypt,hospital,Sanitation,2008,94.59215,75329480.24772,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2008,90.51615,72083513.62692,Insufficient data
+EGY,Egypt,government,Sanitation,2008,89.90228,71594647.64082,Insufficient data
+EGY,Egypt,non_government,Sanitation,2008,98.3066,78287522.62128,Insufficient data
+EGY,Egypt,total,Water,2008,0,0,Insufficient data
+EGY,Egypt,urban,Water,2008,100,34289704,Insufficient data
+EGY,Egypt,rural,Water,2008,100,45346376,Insufficient data
+EGY,Egypt,hospital,Water,2008,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2008,0,0,Insufficient data
+EGY,Egypt,government,Water,2008,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2008,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2008,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2008,100,34289704,Insufficient data
+EGY,Egypt,rural,Health care waste,2008,100,45346376,Insufficient data
+EGY,Egypt,hospital,Health care waste,2008,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2008,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2008,100,79636080,Insufficient data
+EGY,Egypt,non_government,Health care waste,2008,100,79636080,Insufficient data
+EGY,Egypt,total,Hygiene,2008,0.15175,120847.7514,No service
+EGY,Egypt,hospital,Hygiene,2008,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2008,0.173,137770.4184,No service
+EGY,Egypt,government,Hygiene,2008,0.1789,142468.94712,No service
+EGY,Egypt,non_government,Hygiene,2008,0,0,No service
+EGY,Egypt,total,Sanitation,2008,8.78047,6992426.09538,No service
+EGY,Egypt,hospital,Sanitation,2008,5.40785,4306599.75228,No service
+EGY,Egypt,non_hospital,Sanitation,2008,9.48385,7552566.37308,No service
+EGY,Egypt,government,Sanitation,2008,10.09773,8041432.35918,No service
+EGY,Egypt,non_government,Sanitation,2008,1.6934,1348557.37872,No service
+EGY,Egypt,total,Water,2008,5.027,4003305.7416,No service
+EGY,Egypt,hospital,Water,2008,0,0,No service
+EGY,Egypt,non_hospital,Water,2008,5.92275,4716645.9282,No service
+EGY,Egypt,government,Water,2008,5.9043,4701953.07144,No service
+EGY,Egypt,non_government,Water,2008,0.25,199090.2,No service
+EGY,Egypt,total,Health care waste,2008,0,0,No service
+EGY,Egypt,hospital,Health care waste,2008,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2008,0,0,No service
+EGY,Egypt,government,Health care waste,2008,0,0,No service
+EGY,Egypt,non_government,Health care waste,2008,0,0,No service
+EGY,Egypt,total,Hygiene,2009,9.02225,7320183.77122,Basic service
+EGY,Egypt,hospital,Hygiene,2009,4.35185,3530864.44565,Basic service
+EGY,Egypt,non_hospital,Hygiene,2009,10.02305,8132180.76956,Basic service
+EGY,Egypt,government,Hygiene,2009,5.6369,4573487.09025,Basic service
+EGY,Egypt,non_government,Hygiene,2009,27.17925,22051827.95466,Basic service
+EGY,Egypt,total,Water,2009,77.36925,62773380.05946,Basic service
+EGY,Egypt,hospital,Water,2009,84.24605,68352857.43572,Basic service
+EGY,Egypt,non_hospital,Water,2009,76.07845,61726092.16432,Basic service
+EGY,Egypt,government,Water,2009,77.12365,62574113.01031,Basic service
+EGY,Egypt,non_government,Water,2009,78.783,63920423.18136,Basic service
+EGY,Egypt,total,Health care waste,2009,16.55193,13429369.92075,Basic service
+EGY,Egypt,hospital,Health care waste,2009,22.27958,18076486.83473,Basic service
+EGY,Egypt,non_hospital,Health care waste,2009,15.4008,12495407.04634,Basic service
+EGY,Egypt,total,Hygiene,2009,90.826,73691486.18192,Limited service
+EGY,Egypt,hospital,Hygiene,2009,95.64815,77603927.55435,Limited service
+EGY,Egypt,non_hospital,Hygiene,2009,89.80395,72862248.04028,Limited service
+EGY,Egypt,government,Hygiene,2009,94.1842,76416154.76686,Limited service
+EGY,Egypt,non_government,Hygiene,2009,72.82075,59082964.04534,Limited service
+EGY,Egypt,total,Water,2009,17.60375,14282765.9467,Limited service
+EGY,Egypt,hospital,Water,2009,15.75395,12781934.56428,Limited service
+EGY,Egypt,non_hospital,Water,2009,17.9988,14603288.9425,Limited service
+EGY,Egypt,government,Water,2009,16.97205,13770237.46564,Limited service
+EGY,Egypt,non_government,Water,2009,20.967,17011531.83864,Limited service
+EGY,Egypt,total,Health care waste,2009,83.44808,67705422.07925,Limited service
+EGY,Egypt,hospital,Health care waste,2009,77.72043,63058305.16527,Limited service
+EGY,Egypt,non_hospital,Health care waste,2009,84.5992,68639384.95366,Limited service
+EGY,Egypt,total,Environmental cleaning,2009,100,81134792,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2009,100,34919600,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2009,100,46215188,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2009,100,81134792,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2009,100,81134792,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2009,100,81134792,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2009,100,81134792,Insufficient data
+EGY,Egypt,total,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2009,100,34919600,Insufficient data
+EGY,Egypt,rural,Hygiene,2009,100,46215188,Insufficient data
+EGY,Egypt,hospital,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2009,91.21953,74010771.87214,Insufficient data
+EGY,Egypt,urban,Sanitation,2009,100,34919600,Insufficient data
+EGY,Egypt,rural,Sanitation,2009,100,46215188,Insufficient data
+EGY,Egypt,hospital,Sanitation,2009,94.59215,76747144.15083,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2009,90.51615,73440090.02891,Insufficient data
+EGY,Egypt,government,Sanitation,2009,89.90228,72942023.82452,Insufficient data
+EGY,Egypt,non_government,Sanitation,2009,98.3066,79760855.43227,Insufficient data
+EGY,Egypt,total,Water,2009,0,0,Insufficient data
+EGY,Egypt,urban,Water,2009,100,34919600,Insufficient data
+EGY,Egypt,rural,Water,2009,100,46215188,Insufficient data
+EGY,Egypt,hospital,Water,2009,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2009,0,0,Insufficient data
+EGY,Egypt,government,Water,2009,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2009,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2009,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2009,100,34919600,Insufficient data
+EGY,Egypt,rural,Health care waste,2009,100,46215188,Insufficient data
+EGY,Egypt,hospital,Health care waste,2009,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2009,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2009,100,81134792,Insufficient data
+EGY,Egypt,non_government,Health care waste,2009,100,81134792,Insufficient data
+EGY,Egypt,total,Hygiene,2009,0.15175,123122.04686,No service
+EGY,Egypt,hospital,Hygiene,2009,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2009,0.173,140363.19016,No service
+EGY,Egypt,government,Hygiene,2009,0.1789,145150.14289,No service
+EGY,Egypt,non_government,Hygiene,2009,0,0,No service
+EGY,Egypt,total,Sanitation,2009,8.78047,7124020.12786,No service
+EGY,Egypt,hospital,Sanitation,2009,5.40785,4387647.84917,No service
+EGY,Egypt,non_hospital,Sanitation,2009,9.48385,7694701.97109,No service
+EGY,Egypt,government,Sanitation,2009,10.09773,8192768.17548,No service
+EGY,Egypt,non_government,Sanitation,2009,1.6934,1373936.56773,No service
+EGY,Egypt,total,Water,2009,5.027,4078645.99384,No service
+EGY,Egypt,hospital,Water,2009,0,0,No service
+EGY,Egypt,non_hospital,Water,2009,5.92275,4805410.89318,No service
+EGY,Egypt,government,Water,2009,5.9043,4790441.52406,No service
+EGY,Egypt,non_government,Water,2009,0.25,202836.98,No service
+EGY,Egypt,total,Health care waste,2009,0,0,No service
+EGY,Egypt,hospital,Health care waste,2009,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2009,0,0,No service
+EGY,Egypt,government,Health care waste,2009,0,0,No service
+EGY,Egypt,non_government,Health care waste,2009,0,0,No service
+EGY,Egypt,total,Hygiene,2010,9.02225,7466925.9759,Basic service
+EGY,Egypt,hospital,Hygiene,2010,4.35185,3601645.02294,Basic service
+EGY,Egypt,non_hospital,Hygiene,2010,10.02305,8295200.46582,Basic service
+EGY,Egypt,government,Hygiene,2010,5.6369,4665168.33756,Basic service
+EGY,Egypt,non_government,Hygiene,2010,27.17925,22493884.3227,Basic service
+EGY,Egypt,total,Water,2010,77.36925,64031750.6787,Basic service
+EGY,Egypt,hospital,Water,2010,84.24605,69723075.63102,Basic service
+EGY,Egypt,non_hospital,Water,2010,76.07845,62963468.59278,Basic service
+EGY,Egypt,government,Water,2010,77.12365,63828489.07326,Basic service
+EGY,Egypt,non_government,Water,2010,78.783,65201787.7092,Basic service
+EGY,Egypt,total,Health care waste,2010,16.55193,13698578.37387,Basic service
+EGY,Egypt,hospital,Health care waste,2010,22.27958,18438852.53673,Basic service
+EGY,Egypt,non_hospital,Health care waste,2010,15.4008,12745893.04992,Basic service
+EGY,Egypt,total,Hygiene,2010,90.826,75168723.8424,Limited service
+EGY,Egypt,hospital,Hygiene,2010,95.64815,79159594.97706,Limited service
+EGY,Egypt,non_hospital,Hygiene,2010,89.80395,74322862.58898,Limited service
+EGY,Egypt,government,Hygiene,2010,94.1842,77948011.80408,Limited service
+EGY,Egypt,non_government,Hygiene,2010,72.82075,60267355.6773,Limited service
+EGY,Egypt,total,Water,2010,17.60375,14569081.7865,Limited service
+EGY,Egypt,hospital,Water,2010,15.75395,13038164.36898,Limited service
+EGY,Egypt,non_hospital,Water,2010,17.9988,14896030.06512,Limited service
+EGY,Egypt,government,Water,2010,16.97205,14046279.03342,Limited service
+EGY,Egypt,non_government,Water,2010,20.967,17352549.1908,Limited service
+EGY,Egypt,total,Health care waste,2010,83.44808,69062661.62613,Limited service
+EGY,Egypt,hospital,Health care waste,2010,77.72043,64322387.46327,Limited service
+EGY,Egypt,non_hospital,Health care waste,2010,84.5992,70015346.95008,Limited service
+EGY,Egypt,total,Environmental cleaning,2010,100,82761240,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2010,100,35603060,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2010,100,47158184,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2010,100,82761240,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2010,100,82761240,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2010,100,82761240,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2010,100,82761240,Insufficient data
+EGY,Egypt,total,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2010,100,35603060,Insufficient data
+EGY,Egypt,rural,Hygiene,2010,100,47158184,Insufficient data
+EGY,Egypt,hospital,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,government,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,non_government,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,total,Sanitation,2010,91.21953,75494410.01211,Insufficient data
+EGY,Egypt,urban,Sanitation,2010,100,35603060,Insufficient data
+EGY,Egypt,rural,Sanitation,2010,100,47158184,Insufficient data
+EGY,Egypt,hospital,Sanitation,2010,94.59215,78285636.28266,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2010,90.51615,74912288.14026,Insufficient data
+EGY,Egypt,government,Sanitation,2010,89.90228,74404237.57821,Insufficient data
+EGY,Egypt,non_government,Sanitation,2010,98.3066,81359761.16184,Insufficient data
+EGY,Egypt,total,Water,2010,0,0,Insufficient data
+EGY,Egypt,urban,Water,2010,100,35603060,Insufficient data
+EGY,Egypt,rural,Water,2010,100,47158184,Insufficient data
+EGY,Egypt,hospital,Water,2010,0,0,Insufficient data
+EGY,Egypt,non_hospital,Water,2010,0,0,Insufficient data
+EGY,Egypt,government,Water,2010,0,0,Insufficient data
+EGY,Egypt,non_government,Water,2010,0,0,Insufficient data
+EGY,Egypt,total,Health care waste,2010,0,0,Insufficient data
+EGY,Egypt,urban,Health care waste,2010,100,35603060,Insufficient data
+EGY,Egypt,rural,Health care waste,2010,100,47158184,Insufficient data
+EGY,Egypt,hospital,Health care waste,2010,0,0,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2010,0,0,Insufficient data
+EGY,Egypt,government,Health care waste,2010,100,82761240,Insufficient data
+EGY,Egypt,non_government,Health care waste,2010,100,82761240,Insufficient data
+EGY,Egypt,total,Hygiene,2010,0.15175,125590.1817,No service
+EGY,Egypt,hospital,Hygiene,2010,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2010,0.173,143176.9452,No service
+EGY,Egypt,government,Hygiene,2010,0.1789,148059.85836,No service
+EGY,Egypt,non_government,Hygiene,2010,0,0,No service
+EGY,Egypt,total,Sanitation,2010,8.78047,7266829.98789,No service
+EGY,Egypt,hospital,Sanitation,2010,5.40785,4475603.71734,No service
+EGY,Egypt,non_hospital,Sanitation,2010,9.48385,7848951.85974,No service
+EGY,Egypt,government,Sanitation,2010,10.09773,8357002.42179,No service
+EGY,Egypt,non_government,Sanitation,2010,1.6934,1401478.83816,No service
+EGY,Egypt,total,Water,2010,5.027,4160407.5348,No service
+EGY,Egypt,hospital,Water,2010,0,0,No service
+EGY,Egypt,non_hospital,Water,2010,5.92275,4901741.3421,No service
+EGY,Egypt,government,Water,2010,5.9043,4886471.89332,No service
+EGY,Egypt,non_government,Water,2010,0.25,206903.1,No service
+EGY,Egypt,total,Health care waste,2010,0,0,No service
+EGY,Egypt,hospital,Health care waste,2010,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2010,0,0,No service
+EGY,Egypt,government,Health care waste,2010,0,0,No service
+EGY,Egypt,non_government,Health care waste,2010,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2011,100,84529248,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2011,100,36347580,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2011,100,48181672,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2011,100,84529248,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2011,100,84529248,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2011,100,84529248,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2011,100,84529248,Insufficient data
+EGY,Egypt,total,Hygiene,2011,99.84825,84400974.86616,Insufficient data
+EGY,Egypt,urban,Hygiene,2011,100,36347580,Insufficient data
+EGY,Egypt,rural,Hygiene,2011,100,48181672,Insufficient data
+EGY,Egypt,hospital,Hygiene,2011,100,84529248,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2011,99.827,84383012.40096,Insufficient data
+EGY,Egypt,government,Hygiene,2011,99.8211,84378025.17533,Insufficient data
+EGY,Egypt,non_government,Hygiene,2011,100,84529248,Insufficient data
+EGY,Egypt,total,Sanitation,2011,100,84529248,Insufficient data
+EGY,Egypt,urban,Sanitation,2011,100,36347580,Insufficient data
+EGY,Egypt,rural,Sanitation,2011,100,48181672,Insufficient data
+EGY,Egypt,hospital,Sanitation,2011,100,84529248,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2011,100,84529248,Insufficient data
+EGY,Egypt,government,Sanitation,2011,100,84529248,Insufficient data
+EGY,Egypt,non_government,Sanitation,2011,100,84529248,Insufficient data
+EGY,Egypt,total,Water,2011,100,84529248,Insufficient data
+EGY,Egypt,urban,Water,2011,100,36347580,Insufficient data
+EGY,Egypt,rural,Water,2011,100,48181672,Insufficient data
+EGY,Egypt,hospital,Water,2011,100,84529248,Insufficient data
+EGY,Egypt,non_hospital,Water,2011,100,84529248,Insufficient data
+EGY,Egypt,government,Water,2011,100,84529248,Insufficient data
+EGY,Egypt,non_government,Water,2011,99.75,84317924.88,Insufficient data
+EGY,Egypt,total,Health care waste,2011,100,84529248,Insufficient data
+EGY,Egypt,urban,Health care waste,2011,100,36347580,Insufficient data
+EGY,Egypt,rural,Health care waste,2011,100,48181672,Insufficient data
+EGY,Egypt,hospital,Health care waste,2011,100,84529248,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2011,100,84529248,Insufficient data
+EGY,Egypt,government,Health care waste,2011,100,84529248,Insufficient data
+EGY,Egypt,non_government,Health care waste,2011,100,84529248,Insufficient data
+EGY,Egypt,total,Hygiene,2011,0.15175,128273.13384,No service
+EGY,Egypt,hospital,Hygiene,2011,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2011,0.173,146235.59904,No service
+EGY,Egypt,government,Hygiene,2011,0.1789,151222.82467,No service
+EGY,Egypt,non_government,Hygiene,2011,0,0,No service
+EGY,Egypt,hospital,Water,2011,0,0,No service
+EGY,Egypt,non_government,Water,2011,0.25,211323.12,No service
+EGY,Egypt,total,Health care waste,2011,0,0,No service
+EGY,Egypt,hospital,Health care waste,2011,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2011,0,0,No service
+EGY,Egypt,government,Health care waste,2011,0,0,No service
+EGY,Egypt,non_government,Health care waste,2011,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2012,100,86422240,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2012,100,37114896,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2012,100,49307348,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2012,100,86422240,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2012,100,86422240,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2012,100,86422240,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2012,100,86422240,Insufficient data
+EGY,Egypt,total,Hygiene,2012,99.84825,86291094.2508,Insufficient data
+EGY,Egypt,urban,Hygiene,2012,100,37114896,Insufficient data
+EGY,Egypt,rural,Hygiene,2012,100,49307348,Insufficient data
+EGY,Egypt,hospital,Hygiene,2012,100,86422240,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2012,99.827,86272729.5248,Insufficient data
+EGY,Egypt,government,Hygiene,2012,99.8211,86267630.61264,Insufficient data
+EGY,Egypt,non_government,Hygiene,2012,100,86422240,Insufficient data
+EGY,Egypt,total,Sanitation,2012,100,86422240,Insufficient data
+EGY,Egypt,urban,Sanitation,2012,100,37114896,Insufficient data
+EGY,Egypt,rural,Sanitation,2012,100,49307348,Insufficient data
+EGY,Egypt,hospital,Sanitation,2012,100,86422240,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2012,100,86422240,Insufficient data
+EGY,Egypt,government,Sanitation,2012,100,86422240,Insufficient data
+EGY,Egypt,non_government,Sanitation,2012,100,86422240,Insufficient data
+EGY,Egypt,total,Water,2012,100,86422240,Insufficient data
+EGY,Egypt,urban,Water,2012,100,37114896,Insufficient data
+EGY,Egypt,rural,Water,2012,100,49307348,Insufficient data
+EGY,Egypt,hospital,Water,2012,100,86422240,Insufficient data
+EGY,Egypt,non_hospital,Water,2012,100,86422240,Insufficient data
+EGY,Egypt,government,Water,2012,100,86422240,Insufficient data
+EGY,Egypt,non_government,Water,2012,99.75,86206184.4,Insufficient data
+EGY,Egypt,total,Health care waste,2012,100,86422240,Insufficient data
+EGY,Egypt,urban,Health care waste,2012,100,37114896,Insufficient data
+EGY,Egypt,rural,Health care waste,2012,100,49307348,Insufficient data
+EGY,Egypt,hospital,Health care waste,2012,100,86422240,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2012,100,86422240,Insufficient data
+EGY,Egypt,government,Health care waste,2012,100,86422240,Insufficient data
+EGY,Egypt,non_government,Health care waste,2012,100,86422240,Insufficient data
+EGY,Egypt,total,Hygiene,2012,0.15175,131145.7492,No service
+EGY,Egypt,hospital,Hygiene,2012,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2012,0.173,149510.4752,No service
+EGY,Egypt,government,Hygiene,2012,0.1789,154609.38736,No service
+EGY,Egypt,non_government,Hygiene,2012,0,0,No service
+EGY,Egypt,hospital,Water,2012,0,0,No service
+EGY,Egypt,non_government,Water,2012,0.25,216055.6,No service
+EGY,Egypt,total,Health care waste,2012,0,0,No service
+EGY,Egypt,hospital,Health care waste,2012,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2012,0,0,No service
+EGY,Egypt,government,Health care waste,2012,0,0,No service
+EGY,Egypt,non_government,Health care waste,2012,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2013,100,88404648,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2013,100,37919408,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2013,100,50485244,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2013,100,88404648,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2013,100,88404648,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2013,100,88404648,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2013,100,88404648,Insufficient data
+EGY,Egypt,total,Hygiene,2013,99.84825,88270493.94666,Insufficient data
+EGY,Egypt,urban,Hygiene,2013,100,37919408,Insufficient data
+EGY,Egypt,rural,Hygiene,2013,100,50485244,Insufficient data
+EGY,Egypt,hospital,Hygiene,2013,100,88404648,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2013,99.827,88251707.95896,Insufficient data
+EGY,Egypt,government,Hygiene,2013,99.8211,88246492.08473,Insufficient data
+EGY,Egypt,non_government,Hygiene,2013,100,88404648,Insufficient data
+EGY,Egypt,total,Sanitation,2013,100,88404648,Insufficient data
+EGY,Egypt,urban,Sanitation,2013,100,37919408,Insufficient data
+EGY,Egypt,rural,Sanitation,2013,100,50485244,Insufficient data
+EGY,Egypt,hospital,Sanitation,2013,100,88404648,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2013,100,88404648,Insufficient data
+EGY,Egypt,government,Sanitation,2013,100,88404648,Insufficient data
+EGY,Egypt,non_government,Sanitation,2013,100,88404648,Insufficient data
+EGY,Egypt,total,Water,2013,100,88404648,Insufficient data
+EGY,Egypt,urban,Water,2013,100,37919408,Insufficient data
+EGY,Egypt,rural,Water,2013,100,50485244,Insufficient data
+EGY,Egypt,hospital,Water,2013,100,88404648,Insufficient data
+EGY,Egypt,non_hospital,Water,2013,100,88404648,Insufficient data
+EGY,Egypt,government,Water,2013,100,88404648,Insufficient data
+EGY,Egypt,non_government,Water,2013,99.75,88183636.38,Insufficient data
+EGY,Egypt,total,Health care waste,2013,100,88404648,Insufficient data
+EGY,Egypt,urban,Health care waste,2013,100,37919408,Insufficient data
+EGY,Egypt,rural,Health care waste,2013,100,50485244,Insufficient data
+EGY,Egypt,hospital,Health care waste,2013,100,88404648,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2013,100,88404648,Insufficient data
+EGY,Egypt,government,Health care waste,2013,100,88404648,Insufficient data
+EGY,Egypt,non_government,Health care waste,2013,100,88404648,Insufficient data
+EGY,Egypt,total,Hygiene,2013,0.15175,134154.05334,No service
+EGY,Egypt,hospital,Hygiene,2013,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2013,0.173,152940.04104,No service
+EGY,Egypt,government,Hygiene,2013,0.1789,158155.91527,No service
+EGY,Egypt,non_government,Hygiene,2013,0,0,No service
+EGY,Egypt,hospital,Water,2013,0,0,No service
+EGY,Egypt,non_government,Water,2013,0.25,221011.62,No service
+EGY,Egypt,total,Health care waste,2013,0,0,No service
+EGY,Egypt,hospital,Health care waste,2013,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2013,0,0,No service
+EGY,Egypt,government,Health care waste,2013,0,0,No service
+EGY,Egypt,non_government,Health care waste,2013,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2014,100,90424672,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2014,100,38737024,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2014,100,51687648,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2014,100,90424672,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2014,100,90424672,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2014,100,90424672,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2014,100,90424672,Insufficient data
+EGY,Egypt,total,Hygiene,2014,99.84825,90287452.56024,Insufficient data
+EGY,Egypt,urban,Hygiene,2014,100,38737024,Insufficient data
+EGY,Egypt,rural,Hygiene,2014,100,51687648,Insufficient data
+EGY,Egypt,hospital,Hygiene,2014,100,90424672,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2014,99.827,90268237.31744,Insufficient data
+EGY,Egypt,government,Hygiene,2014,99.8211,90262902.26179,Insufficient data
+EGY,Egypt,non_government,Hygiene,2014,100,90424672,Insufficient data
+EGY,Egypt,total,Sanitation,2014,100,90424672,Insufficient data
+EGY,Egypt,urban,Sanitation,2014,100,38737024,Insufficient data
+EGY,Egypt,rural,Sanitation,2014,100,51687648,Insufficient data
+EGY,Egypt,hospital,Sanitation,2014,100,90424672,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2014,100,90424672,Insufficient data
+EGY,Egypt,government,Sanitation,2014,100,90424672,Insufficient data
+EGY,Egypt,non_government,Sanitation,2014,100,90424672,Insufficient data
+EGY,Egypt,total,Water,2014,100,90424672,Insufficient data
+EGY,Egypt,urban,Water,2014,100,38737024,Insufficient data
+EGY,Egypt,rural,Water,2014,100,51687648,Insufficient data
+EGY,Egypt,hospital,Water,2014,100,90424672,Insufficient data
+EGY,Egypt,non_hospital,Water,2014,100,90424672,Insufficient data
+EGY,Egypt,government,Water,2014,100,90424672,Insufficient data
+EGY,Egypt,non_government,Water,2014,99.75,90198610.32,Insufficient data
+EGY,Egypt,total,Health care waste,2014,100,90424672,Insufficient data
+EGY,Egypt,urban,Health care waste,2014,100,38737024,Insufficient data
+EGY,Egypt,rural,Health care waste,2014,100,51687648,Insufficient data
+EGY,Egypt,hospital,Health care waste,2014,100,90424672,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2014,100,90424672,Insufficient data
+EGY,Egypt,government,Health care waste,2014,100,90424672,Insufficient data
+EGY,Egypt,non_government,Health care waste,2014,100,90424672,Insufficient data
+EGY,Egypt,total,Hygiene,2014,0.15175,137219.43976,No service
+EGY,Egypt,hospital,Hygiene,2014,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2014,0.173,156434.68256,No service
+EGY,Egypt,government,Hygiene,2014,0.1789,161769.73821,No service
+EGY,Egypt,non_government,Hygiene,2014,0,0,No service
+EGY,Egypt,hospital,Water,2014,0,0,No service
+EGY,Egypt,non_government,Water,2014,0.25,226061.68,No service
+EGY,Egypt,total,Health care waste,2014,0,0,No service
+EGY,Egypt,hospital,Health care waste,2014,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2014,0,0,No service
+EGY,Egypt,government,Health care waste,2014,0,0,No service
+EGY,Egypt,non_government,Health care waste,2014,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2015,100,92442544,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2015,100,39551544,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2015,100,52891004,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2015,100,92442544,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2015,100,92442544,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2015,100,92442544,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2015,100,92442544,Insufficient data
+EGY,Egypt,total,Hygiene,2015,99.84825,92302262.43948,Insufficient data
+EGY,Egypt,urban,Hygiene,2015,100,39551544,Insufficient data
+EGY,Egypt,rural,Hygiene,2015,100,52891004,Insufficient data
+EGY,Egypt,hospital,Hygiene,2015,100,92442544,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2015,99.827,92282618.39888,Insufficient data
+EGY,Egypt,government,Hygiene,2015,99.8211,92277164.28878,Insufficient data
+EGY,Egypt,non_government,Hygiene,2015,100,92442544,Insufficient data
+EGY,Egypt,total,Sanitation,2015,100,92442544,Insufficient data
+EGY,Egypt,urban,Sanitation,2015,100,39551544,Insufficient data
+EGY,Egypt,rural,Sanitation,2015,100,52891004,Insufficient data
+EGY,Egypt,hospital,Sanitation,2015,100,92442544,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2015,100,92442544,Insufficient data
+EGY,Egypt,government,Sanitation,2015,100,92442544,Insufficient data
+EGY,Egypt,non_government,Sanitation,2015,100,92442544,Insufficient data
+EGY,Egypt,total,Water,2015,100,92442544,Insufficient data
+EGY,Egypt,urban,Water,2015,100,39551544,Insufficient data
+EGY,Egypt,rural,Water,2015,100,52891004,Insufficient data
+EGY,Egypt,hospital,Water,2015,100,92442544,Insufficient data
+EGY,Egypt,non_hospital,Water,2015,100,92442544,Insufficient data
+EGY,Egypt,government,Water,2015,100,92442544,Insufficient data
+EGY,Egypt,non_government,Water,2015,99.75,92211437.64,Insufficient data
+EGY,Egypt,total,Health care waste,2015,100,92442544,Insufficient data
+EGY,Egypt,urban,Health care waste,2015,100,39551544,Insufficient data
+EGY,Egypt,rural,Health care waste,2015,100,52891004,Insufficient data
+EGY,Egypt,hospital,Health care waste,2015,100,92442544,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2015,100,92442544,Insufficient data
+EGY,Egypt,government,Health care waste,2015,100,92442544,Insufficient data
+EGY,Egypt,non_government,Health care waste,2015,100,92442544,Insufficient data
+EGY,Egypt,total,Hygiene,2015,0.15175,140281.56052,No service
+EGY,Egypt,hospital,Hygiene,2015,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2015,0.173,159925.60112,No service
+EGY,Egypt,government,Hygiene,2015,0.1789,165379.71122,No service
+EGY,Egypt,non_government,Hygiene,2015,0,0,No service
+EGY,Egypt,hospital,Water,2015,0,0,No service
+EGY,Egypt,non_government,Water,2015,0.25,231106.36,No service
+EGY,Egypt,total,Health care waste,2015,0,0,No service
+EGY,Egypt,hospital,Health care waste,2015,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2015,0,0,No service
+EGY,Egypt,government,Health care waste,2015,0,0,No service
+EGY,Egypt,non_government,Health care waste,2015,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2016,100,94447072,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2016,100,40359120,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2016,100,54087948,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2016,100,94447072,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2016,100,94447072,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2016,100,94447072,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2016,100,94447072,Insufficient data
+EGY,Egypt,total,Hygiene,2016,99.84825,94303748.56824,Insufficient data
+EGY,Egypt,urban,Hygiene,2016,100,40359120,Insufficient data
+EGY,Egypt,rural,Hygiene,2016,100,54087948,Insufficient data
+EGY,Egypt,hospital,Hygiene,2016,100,94447072,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2016,99.827,94283678.56544,Insufficient data
+EGY,Egypt,government,Hygiene,2016,99.8211,94278106.18819,Insufficient data
+EGY,Egypt,non_government,Hygiene,2016,100,94447072,Insufficient data
+EGY,Egypt,total,Sanitation,2016,100,94447072,Insufficient data
+EGY,Egypt,urban,Sanitation,2016,100,40359120,Insufficient data
+EGY,Egypt,rural,Sanitation,2016,100,54087948,Insufficient data
+EGY,Egypt,hospital,Sanitation,2016,100,94447072,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2016,100,94447072,Insufficient data
+EGY,Egypt,government,Sanitation,2016,100,94447072,Insufficient data
+EGY,Egypt,non_government,Sanitation,2016,100,94447072,Insufficient data
+EGY,Egypt,total,Water,2016,100,94447072,Insufficient data
+EGY,Egypt,urban,Water,2016,100,40359120,Insufficient data
+EGY,Egypt,rural,Water,2016,100,54087948,Insufficient data
+EGY,Egypt,hospital,Water,2016,100,94447072,Insufficient data
+EGY,Egypt,non_hospital,Water,2016,100,94447072,Insufficient data
+EGY,Egypt,government,Water,2016,100,94447072,Insufficient data
+EGY,Egypt,non_government,Water,2016,99.75,94210954.32,Insufficient data
+EGY,Egypt,total,Health care waste,2016,100,94447072,Insufficient data
+EGY,Egypt,urban,Health care waste,2016,100,40359120,Insufficient data
+EGY,Egypt,rural,Health care waste,2016,100,54087948,Insufficient data
+EGY,Egypt,hospital,Health care waste,2016,100,94447072,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2016,100,94447072,Insufficient data
+EGY,Egypt,government,Health care waste,2016,100,94447072,Insufficient data
+EGY,Egypt,non_government,Health care waste,2016,100,94447072,Insufficient data
+EGY,Egypt,total,Hygiene,2016,0.15175,143323.43176,No service
+EGY,Egypt,hospital,Hygiene,2016,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2016,0.173,163393.43456,No service
+EGY,Egypt,government,Hygiene,2016,0.1789,168965.81181,No service
+EGY,Egypt,non_government,Hygiene,2016,0,0,No service
+EGY,Egypt,hospital,Water,2016,0,0,No service
+EGY,Egypt,non_government,Water,2016,0.25,236117.68,No service
+EGY,Egypt,total,Health care waste,2016,0,0,No service
+EGY,Egypt,hospital,Health care waste,2016,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2016,0,0,No service
+EGY,Egypt,government,Health care waste,2016,0,0,No service
+EGY,Egypt,non_government,Health care waste,2016,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2017,100,96442592,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2017,100,41185808,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2017,100,55256784,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2017,100,96442592,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2017,100,96442592,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2017,100,96442592,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2017,100,96442592,Insufficient data
+EGY,Egypt,total,Hygiene,2017,99.84825,96296240.36664,Insufficient data
+EGY,Egypt,urban,Hygiene,2017,100,41185808,Insufficient data
+EGY,Egypt,rural,Hygiene,2017,100,55256784,Insufficient data
+EGY,Egypt,hospital,Hygiene,2017,100,96442592,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2017,99.827,96275746.31584,Insufficient data
+EGY,Egypt,government,Hygiene,2017,99.8211,96270056.20291,Insufficient data
+EGY,Egypt,non_government,Hygiene,2017,100,96442592,Insufficient data
+EGY,Egypt,total,Sanitation,2017,100,96442592,Insufficient data
+EGY,Egypt,urban,Sanitation,2017,100,41185808,Insufficient data
+EGY,Egypt,rural,Sanitation,2017,100,55256784,Insufficient data
+EGY,Egypt,hospital,Sanitation,2017,100,96442592,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2017,100,96442592,Insufficient data
+EGY,Egypt,government,Sanitation,2017,100,96442592,Insufficient data
+EGY,Egypt,non_government,Sanitation,2017,100,96442592,Insufficient data
+EGY,Egypt,total,Water,2017,100,96442592,Insufficient data
+EGY,Egypt,urban,Water,2017,100,41185808,Insufficient data
+EGY,Egypt,rural,Water,2017,100,55256784,Insufficient data
+EGY,Egypt,hospital,Water,2017,100,96442592,Insufficient data
+EGY,Egypt,non_hospital,Water,2017,100,96442592,Insufficient data
+EGY,Egypt,government,Water,2017,100,96442592,Insufficient data
+EGY,Egypt,non_government,Water,2017,99.75,96201485.52,Insufficient data
+EGY,Egypt,total,Health care waste,2017,100,96442592,Insufficient data
+EGY,Egypt,urban,Health care waste,2017,100,41185808,Insufficient data
+EGY,Egypt,rural,Health care waste,2017,100,55256784,Insufficient data
+EGY,Egypt,hospital,Health care waste,2017,100,96442592,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2017,100,96442592,Insufficient data
+EGY,Egypt,government,Health care waste,2017,100,96442592,Insufficient data
+EGY,Egypt,non_government,Health care waste,2017,100,96442592,Insufficient data
+EGY,Egypt,total,Hygiene,2017,0.15175,146351.63336,No service
+EGY,Egypt,hospital,Hygiene,2017,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2017,0.173,166845.68416,No service
+EGY,Egypt,government,Hygiene,2017,0.1789,172535.79709,No service
+EGY,Egypt,non_government,Hygiene,2017,0,0,No service
+EGY,Egypt,hospital,Water,2017,0,0,No service
+EGY,Egypt,non_government,Water,2017,0.25,241106.48,No service
+EGY,Egypt,total,Health care waste,2017,0,0,No service
+EGY,Egypt,hospital,Health care waste,2017,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2017,0,0,No service
+EGY,Egypt,government,Health care waste,2017,0,0,No service
+EGY,Egypt,non_government,Health care waste,2017,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2018,100,98423600,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2018,100,42030816,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2018,100,56392784,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2018,100,98423600,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2018,100,98423600,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2018,100,98423600,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2018,100,98423600,Insufficient data
+EGY,Egypt,total,Hygiene,2018,99.84825,98274242.187,Insufficient data
+EGY,Egypt,urban,Hygiene,2018,100,42030816,Insufficient data
+EGY,Egypt,rural,Hygiene,2018,100,56392784,Insufficient data
+EGY,Egypt,hospital,Hygiene,2018,100,98423600,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2018,99.827,98253327.172,Insufficient data
+EGY,Egypt,government,Hygiene,2018,99.8211,98247520.1796,Insufficient data
+EGY,Egypt,non_government,Hygiene,2018,100,98423600,Insufficient data
+EGY,Egypt,total,Sanitation,2018,100,98423600,Insufficient data
+EGY,Egypt,urban,Sanitation,2018,100,42030816,Insufficient data
+EGY,Egypt,rural,Sanitation,2018,100,56392784,Insufficient data
+EGY,Egypt,hospital,Sanitation,2018,100,98423600,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2018,100,98423600,Insufficient data
+EGY,Egypt,government,Sanitation,2018,100,98423600,Insufficient data
+EGY,Egypt,non_government,Sanitation,2018,100,98423600,Insufficient data
+EGY,Egypt,total,Water,2018,100,98423600,Insufficient data
+EGY,Egypt,urban,Water,2018,100,42030816,Insufficient data
+EGY,Egypt,rural,Water,2018,100,56392784,Insufficient data
+EGY,Egypt,hospital,Water,2018,100,98423600,Insufficient data
+EGY,Egypt,non_hospital,Water,2018,100,98423600,Insufficient data
+EGY,Egypt,government,Water,2018,100,98423600,Insufficient data
+EGY,Egypt,non_government,Water,2018,99.75,98177541,Insufficient data
+EGY,Egypt,total,Health care waste,2018,100,98423600,Insufficient data
+EGY,Egypt,urban,Health care waste,2018,100,42030816,Insufficient data
+EGY,Egypt,rural,Health care waste,2018,100,56392784,Insufficient data
+EGY,Egypt,hospital,Health care waste,2018,100,98423600,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2018,100,98423600,Insufficient data
+EGY,Egypt,government,Health care waste,2018,100,98423600,Insufficient data
+EGY,Egypt,non_government,Health care waste,2018,100,98423600,Insufficient data
+EGY,Egypt,total,Hygiene,2018,0.15175,149357.813,No service
+EGY,Egypt,hospital,Hygiene,2018,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2018,0.173,170272.828,No service
+EGY,Egypt,government,Hygiene,2018,0.1789,176079.8204,No service
+EGY,Egypt,non_government,Hygiene,2018,0,0,No service
+EGY,Egypt,hospital,Water,2018,0,0,No service
+EGY,Egypt,non_government,Water,2018,0.25,246059,No service
+EGY,Egypt,total,Health care waste,2018,0,0,No service
+EGY,Egypt,hospital,Health care waste,2018,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2018,0,0,No service
+EGY,Egypt,government,Health care waste,2018,0,0,No service
+EGY,Egypt,non_government,Health care waste,2018,0,0,No service
+EGY,Egypt,total,Environmental cleaning,2019,100,100388080,Insufficient data
+EGY,Egypt,urban,Environmental cleaning,2019,100,42895828,Insufficient data
+EGY,Egypt,rural,Environmental cleaning,2019,100,57492248,Insufficient data
+EGY,Egypt,hospital,Environmental cleaning,2019,100,100388080,Insufficient data
+EGY,Egypt,non_hospital,Environmental cleaning,2019,100,100388080,Insufficient data
+EGY,Egypt,government,Environmental cleaning,2019,100,100388080,Insufficient data
+EGY,Egypt,non_government,Environmental cleaning,2019,100,100388080,Insufficient data
+EGY,Egypt,total,Hygiene,2019,99.84825,100235741.0886,Insufficient data
+EGY,Egypt,urban,Hygiene,2019,100,42895828,Insufficient data
+EGY,Egypt,rural,Hygiene,2019,100,57492248,Insufficient data
+EGY,Egypt,hospital,Hygiene,2019,100,100388080,Insufficient data
+EGY,Egypt,non_hospital,Hygiene,2019,99.827,100214408.6216,Insufficient data
+EGY,Egypt,government,Hygiene,2019,99.8211,100208485.72488,Insufficient data
+EGY,Egypt,non_government,Hygiene,2019,100,100388080,Insufficient data
+EGY,Egypt,total,Sanitation,2019,100,100388080,Insufficient data
+EGY,Egypt,urban,Sanitation,2019,100,42895828,Insufficient data
+EGY,Egypt,rural,Sanitation,2019,100,57492248,Insufficient data
+EGY,Egypt,hospital,Sanitation,2019,100,100388080,Insufficient data
+EGY,Egypt,non_hospital,Sanitation,2019,100,100388080,Insufficient data
+EGY,Egypt,government,Sanitation,2019,100,100388080,Insufficient data
+EGY,Egypt,non_government,Sanitation,2019,100,100388080,Insufficient data
+EGY,Egypt,total,Water,2019,100,100388080,Insufficient data
+EGY,Egypt,urban,Water,2019,100,42895828,Insufficient data
+EGY,Egypt,rural,Water,2019,100,57492248,Insufficient data
+EGY,Egypt,hospital,Water,2019,100,100388080,Insufficient data
+EGY,Egypt,non_hospital,Water,2019,100,100388080,Insufficient data
+EGY,Egypt,government,Water,2019,100,100388080,Insufficient data
+EGY,Egypt,non_government,Water,2019,99.75,100137109.8,Insufficient data
+EGY,Egypt,total,Health care waste,2019,100,100388080,Insufficient data
+EGY,Egypt,urban,Health care waste,2019,100,42895828,Insufficient data
+EGY,Egypt,rural,Health care waste,2019,100,57492248,Insufficient data
+EGY,Egypt,hospital,Health care waste,2019,100,100388080,Insufficient data
+EGY,Egypt,non_hospital,Health care waste,2019,100,100388080,Insufficient data
+EGY,Egypt,government,Health care waste,2019,100,100388080,Insufficient data
+EGY,Egypt,non_government,Health care waste,2019,100,100388080,Insufficient data
+EGY,Egypt,total,Hygiene,2019,0.15175,152338.9114,No service
+EGY,Egypt,hospital,Hygiene,2019,0,0,No service
+EGY,Egypt,non_hospital,Hygiene,2019,0.173,173671.3784,No service
+EGY,Egypt,government,Hygiene,2019,0.1789,179594.27512,No service
+EGY,Egypt,non_government,Hygiene,2019,0,0,No service
+EGY,Egypt,hospital,Water,2019,0,0,No service
+EGY,Egypt,non_government,Water,2019,0.25,250970.2,No service
+EGY,Egypt,total,Health care waste,2019,0,0,No service
+EGY,Egypt,hospital,Health care waste,2019,0,0,No service
+EGY,Egypt,non_hospital,Health care waste,2019,0,0,No service
+EGY,Egypt,government,Health care waste,2019,0,0,No service
+EGY,Egypt,non_government,Health care waste,2019,0,0,No service

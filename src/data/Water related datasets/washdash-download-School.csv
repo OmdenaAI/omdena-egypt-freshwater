@@ -1,0 +1,721 @@
+ISO3,Country,Residence / School Type,Service Type,Year,Coverage,School-age population,Service level
+EGY,Egypt,total,Hygiene,2000,100,21541320,Basic service
+EGY,Egypt,primary,Hygiene,2000,100,8470876,Basic service
+EGY,Egypt,secondary,Hygiene,2000,100,9792149,Basic service
+EGY,Egypt,total,Sanitation,2000,100,21541320,Basic service
+EGY,Egypt,primary,Sanitation,2000,100,8470876,Basic service
+EGY,Egypt,secondary,Sanitation,2000,100,9792149,Basic service
+EGY,Egypt,total,Hygiene,2000,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2000,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2000,0,0,Limited service
+EGY,Egypt,total,Sanitation,2000,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2000,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2000,0,0,Limited service
+EGY,Egypt,total,Hygiene,2000,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2000,100,3278294,Insufficient data
+EGY,Egypt,primary,Hygiene,2000,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2000,100,12322281,Insufficient data
+EGY,Egypt,secondary,Hygiene,2000,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2000,100,9219039,Insufficient data
+EGY,Egypt,total,Sanitation,2000,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2000,100,3278294,Insufficient data
+EGY,Egypt,primary,Sanitation,2000,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2000,100,12322281,Insufficient data
+EGY,Egypt,secondary,Sanitation,2000,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2000,100,9219039,Insufficient data
+EGY,Egypt,total,Drinking water,2000,100,21541320,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2000,100,3278294,Insufficient data
+EGY,Egypt,primary,Drinking water,2000,100,8470876,Insufficient data
+EGY,Egypt,rural,Drinking water,2000,100,12322281,Insufficient data
+EGY,Egypt,secondary,Drinking water,2000,100,9792149,Insufficient data
+EGY,Egypt,urban,Drinking water,2000,100,9219039,Insufficient data
+EGY,Egypt,total,Hygiene,2000,0,0,No service
+EGY,Egypt,primary,Hygiene,2000,0,0,No service
+EGY,Egypt,secondary,Hygiene,2000,0,0,No service
+EGY,Egypt,total,Sanitation,2000,0,0,No service
+EGY,Egypt,primary,Sanitation,2000,0,0,No service
+EGY,Egypt,secondary,Sanitation,2000,0,0,No service
+EGY,Egypt,total,Hygiene,2001,100,21647366,Basic service
+EGY,Egypt,primary,Hygiene,2001,100,8360567,Basic service
+EGY,Egypt,secondary,Hygiene,2001,100,9994962,Basic service
+EGY,Egypt,total,Sanitation,2001,100,21647366,Basic service
+EGY,Egypt,primary,Sanitation,2001,100,8360567,Basic service
+EGY,Egypt,secondary,Sanitation,2001,100,9994962,Basic service
+EGY,Egypt,total,Hygiene,2001,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2001,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2001,0,0,Limited service
+EGY,Egypt,total,Sanitation,2001,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2001,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2001,0,0,Limited service
+EGY,Egypt,total,Hygiene,2001,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2001,100,3291837,Insufficient data
+EGY,Egypt,primary,Hygiene,2001,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2001,100,12372985,Insufficient data
+EGY,Egypt,secondary,Hygiene,2001,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2001,100,9274381,Insufficient data
+EGY,Egypt,total,Sanitation,2001,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2001,100,3291837,Insufficient data
+EGY,Egypt,primary,Sanitation,2001,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2001,100,12372985,Insufficient data
+EGY,Egypt,secondary,Sanitation,2001,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2001,100,9274381,Insufficient data
+EGY,Egypt,total,Drinking water,2001,100,21647366,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2001,100,3291837,Insufficient data
+EGY,Egypt,primary,Drinking water,2001,100,8360567,Insufficient data
+EGY,Egypt,rural,Drinking water,2001,100,12372985,Insufficient data
+EGY,Egypt,secondary,Drinking water,2001,100,9994962,Insufficient data
+EGY,Egypt,urban,Drinking water,2001,100,9274381,Insufficient data
+EGY,Egypt,total,Hygiene,2001,0,0,No service
+EGY,Egypt,primary,Hygiene,2001,0,0,No service
+EGY,Egypt,secondary,Hygiene,2001,0,0,No service
+EGY,Egypt,total,Sanitation,2001,0,0,No service
+EGY,Egypt,primary,Sanitation,2001,0,0,No service
+EGY,Egypt,secondary,Sanitation,2001,0,0,No service
+EGY,Egypt,total,Hygiene,2002,100,21714108,Basic service
+EGY,Egypt,primary,Hygiene,2002,100,8287324,Basic service
+EGY,Egypt,secondary,Hygiene,2002,100,10107895,Basic service
+EGY,Egypt,total,Sanitation,2002,100,21714108,Basic service
+EGY,Egypt,primary,Sanitation,2002,100,8287324,Basic service
+EGY,Egypt,secondary,Sanitation,2002,100,10107895,Basic service
+EGY,Egypt,total,Hygiene,2002,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2002,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2002,0,0,Limited service
+EGY,Egypt,total,Sanitation,2002,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2002,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2002,0,0,Limited service
+EGY,Egypt,total,Hygiene,2002,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2002,100,3318890,Insufficient data
+EGY,Egypt,primary,Hygiene,2002,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2002,100,12401144,Insufficient data
+EGY,Egypt,secondary,Hygiene,2002,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2002,100,9312964,Insufficient data
+EGY,Egypt,total,Sanitation,2002,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2002,100,3318890,Insufficient data
+EGY,Egypt,primary,Sanitation,2002,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2002,100,12401144,Insufficient data
+EGY,Egypt,secondary,Sanitation,2002,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2002,100,9312964,Insufficient data
+EGY,Egypt,total,Drinking water,2002,100,21714108,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2002,100,3318890,Insufficient data
+EGY,Egypt,primary,Drinking water,2002,100,8287324,Insufficient data
+EGY,Egypt,rural,Drinking water,2002,100,12401144,Insufficient data
+EGY,Egypt,secondary,Drinking water,2002,100,10107895,Insufficient data
+EGY,Egypt,urban,Drinking water,2002,100,9312964,Insufficient data
+EGY,Egypt,total,Hygiene,2002,0,0,No service
+EGY,Egypt,primary,Hygiene,2002,0,0,No service
+EGY,Egypt,secondary,Hygiene,2002,0,0,No service
+EGY,Egypt,total,Sanitation,2002,0,0,No service
+EGY,Egypt,primary,Sanitation,2002,0,0,No service
+EGY,Egypt,secondary,Sanitation,2002,0,0,No service
+EGY,Egypt,total,Hygiene,2003,100,21796616,Basic service
+EGY,Egypt,primary,Hygiene,2003,100,8259674,Basic service
+EGY,Egypt,secondary,Hygiene,2003,100,10170768,Basic service
+EGY,Egypt,total,Sanitation,2003,100,21796616,Basic service
+EGY,Egypt,primary,Sanitation,2003,100,8259674,Basic service
+EGY,Egypt,secondary,Sanitation,2003,100,10170768,Basic service
+EGY,Egypt,total,Hygiene,2003,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2003,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2003,0,0,Limited service
+EGY,Egypt,total,Sanitation,2003,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2003,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2003,0,0,Limited service
+EGY,Egypt,total,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2003,100,3366175,Insufficient data
+EGY,Egypt,primary,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2003,100,12438239,Insufficient data
+EGY,Egypt,secondary,Hygiene,2003,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2003,100,9358377,Insufficient data
+EGY,Egypt,total,Sanitation,2003,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2003,100,3366175,Insufficient data
+EGY,Egypt,primary,Sanitation,2003,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2003,100,12438239,Insufficient data
+EGY,Egypt,secondary,Sanitation,2003,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2003,100,9358377,Insufficient data
+EGY,Egypt,total,Drinking water,2003,100,21796616,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2003,100,3366175,Insufficient data
+EGY,Egypt,primary,Drinking water,2003,100,8259674,Insufficient data
+EGY,Egypt,rural,Drinking water,2003,100,12438239,Insufficient data
+EGY,Egypt,secondary,Drinking water,2003,100,10170768,Insufficient data
+EGY,Egypt,urban,Drinking water,2003,100,9358377,Insufficient data
+EGY,Egypt,total,Hygiene,2003,0,0,No service
+EGY,Egypt,primary,Hygiene,2003,0,0,No service
+EGY,Egypt,secondary,Hygiene,2003,0,0,No service
+EGY,Egypt,total,Sanitation,2003,0,0,No service
+EGY,Egypt,primary,Sanitation,2003,0,0,No service
+EGY,Egypt,secondary,Sanitation,2003,0,0,No service
+EGY,Egypt,total,Hygiene,2004,100,21879624,Basic service
+EGY,Egypt,primary,Hygiene,2004,100,8283654,Basic service
+EGY,Egypt,secondary,Hygiene,2004,100,10176199,Basic service
+EGY,Egypt,total,Sanitation,2004,100,21879624,Basic service
+EGY,Egypt,primary,Sanitation,2004,100,8283654,Basic service
+EGY,Egypt,secondary,Sanitation,2004,100,10176199,Basic service
+EGY,Egypt,total,Hygiene,2004,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2004,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2004,0,0,Limited service
+EGY,Egypt,total,Sanitation,2004,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2004,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2004,0,0,Limited service
+EGY,Egypt,total,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2004,100,3419772,Insufficient data
+EGY,Egypt,primary,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2004,100,12475543,Insufficient data
+EGY,Egypt,secondary,Hygiene,2004,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2004,100,9404081,Insufficient data
+EGY,Egypt,total,Sanitation,2004,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2004,100,3419772,Insufficient data
+EGY,Egypt,primary,Sanitation,2004,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2004,100,12475543,Insufficient data
+EGY,Egypt,secondary,Sanitation,2004,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2004,100,9404081,Insufficient data
+EGY,Egypt,total,Drinking water,2004,100,21879624,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2004,100,3419772,Insufficient data
+EGY,Egypt,primary,Drinking water,2004,100,8283654,Insufficient data
+EGY,Egypt,rural,Drinking water,2004,100,12475543,Insufficient data
+EGY,Egypt,secondary,Drinking water,2004,100,10176199,Insufficient data
+EGY,Egypt,urban,Drinking water,2004,100,9404081,Insufficient data
+EGY,Egypt,total,Hygiene,2004,0,0,No service
+EGY,Egypt,primary,Hygiene,2004,0,0,No service
+EGY,Egypt,secondary,Hygiene,2004,0,0,No service
+EGY,Egypt,total,Sanitation,2004,0,0,No service
+EGY,Egypt,primary,Sanitation,2004,0,0,No service
+EGY,Egypt,secondary,Sanitation,2004,0,0,No service
+EGY,Egypt,total,Hygiene,2005,100,23622708,Basic service
+EGY,Egypt,primary,Hygiene,2005,100,9992644,Basic service
+EGY,Egypt,secondary,Hygiene,2005,100,10170299,Basic service
+EGY,Egypt,total,Sanitation,2005,100,23622708,Basic service
+EGY,Egypt,primary,Sanitation,2005,100,9992644,Basic service
+EGY,Egypt,secondary,Sanitation,2005,100,10170299,Basic service
+EGY,Egypt,total,Hygiene,2005,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2005,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2005,0,0,Limited service
+EGY,Egypt,total,Sanitation,2005,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2005,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2005,0,0,Limited service
+EGY,Egypt,total,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2005,100,3459764,Insufficient data
+EGY,Egypt,primary,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2005,100,13458565,Insufficient data
+EGY,Egypt,secondary,Hygiene,2005,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2005,100,10164143,Insufficient data
+EGY,Egypt,total,Sanitation,2005,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2005,100,3459764,Insufficient data
+EGY,Egypt,primary,Sanitation,2005,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2005,100,13458565,Insufficient data
+EGY,Egypt,secondary,Sanitation,2005,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2005,100,10164143,Insufficient data
+EGY,Egypt,total,Drinking water,2005,100,23622708,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2005,100,3459764,Insufficient data
+EGY,Egypt,primary,Drinking water,2005,100,9992644,Insufficient data
+EGY,Egypt,rural,Drinking water,2005,100,13458565,Insufficient data
+EGY,Egypt,secondary,Drinking water,2005,100,10170299,Insufficient data
+EGY,Egypt,urban,Drinking water,2005,100,10164143,Insufficient data
+EGY,Egypt,total,Hygiene,2005,0,0,No service
+EGY,Egypt,primary,Hygiene,2005,0,0,No service
+EGY,Egypt,secondary,Hygiene,2005,0,0,No service
+EGY,Egypt,total,Sanitation,2005,0,0,No service
+EGY,Egypt,primary,Sanitation,2005,0,0,No service
+EGY,Egypt,secondary,Sanitation,2005,0,0,No service
+EGY,Egypt,total,Hygiene,2006,100,23634764,Basic service
+EGY,Egypt,primary,Hygiene,2006,100,10070387,Basic service
+EGY,Egypt,secondary,Hygiene,2006,100,10101165,Basic service
+EGY,Egypt,total,Sanitation,2006,100,23634764,Basic service
+EGY,Egypt,primary,Sanitation,2006,100,10070387,Basic service
+EGY,Egypt,secondary,Sanitation,2006,100,10101165,Basic service
+EGY,Egypt,total,Hygiene,2006,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2006,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2006,0,0,Limited service
+EGY,Egypt,total,Sanitation,2006,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2006,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2006,0,0,Limited service
+EGY,Egypt,total,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2006,100,3463211,Insufficient data
+EGY,Egypt,primary,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2006,100,13454562,Insufficient data
+EGY,Egypt,secondary,Hygiene,2006,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2006,100,10180202,Insufficient data
+EGY,Egypt,total,Sanitation,2006,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2006,100,3463211,Insufficient data
+EGY,Egypt,primary,Sanitation,2006,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2006,100,13454562,Insufficient data
+EGY,Egypt,secondary,Sanitation,2006,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2006,100,10180202,Insufficient data
+EGY,Egypt,total,Drinking water,2006,100,23634764,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2006,100,3463211,Insufficient data
+EGY,Egypt,primary,Drinking water,2006,100,10070387,Insufficient data
+EGY,Egypt,rural,Drinking water,2006,100,13454562,Insufficient data
+EGY,Egypt,secondary,Drinking water,2006,100,10101165,Insufficient data
+EGY,Egypt,urban,Drinking water,2006,100,10180202,Insufficient data
+EGY,Egypt,total,Hygiene,2006,0,0,No service
+EGY,Egypt,primary,Hygiene,2006,0,0,No service
+EGY,Egypt,secondary,Hygiene,2006,0,0,No service
+EGY,Egypt,total,Sanitation,2006,0,0,No service
+EGY,Egypt,primary,Sanitation,2006,0,0,No service
+EGY,Egypt,secondary,Sanitation,2006,0,0,No service
+EGY,Egypt,total,Hygiene,2007,100,23650526,Basic service
+EGY,Egypt,primary,Hygiene,2007,100,10151983,Basic service
+EGY,Egypt,secondary,Hygiene,2007,100,10017761,Basic service
+EGY,Egypt,total,Sanitation,2007,100,23650526,Basic service
+EGY,Egypt,primary,Sanitation,2007,100,10151983,Basic service
+EGY,Egypt,secondary,Sanitation,2007,100,10017761,Basic service
+EGY,Egypt,total,Hygiene,2007,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2007,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2007,0,0,Limited service
+EGY,Egypt,total,Sanitation,2007,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2007,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2007,0,0,Limited service
+EGY,Egypt,total,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2007,100,3480782,Insufficient data
+EGY,Egypt,primary,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2007,100,13462353,Insufficient data
+EGY,Egypt,secondary,Hygiene,2007,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2007,100,10188173,Insufficient data
+EGY,Egypt,total,Sanitation,2007,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2007,100,3480782,Insufficient data
+EGY,Egypt,primary,Sanitation,2007,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2007,100,13462353,Insufficient data
+EGY,Egypt,secondary,Sanitation,2007,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2007,100,10188173,Insufficient data
+EGY,Egypt,total,Drinking water,2007,100,23650526,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2007,100,3480782,Insufficient data
+EGY,Egypt,primary,Drinking water,2007,100,10151983,Insufficient data
+EGY,Egypt,rural,Drinking water,2007,100,13462353,Insufficient data
+EGY,Egypt,secondary,Drinking water,2007,100,10017761,Insufficient data
+EGY,Egypt,urban,Drinking water,2007,100,10188173,Insufficient data
+EGY,Egypt,total,Hygiene,2007,0,0,No service
+EGY,Egypt,primary,Hygiene,2007,0,0,No service
+EGY,Egypt,secondary,Hygiene,2007,0,0,No service
+EGY,Egypt,total,Sanitation,2007,0,0,No service
+EGY,Egypt,primary,Sanitation,2007,0,0,No service
+EGY,Egypt,secondary,Sanitation,2007,0,0,No service
+EGY,Egypt,total,Hygiene,2008,100,23665732,Basic service
+EGY,Egypt,primary,Hygiene,2008,100,10215254,Basic service
+EGY,Egypt,secondary,Hygiene,2008,100,9954121,Basic service
+EGY,Egypt,total,Sanitation,2008,100,23665732,Basic service
+EGY,Egypt,primary,Sanitation,2008,100,10215254,Basic service
+EGY,Egypt,secondary,Sanitation,2008,100,9954121,Basic service
+EGY,Egypt,total,Hygiene,2008,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2008,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2008,0,0,Limited service
+EGY,Egypt,total,Sanitation,2008,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2008,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2008,0,0,Limited service
+EGY,Egypt,total,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2008,100,3496356,Insufficient data
+EGY,Egypt,primary,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2008,100,13475741,Insufficient data
+EGY,Egypt,secondary,Hygiene,2008,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2008,100,10189991,Insufficient data
+EGY,Egypt,total,Sanitation,2008,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2008,100,3496356,Insufficient data
+EGY,Egypt,primary,Sanitation,2008,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2008,100,13475741,Insufficient data
+EGY,Egypt,secondary,Sanitation,2008,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2008,100,10189991,Insufficient data
+EGY,Egypt,total,Drinking water,2008,100,23665732,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2008,100,3496356,Insufficient data
+EGY,Egypt,primary,Drinking water,2008,100,10215254,Insufficient data
+EGY,Egypt,rural,Drinking water,2008,100,13475741,Insufficient data
+EGY,Egypt,secondary,Drinking water,2008,100,9954121,Insufficient data
+EGY,Egypt,urban,Drinking water,2008,100,10189991,Insufficient data
+EGY,Egypt,total,Hygiene,2008,0,0,No service
+EGY,Egypt,primary,Hygiene,2008,0,0,No service
+EGY,Egypt,secondary,Hygiene,2008,0,0,No service
+EGY,Egypt,total,Sanitation,2008,0,0,No service
+EGY,Egypt,primary,Sanitation,2008,0,0,No service
+EGY,Egypt,secondary,Sanitation,2008,0,0,No service
+EGY,Egypt,total,Hygiene,2009,100,23709448,Basic service
+EGY,Egypt,primary,Hygiene,2009,100,10265263,Basic service
+EGY,Egypt,secondary,Hygiene,2009,100,9925785,Basic service
+EGY,Egypt,total,Sanitation,2009,100,23709448,Basic service
+EGY,Egypt,primary,Sanitation,2009,100,10265263,Basic service
+EGY,Egypt,secondary,Sanitation,2009,100,9925785,Basic service
+EGY,Egypt,total,Hygiene,2009,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2009,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2009,0,0,Limited service
+EGY,Egypt,total,Sanitation,2009,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2009,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2009,0,0,Limited service
+EGY,Egypt,total,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2009,100,3518399,Insufficient data
+EGY,Egypt,primary,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2009,100,13505138,Insufficient data
+EGY,Egypt,secondary,Hygiene,2009,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2009,100,10204310,Insufficient data
+EGY,Egypt,total,Sanitation,2009,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2009,100,3518399,Insufficient data
+EGY,Egypt,primary,Sanitation,2009,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2009,100,13505138,Insufficient data
+EGY,Egypt,secondary,Sanitation,2009,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2009,100,10204310,Insufficient data
+EGY,Egypt,total,Drinking water,2009,100,23709448,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2009,100,3518399,Insufficient data
+EGY,Egypt,primary,Drinking water,2009,100,10265263,Insufficient data
+EGY,Egypt,rural,Drinking water,2009,100,13505138,Insufficient data
+EGY,Egypt,secondary,Drinking water,2009,100,9925785,Insufficient data
+EGY,Egypt,urban,Drinking water,2009,100,10204310,Insufficient data
+EGY,Egypt,total,Hygiene,2009,0,0,No service
+EGY,Egypt,primary,Hygiene,2009,0,0,No service
+EGY,Egypt,secondary,Hygiene,2009,0,0,No service
+EGY,Egypt,total,Sanitation,2009,0,0,No service
+EGY,Egypt,primary,Sanitation,2009,0,0,No service
+EGY,Egypt,secondary,Sanitation,2009,0,0,No service
+EGY,Egypt,total,Hygiene,2010,100,23799422,Basic service
+EGY,Egypt,primary,Hygiene,2010,100,10306597,Basic service
+EGY,Egypt,secondary,Hygiene,2010,100,9934873,Basic service
+EGY,Egypt,total,Sanitation,2010,100,23799422,Basic service
+EGY,Egypt,primary,Sanitation,2010,100,10306597,Basic service
+EGY,Egypt,secondary,Sanitation,2010,100,9934873,Basic service
+EGY,Egypt,total,Hygiene,2010,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2010,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2010,0,0,Limited service
+EGY,Egypt,total,Sanitation,2010,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2010,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2010,0,0,Limited service
+EGY,Egypt,total,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2010,100,3557952,Insufficient data
+EGY,Egypt,primary,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2010,100,13561148,Insufficient data
+EGY,Egypt,secondary,Hygiene,2010,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2010,100,10238274,Insufficient data
+EGY,Egypt,total,Sanitation,2010,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2010,100,3557952,Insufficient data
+EGY,Egypt,primary,Sanitation,2010,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2010,100,13561148,Insufficient data
+EGY,Egypt,secondary,Sanitation,2010,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2010,100,10238274,Insufficient data
+EGY,Egypt,total,Drinking water,2010,100,23799422,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2010,100,3557952,Insufficient data
+EGY,Egypt,primary,Drinking water,2010,100,10306597,Insufficient data
+EGY,Egypt,rural,Drinking water,2010,100,13561148,Insufficient data
+EGY,Egypt,secondary,Drinking water,2010,100,9934873,Insufficient data
+EGY,Egypt,urban,Drinking water,2010,100,10238274,Insufficient data
+EGY,Egypt,total,Hygiene,2010,0,0,No service
+EGY,Egypt,primary,Hygiene,2010,0,0,No service
+EGY,Egypt,secondary,Hygiene,2010,0,0,No service
+EGY,Egypt,total,Sanitation,2010,0,0,No service
+EGY,Egypt,primary,Sanitation,2010,0,0,No service
+EGY,Egypt,secondary,Sanitation,2010,0,0,No service
+EGY,Egypt,total,Hygiene,2011,100,23959856,Basic service
+EGY,Egypt,primary,Hygiene,2011,100,10350419,Basic service
+EGY,Egypt,secondary,Hygiene,2011,100,9981696,Basic service
+EGY,Egypt,total,Sanitation,2011,100,23959856,Basic service
+EGY,Egypt,primary,Sanitation,2011,100,10350419,Basic service
+EGY,Egypt,secondary,Sanitation,2011,100,9981696,Basic service
+EGY,Egypt,total,Hygiene,2011,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2011,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2011,0,0,Limited service
+EGY,Egypt,total,Sanitation,2011,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2011,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2011,0,0,Limited service
+EGY,Egypt,total,Hygiene,2011,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2011,100,3627742,Insufficient data
+EGY,Egypt,primary,Hygiene,2011,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2011,100,13657118,Insufficient data
+EGY,Egypt,secondary,Hygiene,2011,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2011,100,10302738,Insufficient data
+EGY,Egypt,total,Sanitation,2011,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2011,100,3627742,Insufficient data
+EGY,Egypt,primary,Sanitation,2011,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2011,100,13657118,Insufficient data
+EGY,Egypt,secondary,Sanitation,2011,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2011,100,10302738,Insufficient data
+EGY,Egypt,total,Drinking water,2011,100,23959856,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2011,100,3627742,Insufficient data
+EGY,Egypt,primary,Drinking water,2011,100,10350419,Insufficient data
+EGY,Egypt,rural,Drinking water,2011,100,13657118,Insufficient data
+EGY,Egypt,secondary,Drinking water,2011,100,9981696,Insufficient data
+EGY,Egypt,urban,Drinking water,2011,100,10302738,Insufficient data
+EGY,Egypt,total,Hygiene,2011,0,0,No service
+EGY,Egypt,primary,Hygiene,2011,0,0,No service
+EGY,Egypt,secondary,Hygiene,2011,0,0,No service
+EGY,Egypt,total,Sanitation,2011,0,0,No service
+EGY,Egypt,primary,Sanitation,2011,0,0,No service
+EGY,Egypt,secondary,Sanitation,2011,0,0,No service
+EGY,Egypt,total,Hygiene,2012,100,24210212,Basic service
+EGY,Egypt,primary,Hygiene,2012,100,10446290,Basic service
+EGY,Egypt,secondary,Hygiene,2012,100,10052436,Basic service
+EGY,Egypt,total,Sanitation,2012,100,24210212,Basic service
+EGY,Egypt,primary,Sanitation,2012,100,10446290,Basic service
+EGY,Egypt,secondary,Sanitation,2012,100,10052436,Basic service
+EGY,Egypt,total,Hygiene,2012,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2012,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2012,0,0,Limited service
+EGY,Egypt,total,Sanitation,2012,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2012,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2012,0,0,Limited service
+EGY,Egypt,total,Hygiene,2012,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2012,100,3711485,Insufficient data
+EGY,Egypt,primary,Hygiene,2012,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2012,100,13812895,Insufficient data
+EGY,Egypt,secondary,Hygiene,2012,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2012,100,10397317,Insufficient data
+EGY,Egypt,total,Sanitation,2012,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2012,100,3711485,Insufficient data
+EGY,Egypt,primary,Sanitation,2012,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2012,100,13812895,Insufficient data
+EGY,Egypt,secondary,Sanitation,2012,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2012,100,10397317,Insufficient data
+EGY,Egypt,total,Drinking water,2012,100,24210212,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2012,100,3711485,Insufficient data
+EGY,Egypt,primary,Drinking water,2012,100,10446290,Insufficient data
+EGY,Egypt,rural,Drinking water,2012,100,13812895,Insufficient data
+EGY,Egypt,secondary,Drinking water,2012,100,10052436,Insufficient data
+EGY,Egypt,urban,Drinking water,2012,100,10397317,Insufficient data
+EGY,Egypt,total,Hygiene,2012,0,0,No service
+EGY,Egypt,primary,Hygiene,2012,0,0,No service
+EGY,Egypt,secondary,Hygiene,2012,0,0,No service
+EGY,Egypt,total,Sanitation,2012,0,0,No service
+EGY,Egypt,primary,Sanitation,2012,0,0,No service
+EGY,Egypt,secondary,Sanitation,2012,0,0,No service
+EGY,Egypt,total,Hygiene,2013,100,24487320,Basic service
+EGY,Egypt,primary,Hygiene,2013,100,10564505,Basic service
+EGY,Egypt,secondary,Hygiene,2013,100,10111843,Basic service
+EGY,Egypt,total,Sanitation,2013,100,24487320,Basic service
+EGY,Egypt,primary,Sanitation,2013,100,10564505,Basic service
+EGY,Egypt,secondary,Sanitation,2013,100,10111843,Basic service
+EGY,Egypt,total,Hygiene,2013,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2013,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2013,0,0,Limited service
+EGY,Egypt,total,Sanitation,2013,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2013,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2013,0,0,Limited service
+EGY,Egypt,total,Hygiene,2013,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2013,100,3810972,Insufficient data
+EGY,Egypt,primary,Hygiene,2013,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2013,100,13983973,Insufficient data
+EGY,Egypt,secondary,Hygiene,2013,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2013,100,10503347,Insufficient data
+EGY,Egypt,total,Sanitation,2013,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2013,100,3810972,Insufficient data
+EGY,Egypt,primary,Sanitation,2013,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2013,100,13983973,Insufficient data
+EGY,Egypt,secondary,Sanitation,2013,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2013,100,10503347,Insufficient data
+EGY,Egypt,total,Drinking water,2013,100,24487320,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2013,100,3810972,Insufficient data
+EGY,Egypt,primary,Drinking water,2013,100,10564505,Insufficient data
+EGY,Egypt,rural,Drinking water,2013,100,13983973,Insufficient data
+EGY,Egypt,secondary,Drinking water,2013,100,10111843,Insufficient data
+EGY,Egypt,urban,Drinking water,2013,100,10503347,Insufficient data
+EGY,Egypt,total,Hygiene,2013,0,0,No service
+EGY,Egypt,primary,Hygiene,2013,0,0,No service
+EGY,Egypt,secondary,Hygiene,2013,0,0,No service
+EGY,Egypt,total,Sanitation,2013,0,0,No service
+EGY,Egypt,primary,Sanitation,2013,0,0,No service
+EGY,Egypt,secondary,Sanitation,2013,0,0,No service
+EGY,Egypt,total,Hygiene,2014,100,24804920,Basic service
+EGY,Egypt,primary,Hygiene,2014,100,10713262,Basic service
+EGY,Egypt,secondary,Hygiene,2014,100,10159148,Basic service
+EGY,Egypt,total,Sanitation,2014,100,24804920,Basic service
+EGY,Egypt,primary,Sanitation,2014,100,10713262,Basic service
+EGY,Egypt,secondary,Sanitation,2014,100,10159148,Basic service
+EGY,Egypt,total,Hygiene,2014,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2014,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2014,0,0,Limited service
+EGY,Egypt,total,Sanitation,2014,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2014,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2014,0,0,Limited service
+EGY,Egypt,total,Hygiene,2014,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2014,100,3932511,Insufficient data
+EGY,Egypt,primary,Hygiene,2014,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2014,100,14178740,Insufficient data
+EGY,Egypt,secondary,Hygiene,2014,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2014,100,10626180,Insufficient data
+EGY,Egypt,total,Sanitation,2014,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2014,100,3932511,Insufficient data
+EGY,Egypt,primary,Sanitation,2014,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2014,100,14178740,Insufficient data
+EGY,Egypt,secondary,Sanitation,2014,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2014,100,10626180,Insufficient data
+EGY,Egypt,total,Drinking water,2014,100,24804920,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2014,100,3932511,Insufficient data
+EGY,Egypt,primary,Drinking water,2014,100,10713262,Insufficient data
+EGY,Egypt,rural,Drinking water,2014,100,14178740,Insufficient data
+EGY,Egypt,secondary,Drinking water,2014,100,10159148,Insufficient data
+EGY,Egypt,urban,Drinking water,2014,100,10626180,Insufficient data
+EGY,Egypt,total,Hygiene,2014,0,0,No service
+EGY,Egypt,primary,Hygiene,2014,0,0,No service
+EGY,Egypt,secondary,Hygiene,2014,0,0,No service
+EGY,Egypt,total,Sanitation,2014,0,0,No service
+EGY,Egypt,primary,Sanitation,2014,0,0,No service
+EGY,Egypt,secondary,Sanitation,2014,0,0,No service
+EGY,Egypt,total,Hygiene,2015,100,25202700,Basic service
+EGY,Egypt,primary,Hygiene,2015,100,10907479,Basic service
+EGY,Egypt,secondary,Hygiene,2015,100,10210341,Basic service
+EGY,Egypt,total,Sanitation,2015,100,25202700,Basic service
+EGY,Egypt,primary,Sanitation,2015,100,10907479,Basic service
+EGY,Egypt,secondary,Sanitation,2015,100,10210341,Basic service
+EGY,Egypt,total,Hygiene,2015,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2015,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2015,0,0,Limited service
+EGY,Egypt,total,Sanitation,2015,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2015,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2015,0,0,Limited service
+EGY,Egypt,total,Hygiene,2015,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2015,100,4084879,Insufficient data
+EGY,Egypt,primary,Hygiene,2015,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2015,100,14419725,Insufficient data
+EGY,Egypt,secondary,Hygiene,2015,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2015,100,10782975,Insufficient data
+EGY,Egypt,total,Sanitation,2015,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2015,100,4084879,Insufficient data
+EGY,Egypt,primary,Sanitation,2015,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2015,100,14419725,Insufficient data
+EGY,Egypt,secondary,Sanitation,2015,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2015,100,10782975,Insufficient data
+EGY,Egypt,total,Drinking water,2015,100,25202700,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2015,100,4084879,Insufficient data
+EGY,Egypt,primary,Drinking water,2015,100,10907479,Insufficient data
+EGY,Egypt,rural,Drinking water,2015,100,14419725,Insufficient data
+EGY,Egypt,secondary,Drinking water,2015,100,10210341,Insufficient data
+EGY,Egypt,urban,Drinking water,2015,100,10782975,Insufficient data
+EGY,Egypt,total,Hygiene,2015,0,0,No service
+EGY,Egypt,primary,Hygiene,2015,0,0,No service
+EGY,Egypt,secondary,Hygiene,2015,0,0,No service
+EGY,Egypt,total,Sanitation,2015,0,0,No service
+EGY,Egypt,primary,Sanitation,2015,0,0,No service
+EGY,Egypt,secondary,Sanitation,2015,0,0,No service
+EGY,Egypt,total,Hygiene,2016,100,25708408,Basic service
+EGY,Egypt,primary,Hygiene,2016,100,11162123,Basic service
+EGY,Egypt,secondary,Hygiene,2016,100,10270307,Basic service
+EGY,Egypt,total,Sanitation,2016,100,25708408,Basic service
+EGY,Egypt,primary,Sanitation,2016,100,11162123,Basic service
+EGY,Egypt,secondary,Sanitation,2016,100,10270307,Basic service
+EGY,Egypt,total,Hygiene,2016,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2016,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2016,0,0,Limited service
+EGY,Egypt,total,Sanitation,2016,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2016,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2016,0,0,Limited service
+EGY,Egypt,total,Hygiene,2016,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2016,100,4275979,Insufficient data
+EGY,Egypt,primary,Hygiene,2016,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2016,100,14722691,Insufficient data
+EGY,Egypt,secondary,Hygiene,2016,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2016,100,10985717,Insufficient data
+EGY,Egypt,total,Sanitation,2016,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2016,100,4275979,Insufficient data
+EGY,Egypt,primary,Sanitation,2016,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2016,100,14722691,Insufficient data
+EGY,Egypt,secondary,Sanitation,2016,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2016,100,10985717,Insufficient data
+EGY,Egypt,total,Drinking water,2016,100,25708408,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2016,100,4275979,Insufficient data
+EGY,Egypt,primary,Drinking water,2016,100,11162123,Insufficient data
+EGY,Egypt,rural,Drinking water,2016,100,14722691,Insufficient data
+EGY,Egypt,secondary,Drinking water,2016,100,10270307,Insufficient data
+EGY,Egypt,urban,Drinking water,2016,100,10985717,Insufficient data
+EGY,Egypt,total,Hygiene,2016,0,0,No service
+EGY,Egypt,primary,Hygiene,2016,0,0,No service
+EGY,Egypt,secondary,Hygiene,2016,0,0,No service
+EGY,Egypt,total,Sanitation,2016,0,0,No service
+EGY,Egypt,primary,Sanitation,2016,0,0,No service
+EGY,Egypt,secondary,Sanitation,2016,0,0,No service
+EGY,Egypt,total,Hygiene,2017,100,26288432,Basic service
+EGY,Egypt,primary,Hygiene,2017,100,11458568,Basic service
+EGY,Egypt,secondary,Hygiene,2017,100,10307690,Basic service
+EGY,Egypt,total,Sanitation,2017,100,26288432,Basic service
+EGY,Egypt,primary,Sanitation,2017,100,11458568,Basic service
+EGY,Egypt,secondary,Sanitation,2017,100,10307690,Basic service
+EGY,Egypt,total,Hygiene,2017,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2017,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2017,0,0,Limited service
+EGY,Egypt,total,Sanitation,2017,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2017,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2017,0,0,Limited service
+EGY,Egypt,total,Hygiene,2017,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2017,100,4522174,Insufficient data
+EGY,Egypt,primary,Hygiene,2017,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2017,100,15061957,Insufficient data
+EGY,Egypt,secondary,Hygiene,2017,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2017,100,11226475,Insufficient data
+EGY,Egypt,total,Sanitation,2017,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2017,100,4522174,Insufficient data
+EGY,Egypt,primary,Sanitation,2017,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2017,100,15061957,Insufficient data
+EGY,Egypt,secondary,Sanitation,2017,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2017,100,11226475,Insufficient data
+EGY,Egypt,total,Drinking water,2017,100,26288432,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2017,100,4522174,Insufficient data
+EGY,Egypt,primary,Drinking water,2017,100,11458568,Insufficient data
+EGY,Egypt,rural,Drinking water,2017,100,15061957,Insufficient data
+EGY,Egypt,secondary,Drinking water,2017,100,10307690,Insufficient data
+EGY,Egypt,urban,Drinking water,2017,100,11226475,Insufficient data
+EGY,Egypt,total,Hygiene,2017,0,0,No service
+EGY,Egypt,primary,Hygiene,2017,0,0,No service
+EGY,Egypt,secondary,Hygiene,2017,0,0,No service
+EGY,Egypt,total,Sanitation,2017,0,0,No service
+EGY,Egypt,primary,Sanitation,2017,0,0,No service
+EGY,Egypt,secondary,Sanitation,2017,0,0,No service
+EGY,Egypt,total,Hygiene,2018,100,27086692,Basic service
+EGY,Egypt,primary,Hygiene,2018,100,11895655,Basic service
+EGY,Egypt,secondary,Hygiene,2018,100,10393210,Basic service
+EGY,Egypt,total,Sanitation,2018,100,27086692,Basic service
+EGY,Egypt,primary,Sanitation,2018,100,11895655,Basic service
+EGY,Egypt,secondary,Sanitation,2018,100,10393210,Basic service
+EGY,Egypt,total,Hygiene,2018,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2018,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2018,0,0,Limited service
+EGY,Egypt,total,Sanitation,2018,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2018,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2018,0,0,Limited service
+EGY,Egypt,total,Hygiene,2018,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2018,100,4797828,Insufficient data
+EGY,Egypt,primary,Hygiene,2018,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2018,100,15519591,Insufficient data
+EGY,Egypt,secondary,Hygiene,2018,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2018,100,11567101,Insufficient data
+EGY,Egypt,total,Sanitation,2018,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2018,100,4797828,Insufficient data
+EGY,Egypt,primary,Sanitation,2018,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2018,100,15519591,Insufficient data
+EGY,Egypt,secondary,Sanitation,2018,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2018,100,11567101,Insufficient data
+EGY,Egypt,total,Drinking water,2018,100,27086692,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2018,100,4797828,Insufficient data
+EGY,Egypt,primary,Drinking water,2018,100,11895655,Insufficient data
+EGY,Egypt,rural,Drinking water,2018,100,15519591,Insufficient data
+EGY,Egypt,secondary,Drinking water,2018,100,10393210,Insufficient data
+EGY,Egypt,urban,Drinking water,2018,100,11567101,Insufficient data
+EGY,Egypt,total,Hygiene,2018,0,0,No service
+EGY,Egypt,primary,Hygiene,2018,0,0,No service
+EGY,Egypt,secondary,Hygiene,2018,0,0,No service
+EGY,Egypt,total,Sanitation,2018,0,0,No service
+EGY,Egypt,primary,Sanitation,2018,0,0,No service
+EGY,Egypt,secondary,Sanitation,2018,0,0,No service
+EGY,Egypt,total,Hygiene,2019,100,27387276,Basic service
+EGY,Egypt,primary,Hygiene,2019,100,12466019,Basic service
+EGY,Egypt,secondary,Hygiene,2019,100,10520481,Basic service
+EGY,Egypt,total,Sanitation,2019,100,27387276,Basic service
+EGY,Egypt,primary,Sanitation,2019,100,12466019,Basic service
+EGY,Egypt,secondary,Sanitation,2019,100,10520481,Basic service
+EGY,Egypt,total,Hygiene,2019,0,0,Limited service
+EGY,Egypt,primary,Hygiene,2019,0,0,Limited service
+EGY,Egypt,secondary,Hygiene,2019,0,0,Limited service
+EGY,Egypt,total,Sanitation,2019,0,0,Limited service
+EGY,Egypt,primary,Sanitation,2019,0,0,Limited service
+EGY,Egypt,secondary,Sanitation,2019,0,0,Limited service
+EGY,Egypt,total,Hygiene,2019,0,0,Insufficient data
+EGY,Egypt,pre_primary,Hygiene,2019,100,4400776,Insufficient data
+EGY,Egypt,primary,Hygiene,2019,0,0,Insufficient data
+EGY,Egypt,rural,Hygiene,2019,100,15684693,Insufficient data
+EGY,Egypt,secondary,Hygiene,2019,0,0,Insufficient data
+EGY,Egypt,urban,Hygiene,2019,100,11702583,Insufficient data
+EGY,Egypt,total,Sanitation,2019,0,0,Insufficient data
+EGY,Egypt,pre_primary,Sanitation,2019,100,4400776,Insufficient data
+EGY,Egypt,primary,Sanitation,2019,0,0,Insufficient data
+EGY,Egypt,rural,Sanitation,2019,100,15684693,Insufficient data
+EGY,Egypt,secondary,Sanitation,2019,0,0,Insufficient data
+EGY,Egypt,urban,Sanitation,2019,100,11702583,Insufficient data
+EGY,Egypt,total,Drinking water,2019,100,27387276,Insufficient data
+EGY,Egypt,pre_primary,Drinking water,2019,100,4400776,Insufficient data
+EGY,Egypt,primary,Drinking water,2019,100,12466019,Insufficient data
+EGY,Egypt,rural,Drinking water,2019,100,15684693,Insufficient data
+EGY,Egypt,secondary,Drinking water,2019,100,10520481,Insufficient data
+EGY,Egypt,urban,Drinking water,2019,100,11702583,Insufficient data
+EGY,Egypt,total,Hygiene,2019,0,0,No service
+EGY,Egypt,primary,Hygiene,2019,0,0,No service
+EGY,Egypt,secondary,Hygiene,2019,0,0,No service
+EGY,Egypt,total,Sanitation,2019,0,0,No service
+EGY,Egypt,primary,Sanitation,2019,0,0,No service
+EGY,Egypt,secondary,Sanitation,2019,0,0,No service

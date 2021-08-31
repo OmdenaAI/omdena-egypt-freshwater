@@ -1,0 +1,757 @@
+ISO3,Country,Residence Type,Service Type,Year,Coverage,Population,Service level
+EGY,Egypt,total,Drinking water,2000,97.88827,67378021.58899,At least basic
+EGY,Egypt,rural,Drinking water,2000,96.87617,38143749.98732,At least basic
+EGY,Egypt,urban,Drinking water,2000,99.24104,29234269.67285,At least basic
+EGY,Egypt,total,Hygiene,2000,66.04586,45460393.57899,Basic service
+EGY,Egypt,rural,Hygiene,2000,50.95361,20062329.95921,Basic service
+EGY,Egypt,urban,Hygiene,2000,86.21834,25398062.36088,Basic service
+EGY,Egypt,total,Sanitation,2000,37.15836,25576675.76308,Basic service
+EGY,Egypt,rural,Sanitation,2000,42.39502,16692494.41918,Basic service
+EGY,Egypt,urban,Sanitation,2000,30.15897,8884180.57921,Basic service
+EGY,Egypt,total,Hygiene,2000,15.6817,10793960.89073,Limited service
+EGY,Egypt,rural,Hygiene,2000,20.26056,7977334.04229,Limited service
+EGY,Egypt,urban,Hygiene,2000,9.56155,2816626.51599,Limited service
+EGY,Egypt,total,Sanitation,2000,6.00125,4130753.32235,Limited service
+EGY,Egypt,rural,Sanitation,2000,7.43475,2927337.07535,Limited service
+EGY,Egypt,urban,Sanitation,2000,4.08521,1203416.12108,Limited service
+EGY,Egypt,total,Drinking water,2000,0.65093,448047.04814,Limited service
+EGY,Egypt,rural,Drinking water,2000,0.96639,380504.86387,Limited service
+EGY,Egypt,urban,Drinking water,2000,0.22928,67542.16995,Limited service
+EGY,Egypt,total,Hygiene,2000,18.27244,12577205.47224,No handwashing facility
+EGY,Egypt,rural,Hygiene,2000,28.78583,11334052.27491,No handwashing facility
+EGY,Egypt,urban,Hygiene,2000,4.22011,1243153.17776,No handwashing facility
+EGY,Egypt,total,Sanitation,2000,1.7463,1202005.15234,Open defecation
+EGY,Egypt,rural,Sanitation,2000,2.44008,960750.91517,Open defecation
+EGY,Egypt,urban,Sanitation,2000,0.81898,241254.19939,Open defecation
+EGY,Egypt,total,Sanitation,2000,54.15661,37276838.83228,Safely managed service
+EGY,Egypt,rural,Sanitation,2000,46.28912,18225745.34572,Safely managed service
+EGY,Egypt,urban,Sanitation,2000,64.6724,19051092.43576,Safely managed service
+EGY,Egypt,total,Drinking water,2000,0.04111,28297.65903,Surface water
+EGY,Egypt,rural,Drinking water,2000,0.07187,28297.65808,Surface water
+EGY,Egypt,urban,Drinking water,2000,0,0,Surface water
+EGY,Egypt,total,Sanitation,2000,0.93749,645286.92995,Unimproved
+EGY,Egypt,rural,Sanitation,2000,1.44103,567388.24457,Unimproved
+EGY,Egypt,urban,Sanitation,2000,0.26444,77898.66456,Unimproved
+EGY,Egypt,total,Drinking water,2000,1.41969,977194.34256,Unimproved
+EGY,Egypt,rural,Drinking water,2000,2.08556,821164.2864,Unimproved
+EGY,Egypt,urban,Drinking water,2000,0.52967,156030.02504,Unimproved
+EGY,Egypt,total,Drinking water,2001,97.97026,68728747.75276,At least basic
+EGY,Egypt,rural,Drinking water,2001,97.00407,38895875.73789,At least basic
+EGY,Egypt,urban,Drinking water,2001,99.25925,29832871.17845,At least basic
+EGY,Egypt,total,Hygiene,2001,67.54782,47386598.0635,Basic service
+EGY,Egypt,rural,Hygiene,2001,53.24757,21350761.58439,Basic service
+EGY,Egypt,urban,Hygiene,2001,86.62585,26035836.55995,Basic service
+EGY,Egypt,total,Sanitation,2001,37.49585,26304335.77043,Basic service
+EGY,Egypt,rural,Sanitation,2001,42.77074,17149850.41833,Basic service
+EGY,Egypt,urban,Sanitation,2001,30.4586,9154485.35154,Basic service
+EGY,Egypt,total,Hygiene,2001,15.34886,10767636.19992,Limited service
+EGY,Egypt,rural,Hygiene,2001,19.86792,7966473.28895,Limited service
+EGY,Egypt,urban,Hygiene,2001,9.31997,2801162.90263,Limited service
+EGY,Egypt,total,Sanitation,2001,5.78412,4057712.80689,Limited service
+EGY,Egypt,rural,Sanitation,2001,7.2024,2887959.80726,Limited service
+EGY,Egypt,urban,Sanitation,2001,3.89198,1169752.99747,Limited service
+EGY,Egypt,total,Drinking water,2001,0.62659,439566.33962,Limited service
+EGY,Egypt,rural,Drinking water,2001,0.92981,372828.42657,Limited service
+EGY,Egypt,urban,Drinking water,2001,0.22205,66737.9123,Limited service
+EGY,Egypt,total,Hygiene,2001,17.10331,11998430.01467,No handwashing facility
+EGY,Egypt,rural,Hygiene,2001,26.88451,10779925.00607,No handwashing facility
+EGY,Egypt,urban,Hygiene,2001,4.05419,1218506.50655,No handwashing facility
+EGY,Egypt,total,Sanitation,2001,1.64343,1152906.74451,Open defecation
+EGY,Egypt,rural,Sanitation,2001,2.28967,918093.946,Open defecation
+EGY,Egypt,urban,Sanitation,2001,0.78126,234812.79706,Open defecation
+EGY,Egypt,total,Sanitation,2001,54.11881,37965789.79341,Safely managed service
+EGY,Egypt,rural,Sanitation,2001,46.2503,18545058.44839,Safely managed service
+EGY,Egypt,urban,Sanitation,2001,64.61622,19420731.39744,Safely managed service
+EGY,Egypt,total,Drinking water,2001,0.03924,27525.75696,Surface water
+EGY,Egypt,rural,Drinking water,2001,0.06865,27525.75688,Surface water
+EGY,Egypt,urban,Drinking water,2001,0,0,Surface water
+EGY,Egypt,total,Sanitation,2001,0.9578,671918.88476,Unimproved
+EGY,Egypt,rural,Sanitation,2001,1.48688,596197.38003,Unimproved
+EGY,Egypt,urban,Sanitation,2001,0.25195,75723.45649,Unimproved
+EGY,Egypt,total,Drinking water,2001,1.36392,956826.1507,Unimproved
+EGY,Egypt,rural,Drinking water,2001,1.99748,800931.07746,Unimproved
+EGY,Egypt,urban,Drinking water,2001,0.5187,155897.02483,Unimproved
+EGY,Egypt,total,Drinking water,2002,98.05218,70092646.10031,At least basic
+EGY,Egypt,rural,Drinking water,2002,97.13203,39654954.14217,At least basic
+EGY,Egypt,urban,Drinking water,2002,99.27747,30437698.64182,At least basic
+EGY,Egypt,total,Hygiene,2002,69.04805,49359032.2654,Basic service
+EGY,Egypt,rural,Hygiene,2002,55.54152,22675285.65749,Basic service
+EGY,Egypt,urban,Hygiene,2002,87.03335,26683749.06001,Basic service
+EGY,Egypt,total,Sanitation,2002,37.83449,27046002.76455,Basic service
+EGY,Egypt,rural,Sanitation,2002,43.14786,17615471.95829,Basic service
+EGY,Egypt,urban,Sanitation,2002,30.7592,9430532.41105,Basic service
+EGY,Egypt,total,Hygiene,2002,15.01616,10734309.26626,Limited service
+EGY,Egypt,rural,Hygiene,2002,19.47529,7950948.97038,Limited service
+EGY,Egypt,urban,Hygiene,2002,9.07838,2783360.9811,Limited service
+EGY,Egypt,total,Sanitation,2002,5.56664,3979314.43386,Limited service
+EGY,Egypt,rural,Sanitation,2002,6.96954,2845371.56668,Limited service
+EGY,Egypt,urban,Sanitation,2002,3.69854,1133943.11606,Limited service
+EGY,Egypt,total,Drinking water,2002,0.60222,430500.48601,Limited service
+EGY,Egypt,rural,Drinking water,2002,0.89316,364640.83738,Limited service
+EGY,Egypt,urban,Drinking water,2002,0.21481,65859.67841,Limited service
+EGY,Egypt,total,Hygiene,2002,15.93579,11391706.49323,No handwashing facility
+EGY,Egypt,rural,Hygiene,2002,24.98319,10199593.61865,No handwashing facility
+EGY,Egypt,urban,Hygiene,2002,3.88827,1192111.98524,No handwashing facility
+EGY,Egypt,total,Sanitation,2002,1.54065,1101337.96156,Open defecation
+EGY,Egypt,rural,Sanitation,2002,2.13926,873372.48736,Open defecation
+EGY,Egypt,urban,Sanitation,2002,0.74355,227965.5474,Open defecation
+EGY,Egypt,total,Sanitation,2002,54.08016,38659227.59675,Safely managed service
+EGY,Egypt,rural,Sanitation,2002,46.2106,18865862.02148,Safely managed service
+EGY,Egypt,urban,Sanitation,2002,64.55926,19793367.55146,Safely managed service
+EGY,Egypt,total,Drinking water,2002,0.03737,26710.65614,Surface water
+EGY,Egypt,rural,Drinking water,2002,0.06543,26710.6582,Surface water
+EGY,Egypt,urban,Drinking water,2002,0,0,Surface water
+EGY,Egypt,total,Sanitation,2002,0.97806,699165.24328,Unimproved
+EGY,Egypt,rural,Sanitation,2002,1.53273,625749.96619,Unimproved
+EGY,Egypt,urban,Sanitation,2002,0.23945,73413.37402,Unimproved
+EGY,Egypt,total,Drinking water,2002,1.30823,935188.51985,Unimproved
+EGY,Egypt,rural,Drinking water,2002,1.90939,779523.06885,Unimproved
+EGY,Egypt,urban,Drinking water,2002,0.50772,155663.56195,Unimproved
+EGY,Egypt,total,Drinking water,2003,98.13405,71467204.19228,At least basic
+EGY,Egypt,rural,Drinking water,2003,97.26006,40419543.96386,At least basic
+EGY,Egypt,urban,Drinking water,2003,99.29568,31047659.14515,At least basic
+EGY,Egypt,total,Hygiene,2003,70.54655,51376302.02178,Basic service
+EGY,Egypt,rural,Hygiene,2003,57.83548,24035391.84155,Basic service
+EGY,Egypt,urban,Hygiene,2003,87.44086,27340908.50089,Basic service
+EGY,Egypt,total,Sanitation,2003,38.17429,27800846.06507,Basic service
+EGY,Egypt,rural,Sanitation,2003,43.5264,18088794.31316,Basic service
+EGY,Egypt,urban,Sanitation,2003,31.06079,9712051.10143,Basic service
+EGY,Egypt,total,Hygiene,2003,14.6836,10693492.0818,Limited service
+EGY,Egypt,rural,Hygiene,2003,19.08266,7930412.55001,Limited service
+EGY,Egypt,urban,Hygiene,2003,8.8368,2763079.331,Limited service
+EGY,Egypt,total,Sanitation,2003,5.34881,3895332.27497,Limited service
+EGY,Egypt,rural,Sanitation,2003,6.73615,2799423.12463,Limited service
+EGY,Egypt,urban,Sanitation,2003,3.5049,1095909.07265,Limited service
+EGY,Egypt,total,Drinking water,2003,0.57785,420825.78304,Limited service
+EGY,Egypt,rural,Drinking water,2003,0.85644,355921.94365,Limited service
+EGY,Egypt,urban,Drinking water,2003,0.20757,64903.83372,Limited service
+EGY,Egypt,total,Hygiene,2003,14.76985,10756309.63202,No handwashing facility
+EGY,Egypt,rural,Hygiene,2003,23.08187,9592411.44264,No handwashing facility
+EGY,Egypt,urban,Hygiene,2003,3.72234,1163898.1794,No handwashing facility
+EGY,Egypt,total,Sanitation,2003,1.43799,1047230.88205,Open defecation
+EGY,Egypt,rural,Sanitation,2003,1.98886,826533.05483,Open defecation
+EGY,Egypt,urban,Sanitation,2003,0.70583,220697.81009,Open defecation
+EGY,Egypt,total,Sanitation,2003,54.04065,39355701.68069,Safely managed service
+EGY,Egypt,rural,Sanitation,2003,46.17002,19187436.06073,Safely managed service
+EGY,Egypt,urban,Sanitation,2003,64.50153,20168264.37296,Safely managed service
+EGY,Egypt,total,Drinking water,2003,0.0355,25850.92172,Surface water
+EGY,Egypt,rural,Drinking water,2003,0.0622,25850.92157,Surface water
+EGY,Egypt,urban,Drinking water,2003,0,0,Surface water
+EGY,Egypt,total,Sanitation,2003,0.99826,726993.09723,Unimproved
+EGY,Egypt,rural,Sanitation,2003,1.57858,656029.44665,Unimproved
+EGY,Egypt,urban,Sanitation,2003,0.22695,70963.64287,Unimproved
+EGY,Egypt,total,Drinking water,2003,1.2526,912221.23565,Unimproved
+EGY,Egypt,rural,Drinking water,2003,1.8213,756899.06295,Unimproved
+EGY,Egypt,urban,Drinking water,2003,0.49675,155322.15966,Unimproved
+EGY,Egypt,total,Drinking water,2004,98.21586,72848737.25198,At least basic
+EGY,Egypt,rural,Drinking water,2004,97.38815,41187569.10212,At least basic
+EGY,Egypt,urban,Drinking water,2004,99.3139,31661168.80175,At least basic
+EGY,Egypt,total,Hygiene,2004,72.0433,53436011.76478,Basic service
+EGY,Egypt,rural,Hygiene,2004,60.12943,25430044.5618,Basic service
+EGY,Egypt,urban,Hygiene,2004,87.84837,28005969.79904,Basic service
+EGY,Egypt,total,Sanitation,2004,37.74796,27998445.34526,Basic service
+EGY,Egypt,rural,Sanitation,2004,42.9254,18154083.65551,Basic service
+EGY,Egypt,urban,Sanitation,2004,30.87953,9844363.29145,Basic service
+EGY,Egypt,total,Hygiene,2004,14.35117,10644562.65734,Limited service
+EGY,Egypt,rural,Hygiene,2004,18.69003,7904418.74829,Limited service
+EGY,Egypt,urban,Hygiene,2004,8.59521,2740144.56812,Limited service
+EGY,Egypt,total,Sanitation,2004,5.13064,3805502.58219,Limited service
+EGY,Egypt,rural,Sanitation,2004,6.50224,2749937.28611,Limited service
+EGY,Egypt,urban,Sanitation,2004,3.31107,1055565.5279,Limited service
+EGY,Egypt,total,Drinking water,2004,0.55346,410514.54722,Limited service
+EGY,Egypt,rural,Drinking water,2004,0.81965,346648.50558,Limited service
+EGY,Egypt,urban,Drinking water,2004,0.20033,63866.06915,Limited service
+EGY,Egypt,total,Hygiene,2004,13.60552,10091497.68935,No handwashing facility
+EGY,Egypt,rural,Hygiene,2004,21.18054,8957712.90375,No handwashing facility
+EGY,Egypt,urban,Hygiene,2004,3.55642,1133783.6285,No handwashing facility
+EGY,Egypt,total,Sanitation,2004,1.33543,990512.60608,Open defecation
+EGY,Egypt,rural,Sanitation,2004,1.83845,777519.37295,Open defecation
+EGY,Egypt,urban,Sanitation,2004,0.66811,212993.29656,Open defecation
+EGY,Egypt,total,Sanitation,2004,54.76756,40622234.54419,Safely managed service
+EGY,Egypt,rural,Sanitation,2004,47.10949,19923629.64003,Safely managed service
+EGY,Egypt,urban,Sanitation,2004,64.92683,20698606.90727,Safely managed service
+EGY,Egypt,total,Drinking water,2004,0.03363,24944.91865,Surface water
+EGY,Egypt,rural,Drinking water,2004,0.05898,24944.92051,Surface water
+EGY,Egypt,urban,Drinking water,2004,0,0,Surface water
+EGY,Egypt,total,Sanitation,2004,1.01841,755376.92227,Unimproved
+EGY,Egypt,rural,Sanitation,2004,1.62443,687006.0454,Unimproved
+EGY,Egypt,urban,Sanitation,2004,0.21446,68368.97682,Unimproved
+EGY,Egypt,total,Drinking water,2004,1.19705,887877.31065,Unimproved
+EGY,Egypt,rural,Drinking water,2004,1.73321,733011.99974,Unimproved
+EGY,Egypt,urban,Drinking water,2004,0.48577,154863.41645,Unimproved
+EGY,Egypt,total,Drinking water,2005,98.29761,74237868.24744,At least basic
+EGY,Egypt,rural,Drinking water,2005,97.51633,41959371.94822,At least basic
+EGY,Egypt,urban,Drinking water,2005,99.33212,32278495.29914,At least basic
+EGY,Egypt,total,Hygiene,2005,73.53833,55538777.73398,Basic service
+EGY,Egypt,rural,Hygiene,2005,62.42339,26859564.24066,Basic service
+EGY,Egypt,urban,Hygiene,2005,88.25587,28679212.17529,Basic service
+EGY,Egypt,total,Sanitation,2005,37.3194,28184948.2768,Basic service
+EGY,Egypt,rural,Sanitation,2005,42.32055,18209704.77627,Basic service
+EGY,Egypt,urban,Sanitation,2005,30.69728,9975242.71842,Basic service
+EGY,Egypt,total,Hygiene,2005,14.01889,10587566.56155,Limited service
+EGY,Egypt,rural,Hygiene,2005,18.29739,7873011.25978,Limited service
+EGY,Egypt,urban,Hygiene,2005,8.35363,2714554.98244,Limited service
+EGY,Egypt,total,Sanitation,2005,4.91212,3709810.72561,Limited service
+EGY,Egypt,rural,Sanitation,2005,6.2678,2696912.82499,Limited service
+EGY,Egypt,urban,Sanitation,2005,3.11704,1012897.79026,Limited service
+EGY,Egypt,total,Drinking water,2005,0.52906,399566.0731,Limited service
+EGY,Egypt,rural,Drinking water,2005,0.78279,336819.91063,Limited service
+EGY,Egypt,urban,Drinking water,2005,0.19309,62746.14943,Limited service
+EGY,Egypt,total,Hygiene,2005,12.44278,9397232.06317,No handwashing facility
+EGY,Egypt,rural,Hygiene,2005,19.27922,8295472.28564,No handwashing facility
+EGY,Egypt,urban,Hygiene,2005,3.3905,1101760.82168,No handwashing facility
+EGY,Egypt,total,Sanitation,2005,1.23297,931180.03725,Open defecation
+EGY,Egypt,rural,Sanitation,2005,1.68804,726330.08778,Open defecation
+EGY,Egypt,urban,Sanitation,2005,0.63039,204849.92055,Open defecation
+EGY,Egypt,total,Sanitation,2005,55.497,41913322.61674,Safely managed service
+EGY,Egypt,rural,Sanitation,2005,48.05334,20676412.70734,Safely managed service
+EGY,Egypt,urban,Sanitation,2005,65.35333,21236908.90468,Safely managed service
+EGY,Egypt,total,Drinking water,2005,0.03177,23992.69355,Surface water
+EGY,Egypt,rural,Drinking water,2005,0.05576,23992.69267,Surface water
+EGY,Egypt,urban,Drinking water,2005,0,0,Surface water
+EGY,Egypt,total,Sanitation,2005,1.0385,784314.3436,Unimproved
+EGY,Egypt,rural,Sanitation,2005,1.67028,718687.60363,Unimproved
+EGY,Egypt,urban,Sanitation,2005,0.20196,65628.66609,Unimproved
+EGY,Egypt,total,Drinking water,2005,1.14156,862148.90479,Unimproved
+EGY,Egypt,rural,Drinking water,2005,1.64512,707863.31834,Unimproved
+EGY,Egypt,urban,Drinking water,2005,0.4748,154287.51192,Unimproved
+EGY,Egypt,total,Drinking water,2006,98.37929,75627770.9576,At least basic
+EGY,Egypt,rural,Drinking water,2006,97.64457,42731095.38024,At least basic
+EGY,Egypt,urban,Drinking water,2006,99.35033,32896679.97485,At least basic
+EGY,Egypt,total,Hygiene,2006,75.03162,57679560.15549,Basic service
+EGY,Egypt,rural,Hygiene,2006,64.71734,28321522.24139,Basic service
+EGY,Egypt,urban,Hygiene,2006,88.66338,29358037.69168,Basic service
+EGY,Egypt,total,Sanitation,2006,36.88861,28357629.65306,Basic service
+EGY,Egypt,rural,Sanitation,2006,41.71185,18253887.93659,Basic service
+EGY,Egypt,urban,Sanitation,2006,30.51403,10103741.82048,Basic service
+EGY,Egypt,total,Hygiene,2006,13.68674,10521501.7733,Limited service
+EGY,Egypt,rural,Hygiene,2006,17.90476,7835459.25075,Limited service
+EGY,Egypt,urban,Hygiene,2006,8.11204,2686042.6135,Limited service
+EGY,Egypt,total,Sanitation,2006,4.69326,3607880.10997,Limited service
+EGY,Egypt,rural,Sanitation,2006,6.03284,2640086.09943,Limited service
+EGY,Egypt,urban,Sanitation,2006,2.92281,967794.03942,Limited service
+EGY,Egypt,total,Drinking water,2006,0.50465,387940.71072,Limited service
+EGY,Egypt,rural,Drinking water,2006,0.74586,326402.99522,Limited service
+EGY,Egypt,urban,Drinking water,2006,0.18585,61537.7207,Limited service
+EGY,Egypt,total,Hygiene,2006,11.28164,8672610.23728,No handwashing facility
+EGY,Egypt,rural,Hygiene,2006,17.3779,7604894.68615,No handwashing facility
+EGY,Egypt,urban,Hygiene,2006,3.22458,1067715.65735,No handwashing facility
+EGY,Egypt,total,Sanitation,2006,1.13061,869141.66089,Open defecation
+EGY,Egypt,rural,Sanitation,2006,1.53763,672895.74323,Open defecation
+EGY,Egypt,urban,Sanitation,2006,0.59268,196245.92643,Open defecation
+EGY,Egypt,total,Sanitation,2006,56.22897,43225276.0207,Safely managed service
+EGY,Egypt,rural,Sanitation,2006,49.00155,21443997.35947,Safely managed service
+EGY,Egypt,urban,Sanitation,2006,65.78102,21781278.50537,Safely managed service
+EGY,Egypt,total,Drinking water,2006,0.02991,22991.97432,Surface water
+EGY,Egypt,rural,Drinking water,2006,0.05254,22991.9748,Surface water
+EGY,Egypt,urban,Drinking water,2006,0,0,Surface water
+EGY,Egypt,total,Sanitation,2006,1.05855,813744.5554,Unimproved
+EGY,Egypt,rural,Sanitation,2006,1.71613,751008.86128,Unimproved
+EGY,Egypt,urban,Sanitation,2006,0.18947,62735.7083,Unimproved
+EGY,Egypt,total,Drinking water,2006,1.08615,834965.79261,Unimproved
+EGY,Egypt,rural,Drinking water,2006,1.55703,681386.36981,Unimproved
+EGY,Egypt,urban,Drinking water,2006,0.46382,153579.43296,Unimproved
+EGY,Egypt,total,Drinking water,2007,98.46026,77027555.44625,At least basic
+EGY,Egypt,rural,Drinking water,2007,97.77288,43539526.9364,At least basic
+EGY,Egypt,urban,Drinking water,2007,99.36855,33488033.13657,At least basic
+EGY,Egypt,total,Hygiene,2007,76.51413,59858629.51507,Basic service
+EGY,Egypt,rural,Hygiene,2007,67.0113,29840995.58934,Basic service
+EGY,Egypt,urban,Hygiene,2007,89.07089,30017633.65443,Basic service
+EGY,Egypt,total,Sanitation,2007,36.46001,28523439.04682,Basic service
+EGY,Egypt,rural,Sanitation,2007,41.09931,18302052.26478,Basic service
+EGY,Egypt,urban,Sanitation,2007,30.32977,10221386.91449,Basic service
+EGY,Egypt,total,Hygiene,2007,13.35869,10450786.49892,Limited service
+EGY,Egypt,rural,Hygiene,2007,17.51213,7798376.96153,Limited service
+EGY,Egypt,urban,Hygiene,2007,7.87046,2652409.65596,Limited service
+EGY,Egypt,total,Sanitation,2007,4.47531,3501128.24396,Limited service
+EGY,Egypt,rural,Sanitation,2007,5.79737,2581641.67823,Limited service
+EGY,Egypt,urban,Sanitation,2007,2.72838,919486.60347,Limited service
+EGY,Egypt,total,Drinking water,2007,0.48044,375856.08251,Limited service
+EGY,Egypt,rural,Drinking water,2007,0.70886,315665.24398,Limited service
+EGY,Egypt,urban,Drinking water,2007,0.1786,60190.84505,Limited service
+EGY,Egypt,total,Hygiene,2007,10.12718,7922712.22862,No handwashing facility
+EGY,Egypt,rural,Hygiene,2007,15.47658,6891919.60869,No handwashing facility
+EGY,Egypt,urban,Hygiene,2007,3.05866,1030792.71505,No handwashing facility
+EGY,Egypt,total,Sanitation,2007,1.0287,804773.53861,Open defecation
+EGY,Egypt,rural,Sanitation,2007,1.38722,617747.60152,Open defecation
+EGY,Egypt,urban,Sanitation,2007,0.55496,187025.94732,Open defecation
+EGY,Egypt,total,Sanitation,2007,56.9568,44558516.56725,Safely managed service
+EGY,Egypt,rural,Sanitation,2007,49.95413,22245220.38227,Safely managed service
+EGY,Egypt,urban,Sanitation,2007,66.20992,22313295.98507,Safely managed service
+EGY,Egypt,total,Drinking water,2007,0.02807,21961.52286,Surface water
+EGY,Egypt,rural,Drinking water,2007,0.04932,21961.52347,Surface water
+EGY,Egypt,urban,Drinking water,2007,0,0,Surface water
+EGY,Egypt,total,Sanitation,2007,1.07919,844270.60336,Unimproved
+EGY,Egypt,rural,Sanitation,2007,1.76197,784630.0732,Unimproved
+EGY,Egypt,urban,Sanitation,2007,0.17697,59640.54965,Unimproved
+EGY,Egypt,total,Drinking water,2007,1.03123,806752.11544,Unimproved
+EGY,Egypt,rural,Drinking water,2007,1.46894,654139.34841,Unimproved
+EGY,Egypt,urban,Drinking water,2007,0.45285,152612.77952,Unimproved
+EGY,Egypt,total,Drinking water,2008,98.54089,78474104.82393,At least basic
+EGY,Egypt,rural,Drinking water,2008,97.90126,44394673.63883,At least basic
+EGY,Egypt,urban,Drinking water,2008,99.38677,34079429.98737,At least basic
+EGY,Egypt,total,Hygiene,2008,77.9914,62109295.82816,Basic service
+EGY,Egypt,rural,Hygiene,2008,69.30525,31427419.37179,Basic service
+EGY,Egypt,urban,Hygiene,2008,89.47839,30681876.47003,Basic service
+EGY,Egypt,total,Sanitation,2008,36.03141,28694002.41749,Basic service
+EGY,Egypt,rural,Sanitation,2008,40.48292,18357535.66836,Basic service
+EGY,Egypt,urban,Sanitation,2008,30.14452,10336466.74213,Basic service
+EGY,Egypt,total,Hygiene,2008,13.03302,10378988.36692,Limited service
+EGY,Egypt,rural,Hygiene,2008,17.1195,7763070.84697,Limited service
+EGY,Egypt,urban,Hygiene,2008,7.62887,2615917.51353,Limited service
+EGY,Egypt,total,Sanitation,2008,4.25773,3390693.00929,Limited service
+EGY,Egypt,rural,Sanitation,2008,5.56136,2521876.67824,Limited service
+EGY,Egypt,urban,Sanitation,2008,2.53375,868816.329,Limited service
+EGY,Egypt,total,Drinking water,2008,0.45631,363391.0324,Limited service
+EGY,Egypt,rural,Drinking water,2008,0.67179,304633.25761,Limited service
+EGY,Egypt,urban,Drinking water,2008,0.17136,58757.77445,Limited service
+EGY,Egypt,total,Hygiene,2008,8.97557,7147795.68403,No handwashing facility
+EGY,Egypt,rural,Hygiene,2008,13.57525,6155885.92146,No handwashing facility
+EGY,Egypt,urban,Hygiene,2008,2.89273,991910.02526,No handwashing facility
+EGY,Egypt,total,Sanitation,2008,0.92698,738210.48887,Open defecation
+EGY,Egypt,rural,Sanitation,2008,1.23681,560849.75108,Open defecation
+EGY,Egypt,urban,Sanitation,2008,0.51724,177360.7373,Open defecation
+EGY,Egypt,total,Sanitation,2008,57.68365,45936993.76772,Safely managed service
+EGY,Egypt,rural,Sanitation,2008,50.91108,23086331.48431,Safely managed service
+EGY,Egypt,urban,Sanitation,2008,66.64001,22850662.29405,Safely managed service
+EGY,Egypt,total,Drinking water,2008,0.02625,20902.54542,Surface water
+EGY,Egypt,rural,Drinking water,2008,0.0461,20902.54539,Surface water
+EGY,Egypt,urban,Drinking water,2008,0,0,Surface water
+EGY,Egypt,total,Sanitation,2008,1.10023,876180.31664,Unimproved
+EGY,Egypt,rural,Sanitation,2008,1.80782,819782.41801,Unimproved
+EGY,Egypt,urban,Sanitation,2008,0.16447,56397.89752,Unimproved
+EGY,Egypt,total,Drinking water,2008,0.97655,777683.46688,Unimproved
+EGY,Egypt,rural,Drinking water,2008,1.38085,626167.39717,Unimproved
+EGY,Egypt,urban,Drinking water,2008,0.44187,151516.06908,Unimproved
+EGY,Egypt,total,Drinking water,2009,98.62162,80016446.39863,At least basic
+EGY,Egypt,rural,Drinking water,2009,98.02971,45304614.24657,At least basic
+EGY,Egypt,urban,Drinking water,2009,99.405,34711831.92994,At least basic
+EGY,Egypt,total,Hygiene,2009,79.46962,64477507.70247,Basic service
+EGY,Egypt,rural,Hygiene,2009,71.59921,33089707.29471,Basic service
+EGY,Egypt,urban,Hygiene,2009,89.8859,31387800.62231,Basic service
+EGY,Egypt,total,Sanitation,2009,35.59992,28883921.25589,Basic service
+EGY,Egypt,rural,Sanitation,2009,39.86268,18422612.53511,Basic service
+EGY,Egypt,urban,Sanitation,2009,29.95827,10461308.60457,Basic service
+EGY,Egypt,total,Hygiene,2009,12.7072,10309962.56981,Limited service
+EGY,Egypt,rural,Hygiene,2009,16.72686,7730351.16981,Limited service
+EGY,Egypt,urban,Hygiene,2009,7.38729,2579611.29043,Limited service
+EGY,Egypt,total,Sanitation,2009,4.03973,3277628.65809,Limited service
+EGY,Egypt,rural,Sanitation,2009,5.32484,2460884.17211,Limited service
+EGY,Egypt,urban,Sanitation,2009,2.33893,816744.45095,Limited service
+EGY,Egypt,total,Drinking water,2009,0.43214,350611.83577,Limited service
+EGY,Egypt,rural,Drinking water,2009,0.63465,293305.69288,Limited service
+EGY,Egypt,urban,Drinking water,2009,0.16411,57306.13736,Limited service
+EGY,Egypt,total,Hygiene,2009,7.82318,6347321.75574,No handwashing facility
+EGY,Egypt,rural,Hygiene,2009,11.67393,5395129.65568,No handwashing facility
+EGY,Egypt,urban,Hygiene,2009,2.72681,952192.07887,No handwashing facility
+EGY,Egypt,total,Sanitation,2009,0.82521,669531.77161,Open defecation
+EGY,Egypt,rural,Sanitation,2009,1.0864,502083.69022,Open defecation
+EGY,Egypt,urban,Sanitation,2009,0.47952,167448.07427,Open defecation
+EGY,Egypt,total,Sanitation,2009,58.41386,47393961.74029,Safely managed service
+EGY,Egypt,rural,Sanitation,2009,51.8724,23972929.48616,Safely managed service
+EGY,Egypt,urban,Sanitation,2009,67.0713,23421032.43244,Safely managed service
+EGY,Egypt,total,Drinking water,2009,0.02442,19814.08272,Surface water
+EGY,Egypt,rural,Drinking water,2009,0.04287,19814.08222,Surface water
+EGY,Egypt,urban,Drinking water,2009,0,0,Surface water
+EGY,Egypt,total,Sanitation,2009,1.12128,909748.57412,Unimproved
+EGY,Egypt,rural,Sanitation,2009,1.85367,856678.11639,Unimproved
+EGY,Egypt,urban,Sanitation,2009,0.15198,53070.43777,Unimproved
+EGY,Egypt,total,Drinking water,2009,0.92183,747920.94226,Unimproved
+EGY,Egypt,rural,Drinking water,2009,1.29277,597454.02781,Unimproved
+EGY,Egypt,urban,Drinking water,2009,0.4309,150466.90433,Unimproved
+EGY,Egypt,total,Drinking water,2010,98.70242,81687342.94987,At least basic
+EGY,Egypt,rural,Drinking water,2010,98.15823,46289636.83443,At least basic
+EGY,Egypt,urban,Drinking water,2010,99.42322,35397703.90088,At least basic
+EGY,Egypt,total,Hygiene,2010,80.94838,66993885.17277,Basic service
+EGY,Egypt,rural,Hygiene,2010,73.89316,34846672.4313,Basic service
+EGY,Egypt,urban,Hygiene,2010,90.29341,32147212.47042,Basic service
+EGY,Egypt,total,Sanitation,2010,35.16574,29103601.04173,Basic service
+EGY,Egypt,rural,Sanitation,2010,39.2386,18504209.52399,Basic service
+EGY,Egypt,urban,Sanitation,2010,29.77102,10599391.67422,Basic service
+EGY,Egypt,total,Hygiene,2010,12.38142,10247014.49457,Limited service
+EGY,Egypt,rural,Hygiene,2010,16.33423,7702926.39923,Limited service
+EGY,Egypt,urban,Hygiene,2010,7.1457,2544088.2472,Limited service
+EGY,Egypt,total,Sanitation,2010,3.82136,3162605.83039,Limited service
+EGY,Egypt,rural,Sanitation,2010,5.08779,2399310.05936,Limited service
+EGY,Egypt,urban,Sanitation,2010,2.14391,763295.81968,Limited service
+EGY,Egypt,total,Drinking water,2010,0.40791,337589.69052,Limited service
+EGY,Egypt,rural,Drinking water,2010,0.59744,281743.07768,Limited service
+EGY,Egypt,urban,Drinking water,2010,0.15686,55846.62013,Limited service
+EGY,Egypt,total,Hygiene,2010,6.6702,5520340.51841,No handwashing facility
+EGY,Egypt,rural,Hygiene,2010,9.77261,4608585.26897,No handwashing facility
+EGY,Egypt,urban,Hygiene,2010,2.56089,911755.25609,No handwashing facility
+EGY,Egypt,total,Sanitation,2010,0.7234,598695.2872,Open defecation
+EGY,Egypt,rural,Sanitation,2010,0.936,441398.45149,Open defecation
+EGY,Egypt,urban,Sanitation,2010,0.44181,157296.84388,Open defecation
+EGY,Egypt,total,Sanitation,2010,59.14713,48950897.98261,Safely managed service
+EGY,Egypt,rural,Sanitation,2010,52.8381,24917486.32985,Safely managed service
+EGY,Egypt,urban,Sanitation,2010,67.50379,24033411.41038,Safely managed service
+EGY,Egypt,total,Drinking water,2010,0.02259,18699.0515,Surface water
+EGY,Egypt,rural,Drinking water,2010,0.03965,18699.05216,Surface water
+EGY,Egypt,urban,Drinking water,2010,0,0,Surface water
+EGY,Egypt,total,Sanitation,2010,1.14237,945439.85807,Unimproved
+EGY,Egypt,rural,Sanitation,2010,1.89952,895779.63531,Unimproved
+EGY,Egypt,urban,Sanitation,2010,0.13948,49660.25185,Unimproved
+EGY,Egypt,total,Drinking water,2010,0.86708,717608.02024,Unimproved
+EGY,Egypt,rural,Drinking water,2010,1.20468,568103.684,Unimproved
+EGY,Egypt,urban,Drinking water,2010,0.41992,149504.3492,Unimproved
+EGY,Egypt,total,Drinking water,2011,98.78331,83500789.03885,At least basic
+EGY,Egypt,rural,Drinking water,2011,98.28682,47356232.97049,At least basic
+EGY,Egypt,urban,Drinking water,2011,99.44144,36144554.57769,At least basic
+EGY,Egypt,total,Hygiene,2011,82.42805,69675809.87016,Basic service
+EGY,Egypt,rural,Hygiene,2011,76.18712,36708225.90739,Basic service
+EGY,Egypt,urban,Hygiene,2011,90.70091,32967583.77917,Basic service
+EGY,Egypt,total,Sanitation,2011,34.72867,29355882.40849,Basic service
+EGY,Egypt,rural,Sanitation,2011,38.61067,18603264.45805,Basic service
+EGY,Egypt,urban,Sanitation,2011,29.58277,10752618.06464,Basic service
+EGY,Egypt,total,Hygiene,2011,12.05548,10190407.38179,Limited service
+EGY,Egypt,rural,Hygiene,2011,15.9416,7680928.31944,Limited service
+EGY,Egypt,urban,Hygiene,2011,6.90412,2509479.17668,Limited service
+EGY,Egypt,total,Sanitation,2011,3.60256,3045217.43876,Limited service
+EGY,Egypt,rural,Sanitation,2011,4.85022,2336917.95668,Limited service
+EGY,Egypt,urban,Sanitation,2011,1.94868,708299.51878,Limited service
+EGY,Egypt,total,Drinking water,2011,0.38362,324274.74122,Limited service
+EGY,Egypt,rural,Drinking water,2011,0.56016,269895.9591,Limited service
+EGY,Egypt,urban,Drinking water,2011,0.14961,54378.78731,Limited service
+EGY,Egypt,total,Hygiene,2011,5.51647,4663030.56948,No handwashing facility
+EGY,Egypt,rural,Hygiene,2011,7.87129,3792517.85117,No handwashing facility
+EGY,Egypt,urban,Hygiene,2011,2.39497,870513.08589,No handwashing facility
+EGY,Egypt,total,Sanitation,2011,0.62154,525385.66966,Open defecation
+EGY,Egypt,rural,Sanitation,2011,0.78559,378508.85227,Open defecation
+EGY,Egypt,urban,Sanitation,2011,0.40409,146876.82222,Open defecation
+EGY,Egypt,total,Sanitation,2011,59.88376,50619293.97111,Safely managed service
+EGY,Egypt,rural,Sanitation,2011,53.80816,25925669.00687,Safely managed service
+EGY,Egypt,urban,Sanitation,2011,67.93747,24693624.7855,Safely managed service
+EGY,Egypt,total,Drinking water,2011,0.02077,17552.58265,Surface water
+EGY,Egypt,rural,Drinking water,2011,0.03643,17552.58311,Surface water
+EGY,Egypt,urban,Drinking water,2011,0,0,Surface water
+EGY,Egypt,total,Sanitation,2011,1.16347,983468.51199,Unimproved
+EGY,Egypt,rural,Sanitation,2011,1.94537,937311.72613,Unimproved
+EGY,Egypt,urban,Sanitation,2011,0.12699,46156.80886,Unimproved
+EGY,Egypt,total,Drinking water,2011,0.8123,686632.25541,Unimproved
+EGY,Egypt,rural,Drinking water,2011,1.11659,537990.75676,Unimproved
+EGY,Egypt,urban,Drinking water,2011,0.40894,148641.5076,Unimproved
+EGY,Egypt,total,Drinking water,2012,98.86392,85440416.04722,At least basic
+EGY,Egypt,rural,Drinking water,2012,98.41548,48526060.04569,At least basic
+EGY,Egypt,urban,Drinking water,2012,99.45968,36914356.29285,At least basic
+EGY,Egypt,total,Hygiene,2012,83.90401,72511726.62991,Basic service
+EGY,Egypt,rural,Hygiene,2012,78.48107,38696931.18735,Basic service
+EGY,Egypt,urban,Hygiene,2012,91.10842,33814795.74665,Basic service
+EGY,Egypt,total,Sanitation,2012,34.29181,29635753.76128,Basic service
+EGY,Egypt,rural,Sanitation,2012,37.97889,18726381.30002,Basic service
+EGY,Egypt,urban,Sanitation,2012,29.39351,10909372.25451,Basic service
+EGY,Egypt,total,Hygiene,2012,11.7326,10139573.78024,Limited service
+EGY,Egypt,rural,Hygiene,2012,15.54897,7666781.69836,Limited service
+EGY,Egypt,urban,Hygiene,2012,6.66253,2472791.86788,Limited service
+EGY,Egypt,total,Sanitation,2012,3.38436,2924841.2077,Limited service
+EGY,Egypt,rural,Sanitation,2012,4.61213,2274118.60957,Limited service
+EGY,Egypt,urban,Sanitation,2012,1.75327,650722.52929,Limited service
+EGY,Egypt,total,Drinking water,2012,0.35942,310620.43008,Limited service
+EGY,Egypt,rural,Drinking water,2012,0.52281,257785.57886,Limited service
+EGY,Egypt,urban,Drinking water,2012,0.14235,52834.84206,Limited service
+EGY,Egypt,total,Hygiene,2012,4.36339,3770939.76313,No handwashing facility
+EGY,Egypt,rural,Hygiene,2012,5.96996,2943631.1699,No handwashing facility
+EGY,Egypt,urban,Hygiene,2012,2.22905,827308.40963,No handwashing facility
+EGY,Egypt,total,Sanitation,2012,0.36239,313189.4899,Open defecation
+EGY,Egypt,rural,Sanitation,2012,0.63518,313189.4746,Open defecation
+EGY,Egypt,urban,Sanitation,2012,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2012,60.61885,52388166.35837,Safely managed service
+EGY,Egypt,rural,Sanitation,2012,54.78258,27011837.57795,Safely managed service
+EGY,Egypt,urban,Sanitation,2012,68.37236,25376329.10769,Safely managed service
+EGY,Egypt,total,Drinking water,2012,0.01895,16374.09961,Surface water
+EGY,Egypt,rural,Drinking water,2012,0.03321,16374.09881,Surface water
+EGY,Egypt,urban,Drinking water,2012,0,0,Surface water
+EGY,Egypt,total,Sanitation,2012,1.34258,1160289.18275,Unimproved
+EGY,Egypt,rural,Sanitation,2012,1.99122,981817.03786,Unimproved
+EGY,Egypt,urban,Sanitation,2012,0.48086,178472.10851,Unimproved
+EGY,Egypt,total,Drinking water,2012,0.75771,654831.62752,Unimproved
+EGY,Egypt,rural,Drinking water,2012,1.0285,507125.63484,Unimproved
+EGY,Egypt,urban,Drinking water,2012,0.39797,147705.9775,Unimproved
+EGY,Egypt,total,Drinking water,2013,98.9447,87471715.64897,At least basic
+EGY,Egypt,rural,Drinking water,2013,98.54421,49750282.10662,At least basic
+EGY,Egypt,urban,Drinking water,2013,99.47791,37721432.77049,At least basic
+EGY,Egypt,total,Hygiene,2013,85.38212,75481763.10515,Basic service
+EGY,Egypt,rural,Hygiene,2013,80.77503,40779465.23346,Basic service
+EGY,Egypt,urban,Hygiene,2013,91.51593,34702298.07981,Basic service
+EGY,Egypt,total,Sanitation,2013,33.85177,29926541.5963,Basic service
+EGY,Egypt,rural,Sanitation,2013,37.34326,18852836.71982,Basic service
+EGY,Egypt,urban,Sanitation,2013,29.20326,11073704.71875,Basic service
+EGY,Egypt,total,Hygiene,2013,11.40946,10086496.15784,Limited service
+EGY,Egypt,rural,Hygiene,2013,15.15633,7651710.80912,Limited service
+EGY,Egypt,urban,Hygiene,2013,6.42095,2434785.17947,Limited service
+EGY,Egypt,total,Sanitation,2013,3.1657,2798630.34124,Limited service
+EGY,Egypt,rural,Sanitation,2013,4.37351,2207979.48789,Limited service
+EGY,Egypt,urban,Sanitation,2013,1.55765,590650.79879,Limited service
+EGY,Egypt,total,Drinking water,2013,0.33514,296281.81518,Limited service
+EGY,Egypt,rural,Drinking water,2013,0.48539,245052.57826,Limited service
+EGY,Egypt,urban,Drinking water,2013,0.1351,51229.23014,Limited service
+EGY,Egypt,total,Hygiene,2013,3.20842,2836388.64724,No handwashing facility
+EGY,Egypt,rural,Hygiene,2013,4.06864,2054063.98957,No handwashing facility
+EGY,Egypt,urban,Hygiene,2013,2.06312,782324.74652,No handwashing facility
+EGY,Egypt,total,Sanitation,2013,0.27684,244737.05635,Open defecation
+EGY,Egypt,rural,Sanitation,2013,0.48477,244737.04695,Open defecation
+EGY,Egypt,urban,Sanitation,2013,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2013,61.35766,54243020.41154,Safely managed service
+EGY,Egypt,rural,Sanitation,2013,55.76138,28151268.34331,Safely managed service
+EGY,Egypt,urban,Sanitation,2013,68.80844,26091752.32104,Safely managed service
+EGY,Egypt,total,Drinking water,2013,0.01712,15138.74223,Surface water
+EGY,Egypt,rural,Drinking water,2013,0.02999,15138.74164,Surface water
+EGY,Egypt,urban,Drinking water,2013,0,0,Surface water
+EGY,Egypt,total,Sanitation,2013,1.34803,1191718.59458,Unimproved
+EGY,Egypt,rural,Sanitation,2013,2.03707,1028418.40203,Unimproved
+EGY,Egypt,urban,Sanitation,2013,0.43065,163300.16142,Unimproved
+EGY,Egypt,total,Drinking water,2013,0.70303,621514.41006,Unimproved
+EGY,Egypt,rural,Drinking water,2013,0.94041,474768.45128,Unimproved
+EGY,Egypt,urban,Drinking water,2013,0.38699,146745.94805,Unimproved
+EGY,Egypt,total,Drinking water,2014,99.02563,89543598.53388,At least basic
+EGY,Egypt,rural,Drinking water,2014,98.67301,51001758.99973,At least basic
+EGY,Egypt,urban,Drinking water,2014,99.49614,38541843.4474,At least basic
+EGY,Egypt,total,Hygiene,2014,86.86214,78544804.85151,Basic service
+EGY,Egypt,rural,Hygiene,2014,83.06898,42936401.9551,Basic service
+EGY,Egypt,urban,Hygiene,2014,91.92343,35608402.94148,Basic service
+EGY,Egypt,total,Sanitation,2014,33.40871,30209718.26328,Basic service
+EGY,Egypt,rural,Sanitation,2014,36.70379,18971327.58105,Basic service
+EGY,Egypt,urban,Sanitation,2014,29.01201,11238390.64308,Basic service
+EGY,Egypt,total,Hygiene,2014,11.08626,10024710.30941,Limited service
+EGY,Egypt,rural,Hygiene,2014,14.7637,7631009.18982,Limited service
+EGY,Egypt,urban,Hygiene,2014,6.17936,2393701.07589,Limited service
+EGY,Egypt,total,Sanitation,2014,2.94665,2664495.82382,Limited service
+EGY,Egypt,rural,Sanitation,2014,4.13438,2136962.56608,Limited service
+EGY,Egypt,urban,Sanitation,2014,1.36183,527533.24363,Limited service
+EGY,Egypt,total,Drinking water,2014,0.31079,281034.76351,Limited service
+EGY,Egypt,rural,Drinking water,2014,0.44791,231511.73841,Limited service
+EGY,Egypt,urban,Drinking water,2014,0.12784,49523.02347,Limited service
+EGY,Egypt,total,Hygiene,2014,2.0516,1855156.86391,No handwashing facility
+EGY,Egypt,rural,Hygiene,2014,2.16732,1120236.86261,No handwashing facility
+EGY,Egypt,urban,Hygiene,2014,1.8972,734919.96927,No handwashing facility
+EGY,Egypt,total,Sanitation,2014,0.19112,172823.2647,Open defecation
+EGY,Egypt,rural,Sanitation,2014,0.33436,172823.263,Open defecation
+EGY,Egypt,urban,Sanitation,2014,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2014,62.09993,56153654.08228,Safely managed service
+EGY,Egypt,rural,Sanitation,2014,56.74455,29329924.15676,Safely managed service
+EGY,Egypt,urban,Sanitation,2014,69.24572,26823729.98914,Safely managed service
+EGY,Egypt,total,Drinking water,2014,0.0153,13834.0471,Surface water
+EGY,Egypt,rural,Drinking water,2014,0.02676,13834.04696,Surface water
+EGY,Egypt,urban,Drinking water,2014,0,0,Surface water
+EGY,Egypt,total,Sanitation,2014,1.35359,1223980.56592,Unimproved
+EGY,Egypt,rural,Sanitation,2014,2.08292,1076610.43311,Unimproved
+EGY,Egypt,urban,Sanitation,2014,0.38044,147370.12415,Unimproved
+EGY,Egypt,total,Drinking water,2014,0.64828,586203.60075,Unimproved
+EGY,Egypt,rural,Drinking water,2014,0.85232,440545.00026,Unimproved
+EGY,Egypt,urban,Drinking water,2014,0.37602,145658.59807,Unimproved
+EGY,Egypt,total,Drinking water,2015,99.10672,91616773.21587,At least basic
+EGY,Egypt,rural,Drinking water,2015,98.80188,52257302.28882,At least basic
+EGY,Egypt,urban,Drinking water,2015,99.51437,39359468.3141,At least basic
+EGY,Egypt,total,Hygiene,2015,88.3442,81667622.65909,Basic service
+EGY,Egypt,rural,Hygiene,2015,85.36293,45149309.89847,Basic service
+EGY,Egypt,urban,Hygiene,2015,92.33094,36518312.9182,Basic service
+EGY,Egypt,total,Sanitation,2015,32.94365,30453950.89408,Basic service
+EGY,Egypt,rural,Sanitation,2015,36.06048,19072746.1445,Basic service
+EGY,Egypt,urban,Sanitation,2015,28.77563,11381204.58484,Basic service
+EGY,Egypt,total,Hygiene,2015,10.76288,9949483.99709,Limited service
+EGY,Egypt,rural,Hygiene,2015,14.37107,7601001.14104,Limited service
+EGY,Egypt,urban,Hygiene,2015,5.93778,2348482.66535,Limited service
+EGY,Egypt,total,Sanitation,2015,2.72716,2521054.45899,Limited service
+EGY,Egypt,rural,Sanitation,2015,3.89472,2059955.23647,Limited service
+EGY,Egypt,urban,Sanitation,2015,1.16582,461099.16081,Limited service
+EGY,Egypt,total,Drinking water,2015,0.28637,264730.06139,Limited service
+EGY,Egypt,rural,Drinking water,2015,0.41035,217036.2596,Limited service
+EGY,Egypt,urban,Drinking water,2015,0.12059,47693.79523,Limited service
+EGY,Egypt,total,Hygiene,2015,0.89292,825437.31862,No handwashing facility
+EGY,Egypt,rural,Hygiene,2015,0.266,140688.95799,No handwashing facility
+EGY,Egypt,urban,Hygiene,2015,1.73128,684748.43028,No handwashing facility
+EGY,Egypt,total,Sanitation,2015,0.10525,97294.16853,Open defecation
+EGY,Egypt,rural,Sanitation,2015,0.18395,97294.16437,Open defecation
+EGY,Egypt,urban,Sanitation,2015,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2015,62.86468,58113710.53805,Safely managed service
+EGY,Egypt,rural,Sanitation,2015,57.73209,30535079.31553,Safely managed service
+EGY,Egypt,urban,Sanitation,2015,69.72833,27578631.49379,Safely managed service
+EGY,Egypt,total,Drinking water,2015,0.01347,12452.09755,Surface water
+EGY,Egypt,rural,Drinking water,2015,0.02354,12452.09702,Surface water
+EGY,Egypt,urban,Drinking water,2015,0,0,Surface water
+EGY,Egypt,total,Sanitation,2015,1.35926,1256533.94035,Unimproved
+EGY,Egypt,rural,Sanitation,2015,2.12877,1125925.13912,Unimproved
+EGY,Egypt,urban,Sanitation,2015,0.33022,130608.76056,Unimproved
+EGY,Egypt,total,Drinking water,2015,0.59344,548590.87529,Unimproved
+EGY,Egypt,rural,Drinking water,2015,0.76423,404210.3904,Unimproved
+EGY,Egypt,urban,Drinking water,2015,0.36504,144380.47586,Unimproved
+EGY,Egypt,total,Drinking water,2016,99.18797,93680136.29586,At least basic
+EGY,Egypt,rural,Drinking water,2016,98.93082,53509648.66584,At least basic
+EGY,Egypt,urban,Drinking water,2016,99.53261,40170488.69616,At least basic
+EGY,Egypt,total,Hygiene,2016,89.82834,84840238.18386,Basic service
+EGY,Egypt,rural,Hygiene,2016,87.65689,47411813.00011,Basic service
+EGY,Egypt,urban,Hygiene,2016,92.73845,37428425.29479,Basic service
+EGY,Egypt,total,Sanitation,2016,32.38871,30590185.90612,Basic service
+EGY,Egypt,rural,Sanitation,2016,35.41331,19154333.14751,Basic service
+EGY,Egypt,urban,Sanitation,2016,28.33523,11435852.60395,Basic service
+EGY,Egypt,total,Hygiene,2016,9.50275,8975068.56975,Limited service
+EGY,Egypt,rural,Hygiene,2016,12.34311,6676134.99989,Limited service
+EGY,Egypt,urban,Hygiene,2016,5.69619,2298933.42461,Limited service
+EGY,Egypt,total,Sanitation,2016,2.50721,2367988.01331,Limited service
+EGY,Egypt,rural,Sanitation,2016,3.65454,1976663.31318,Limited service
+EGY,Egypt,urban,Sanitation,2016,0.96961,391324.64145,Limited service
+EGY,Egypt,total,Drinking water,2016,0.26187,247332.9974,Limited service
+EGY,Egypt,rural,Drinking water,2016,0.37272,201595.16766,Limited service
+EGY,Egypt,urban,Drinking water,2016,0.11333,45737.82407,Limited service
+EGY,Egypt,total,Hygiene,2016,0.66891,631765.25885,No handwashing facility
+EGY,Egypt,rural,Hygiene,2016,0,0,No handwashing facility
+EGY,Egypt,urban,Hygiene,2016,1.56536,631765.27462,No handwashing facility
+EGY,Egypt,total,Sanitation,2016,0.01921,18143.02747,Open defecation
+EGY,Egypt,rural,Sanitation,2016,0.03354,18143.02674,Open defecation
+EGY,Egypt,urban,Sanitation,2016,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2016,63.71986,60181541.01299,Safely managed service
+EGY,Egypt,rural,Sanitation,2016,58.724,31762604.48469,Safely managed service
+EGY,Egypt,urban,Sanitation,2016,70.41515,28418936.78377,Safely managed service
+EGY,Egypt,total,Drinking water,2016,0.01164,10991.30781,Surface water
+EGY,Egypt,rural,Drinking water,2016,0.02032,10991.30736,Surface water
+EGY,Egypt,urban,Drinking water,2016,0,0,Surface water
+EGY,Egypt,total,Sanitation,2016,1.36501,1289214.04011,Unimproved
+EGY,Egypt,rural,Sanitation,2016,2.17461,1176204.02788,Unimproved
+EGY,Egypt,urban,Sanitation,2016,0.28001,113009.97083,Unimproved
+EGY,Egypt,total,Drinking water,2016,0.53851,508611.44142,Unimproved
+EGY,Egypt,rural,Drinking water,2016,0.67614,365712.44397,Unimproved
+EGY,Egypt,urban,Drinking water,2016,0.35407,142898.99041,Unimproved
+EGY,Egypt,total,Drinking water,2017,99.26952,95738094.28778,At least basic
+EGY,Egypt,rural,Drinking water,2017,99.05983,54737276.13468,At least basic
+EGY,Egypt,urban,Drinking water,2017,99.55084,41000818.76595,At least basic
+EGY,Egypt,total,Hygiene,2017,89.82697,86631457.48505,Basic service
+EGY,Egypt,rural,Hygiene,2017,87.65689,48436378.28515,Basic service
+EGY,Egypt,urban,Hygiene,2017,92.73845,38195079.2077,Basic service
+EGY,Egypt,total,Sanitation,2017,31.8287,30696427.95839,Basic service
+EGY,Egypt,rural,Sanitation,2017,34.7623,19208528.58868,Basic service
+EGY,Egypt,urban,Sanitation,2017,27.89286,11487899.35916,Basic service
+EGY,Egypt,total,Hygiene,2017,9.50454,9166428.6623,Limited service
+EGY,Egypt,rural,Hygiene,2017,12.34311,6820405.71485,Limited service
+EGY,Egypt,urban,Hygiene,2017,5.69619,2346022.93724,Limited service
+EGY,Egypt,total,Sanitation,2017,2.28615,2204820.21309,Limited service
+EGY,Egypt,rural,Sanitation,2017,3.41383,1886373.10263,Limited service
+EGY,Egypt,urban,Sanitation,2017,0.7732,318447.1064,Limited service
+EGY,Egypt,total,Drinking water,2017,0.23724,228804.66301,Limited service
+EGY,Egypt,rural,Drinking water,2017,0.33502,185120.45621,Limited service
+EGY,Egypt,urban,Drinking water,2017,0.10607,43684.20645,Limited service
+EGY,Egypt,total,Hygiene,2017,0.66849,644705.85702,No handwashing facility
+EGY,Egypt,rural,Hygiene,2017,0,0,No handwashing facility
+EGY,Egypt,urban,Hygiene,2017,1.56536,644705.84896,No handwashing facility
+EGY,Egypt,total,Sanitation,2017,0,0,Open defecation
+EGY,Egypt,rural,Sanitation,2017,0,0,Open defecation
+EGY,Egypt,urban,Sanitation,2017,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2017,64.58176,62284319.37922,Safely managed service
+EGY,Egypt,rural,Sanitation,2017,59.72027,32999501.92015,Safely managed service
+EGY,Egypt,urban,Sanitation,2017,71.10415,29284817.47655,Safely managed service
+EGY,Egypt,total,Drinking water,2017,0.0098,9448.58505,Surface water
+EGY,Egypt,rural,Drinking water,2017,0.0171,9448.58502,Surface water
+EGY,Egypt,urban,Drinking water,2017,0,0,Surface water
+EGY,Egypt,total,Sanitation,2017,1.30339,1257024.4493,Unimproved
+EGY,Egypt,rural,Sanitation,2017,2.1036,1162380.38853,Unimproved
+EGY,Egypt,urban,Sanitation,2017,0.2298,94644.05789,Unimproved
+EGY,Egypt,total,Drinking water,2017,0.48344,466246.21193,Unimproved
+EGY,Egypt,rural,Drinking water,2017,0.58806,324940.42955,Unimproved
+EGY,Egypt,urban,Drinking water,2017,0.34309,141305.782,Unimproved
+EGY,Egypt,total,Drinking water,2018,99.32633,97760551.79318,At least basic
+EGY,Egypt,rural,Drinking water,2018,99.15083,55913915.16114,At least basic
+EGY,Egypt,urban,Drinking water,2018,99.56181,41846639.37059,At least basic
+EGY,Egypt,total,Hygiene,2018,89.82692,88410887.05444,Basic service
+EGY,Egypt,rural,Hygiene,2018,87.65689,49432160.55384,Basic service
+EGY,Egypt,urban,Hygiene,2018,92.73845,38978726.51386,Basic service
+EGY,Egypt,total,Sanitation,2018,31.26381,30770963.40164,Basic service
+EGY,Egypt,rural,Sanitation,2018,34.10744,19234135.37919,Basic service
+EGY,Egypt,urban,Sanitation,2018,27.4485,11536828.00507,Basic service
+EGY,Egypt,total,Hygiene,2018,9.50461,9354779.6837,Limited service
+EGY,Egypt,rural,Hygiene,2018,12.34311,6960623.44616,Limited service
+EGY,Egypt,urban,Hygiene,2018,5.69619,2394156.2202,Limited service
+EGY,Egypt,total,Sanitation,2018,2.064,2031463.99262,Limited service
+EGY,Egypt,rural,Sanitation,2018,3.1726,1789119.40949,Limited service
+EGY,Egypt,urban,Sanitation,2018,0.57659,242344.57636,Limited service
+EGY,Egypt,total,Drinking water,2018,0.23743,233685.2107,Limited service
+EGY,Egypt,rural,Drinking water,2018,0.33533,189099.82644,Limited service
+EGY,Egypt,urban,Drinking water,2018,0.10608,44585.38367,Limited service
+EGY,Egypt,total,Hygiene,2018,0.66847,657933.26089,No handwashing facility
+EGY,Egypt,rural,Hygiene,2018,0,0,No handwashing facility
+EGY,Egypt,urban,Hygiene,2018,1.56536,657933.25972,No handwashing facility
+EGY,Egypt,total,Sanitation,2018,0,0,Open defecation
+EGY,Egypt,rural,Sanitation,2018,0,0,Open defecation
+EGY,Egypt,urban,Sanitation,2018,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2018,65.45013,64418378.70593,Safely managed service
+EGY,Egypt,rural,Sanitation,2018,60.72092,34242216.15903,Safely managed service
+EGY,Egypt,urban,Sanitation,2018,71.79533,30176162.5758,Safely managed service
+EGY,Egypt,total,Drinking water,2018,0.00795,7825.99157,Surface water
+EGY,Egypt,rural,Drinking water,2018,0.01388,7825.99153,Surface water
+EGY,Egypt,urban,Drinking water,2018,0,0,Surface water
+EGY,Egypt,total,Sanitation,2018,1.22206,1202793.89981,Unimproved
+EGY,Egypt,rural,Sanitation,2018,1.99904,1127313.05229,Unimproved
+EGY,Egypt,urban,Sanitation,2018,0.17958,75480.84277,Unimproved
+EGY,Egypt,total,Drinking water,2018,0.42829,421536.98971,Unimproved
+EGY,Egypt,rural,Drinking water,2018,0.49997,281945.01928,Unimproved
+EGY,Egypt,urban,Drinking water,2018,0.33212,139591.96999,Unimproved
+EGY,Egypt,total,Drinking water,2019,99.38324,99768926.2229,At least basic
+EGY,Egypt,rural,Drinking water,2019,99.24183,57056362.37121,At least basic
+EGY,Egypt,urban,Drinking water,2019,99.57277,42712563.79587,At least basic
+EGY,Egypt,total,Hygiene,2019,89.82824,90176845.27378,Basic service
+EGY,Egypt,rural,Hygiene,2019,87.65689,50395920.00753,Basic service
+EGY,Egypt,urban,Hygiene,2019,92.73845,39780925.21919,Basic service
+EGY,Egypt,total,Sanitation,2019,30.69411,30813228.78172,Basic service
+EGY,Egypt,rural,Sanitation,2019,33.44874,19230431.24076,Basic service
+EGY,Egypt,urban,Sanitation,2019,27.00215,11582797.60067,Basic service
+EGY,Egypt,total,Hygiene,2019,9.50288,9539760.90042,Limited service
+EGY,Egypt,rural,Hygiene,2019,12.34311,7096331.99247,Limited service
+EGY,Egypt,urban,Hygiene,2019,5.69619,2443428.96951,Limited service
+EGY,Egypt,total,Sanitation,2019,1.84078,1847924.03424,Limited service
+EGY,Egypt,rural,Sanitation,2019,2.93085,1685013.73,Limited service
+EGY,Egypt,urban,Sanitation,2019,0.37978,162910.32786,Limited service
+EGY,Egypt,total,Drinking water,2019,0.23755,238471.55369,Limited service
+EGY,Egypt,rural,Drinking water,2019,0.33563,192963.57536,Limited service
+EGY,Egypt,urban,Drinking water,2019,0.10609,45507.98045,Limited service
+EGY,Egypt,total,Hygiene,2019,0.66888,671473.80067,No handwashing facility
+EGY,Egypt,rural,Hygiene,2019,0,0,No handwashing facility
+EGY,Egypt,urban,Hygiene,2019,1.56536,671473.80495,No handwashing facility
+EGY,Egypt,total,Sanitation,2019,0,0,Open defecation
+EGY,Egypt,rural,Sanitation,2019,0,0,Open defecation
+EGY,Egypt,urban,Sanitation,2019,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2019,66.32486,66582254.2789,Safely managed service
+EGY,Egypt,rural,Sanitation,2019,61.72593,35487629.00345,Safely managed service
+EGY,Egypt,urban,Sanitation,2019,72.48869,31094625.17577,Safely managed service
+EGY,Egypt,total,Drinking water,2019,0,0,Surface water
+EGY,Egypt,rural,Drinking water,2019,0,0,Surface water
+EGY,Egypt,urban,Drinking water,2019,0,0,Surface water
+EGY,Egypt,total,Sanitation,2019,1.14025,1144672.90514,Unimproved
+EGY,Egypt,rural,Sanitation,2019,1.89448,1089178.02579,Unimproved
+EGY,Egypt,urban,Sanitation,2019,0.12937,55494.8957,Unimproved
+EGY,Egypt,total,Drinking water,2019,0.37921,380680.98673,Unimproved
+EGY,Egypt,rural,Drinking water,2019,0.42253,242924.07139,Unimproved
+EGY,Egypt,urban,Drinking water,2019,0.32114,137756.91627,Unimproved
+EGY,Egypt,total,Drinking water,2020,99.44018,101761517.386,At least basic
+EGY,Egypt,rural,Drinking water,2020,99.33283,58162031.47957,At least basic
+EGY,Egypt,urban,Drinking water,2020,99.58373,43599482.92471,At least basic
+EGY,Egypt,total,Hygiene,2020,89.83093,91927953.50649,Basic service
+EGY,Egypt,rural,Hygiene,2020,87.65689,51325454.70514,Basic service
+EGY,Egypt,urban,Hygiene,2020,92.73845,40602498.84111,Basic service
+EGY,Egypt,total,Sanitation,2020,30.26444,30970939.287,Basic service
+EGY,Egypt,rural,Sanitation,2020,32.78618,19197187.61415,Basic service
+EGY,Egypt,urban,Sanitation,2020,26.89193,11773751.62672,Basic service
+EGY,Egypt,total,Hygiene,2020,9.49936,9721113.11425,Limited service
+EGY,Egypt,rural,Hygiene,2020,12.34311,7227221.29486,Limited service
+EGY,Egypt,urban,Hygiene,2020,5.69619,2493891.76738,Limited service
+EGY,Egypt,total,Sanitation,2020,1.61652,1654258.99306,Limited service
+EGY,Egypt,rural,Sanitation,2020,2.68858,1574236.24023,Limited service
+EGY,Egypt,urban,Sanitation,2020,0.18278,80022.73322,Limited service
+EGY,Egypt,total,Drinking water,2020,0.23761,243155.8746,Limited service
+EGY,Egypt,rural,Drinking water,2020,0.33594,196702.92682,Limited service
+EGY,Egypt,urban,Drinking water,2020,0.1061,46452.94598,Limited service
+EGY,Egypt,total,Hygiene,2020,0.66971,685341.365,No handwashing facility
+EGY,Egypt,rural,Hygiene,2020,0,0,No handwashing facility
+EGY,Egypt,urban,Hygiene,2020,1.56536,685341.38502,No handwashing facility
+EGY,Egypt,total,Sanitation,2020,0,0,Open defecation
+EGY,Egypt,rural,Sanitation,2020,0,0,Open defecation
+EGY,Egypt,urban,Sanitation,2020,0,0,Open defecation
+EGY,Egypt,total,Sanitation,2020,67.06103,68626507.98122,Safely managed service
+EGY,Egypt,rural,Sanitation,2020,62.73532,36733207.20593,Safely managed service
+EGY,Egypt,urban,Sanitation,2020,72.84614,31893300.85441,Safely managed service
+EGY,Egypt,total,Drinking water,2020,0,0,Surface water
+EGY,Egypt,rural,Drinking water,2020,0,0,Surface water
+EGY,Egypt,urban,Drinking water,2020,0,0,Surface water
+EGY,Egypt,total,Sanitation,2020,1.058,1082701.73872,Unimproved
+EGY,Egypt,rural,Sanitation,2020,1.78992,1048044.93969,Unimproved
+EGY,Egypt,urban,Sanitation,2020,0.07916,34656.78565,Unimproved
+EGY,Egypt,total,Drinking water,2020,0.32221,329736.73756,Unimproved
+EGY,Egypt,rural,Drinking water,2020,0.33122,193939.94871,Unimproved
+EGY,Egypt,urban,Drinking water,2020,0.31017,135796.78869,Unimproved
