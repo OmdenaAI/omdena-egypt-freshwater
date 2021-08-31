@@ -39,4 +39,4 @@
 - Water Extractors_cleaned: (formatted by year) source UNSD
 - Water Usage_cleaned: (formatted by year) source UNSD
 - Water Extraction_cleaned: (formatted by year) source UNSD
-- Fresh water renewable resource : (formatted by year) source WDI, contain total amout of extracted Fresh water renewable resource per year
+- Renewable internal freshwater resources per capita WDI Cleaned : (formatted by year) source WDI, contain total amout of extracted Fresh water renewable resource per year
